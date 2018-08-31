@@ -1,0 +1,247 @@
+{
+    "response_time": 2.5259671211242676,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1789
+                                },
+                                {
+                                    "x": 1789,
+                                    "y": 2684
+                                },
+                                {
+                                    "y": 2684
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 131,
+                                "green": 158,
+                                "red": 161
+                            },
+                            "pixelFraction": 0.0582,
+                            "score": 0.22089426
+                        },
+                        {
+                            "color": {
+                                "blue": 87,
+                                "green": 124,
+                                "red": 106
+                            },
+                            "pixelFraction": 0.027466666,
+                            "score": 0.19710237
+                        },
+                        {
+                            "color": {
+                                "blue": 231,
+                                "green": 237,
+                                "red": 232
+                            },
+                            "pixelFraction": 0.42233333,
+                            "score": 0.01584646
+                        },
+                        {
+                            "color": {
+                                "blue": 60,
+                                "green": 95,
+                                "red": 77
+                            },
+                            "pixelFraction": 0.0262,
+                            "score": 0.11331627
+                        },
+                        {
+                            "color": {
+                                "blue": 88,
+                                "green": 118,
+                                "red": 123
+                            },
+                            "pixelFraction": 0.020666666,
+                            "score": 0.08303966
+                        },
+                        {
+                            "color": {
+                                "blue": 58,
+                                "green": 85,
+                                "red": 92
+                            },
+                            "pixelFraction": 0.021533333,
+                            "score": 0.08151462
+                        },
+                        {
+                            "color": {
+                                "blue": 141,
+                                "green": 154,
+                                "red": 146
+                            },
+                            "pixelFraction": 0.049133334,
+                            "score": 0.05816549
+                        },
+                        {
+                            "color": {
+                                "blue": 122,
+                                "green": 158,
+                                "red": 143
+                            },
+                            "pixelFraction": 0.0082,
+                            "score": 0.046776164
+                        },
+                        {
+                            "color": {
+                                "blue": 119,
+                                "green": 127,
+                                "red": 116
+                            },
+                            "pixelFraction": 0.0226,
+                            "score": 0.031560943
+                        },
+                        {
+                            "color": {
+                                "blue": 155,
+                                "green": 186,
+                                "red": 190
+                            },
+                            "pixelFraction": 0.027133333,
+                            "score": 0.031338505
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.8953599,
+                    "topicality": 0.8953599
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.7342771,
+                    "topicality": 0.7342771
+                },
+                {
+                    "description": "water resources",
+                    "mid": "/m/015s2f",
+                    "score": 0.7234676,
+                    "topicality": 0.7234676
+                },
+                {
+                    "description": "water",
+                    "mid": "/m/0838f",
+                    "score": 0.7178239,
+                    "topicality": 0.7178239
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.65351903,
+                    "topicality": 0.65351903
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.554272,
+                    "topicality": 0.554272
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 713,
+                                "y": 558
+                            },
+                            {
+                                "x": 1315,
+                                "y": 558
+                            },
+                            {
+                                "x": 1315,
+                                "y": 643
+                            },
+                            {
+                                "x": 713,
+                                "y": 643
+                            }
+                        ]
+                    },
+                    "description": "Royal Caribbean Cruises Ltd.",
+                    "mid": "/m/038qps",
+                    "score": 0.25285792
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1274,
+                                "y": 543
+                            },
+                            {
+                                "x": 1425,
+                                "y": 543
+                            },
+                            {
+                                "x": 1425,
+                                "y": 647
+                            },
+                            {
+                                "x": 1274,
+                                "y": 647
+                            }
+                        ]
+                    },
+                    "description": "Laurier",
+                    "score": 0.20887603
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1415,
+                                "y": 558
+                            },
+                            {
+                                "x": 1526,
+                                "y": 558
+                            },
+                            {
+                                "x": 1526,
+                                "y": 650
+                            },
+                            {
+                                "x": 1415,
+                                "y": 650
+                            }
+                        ]
+                    },
+                    "description": "Montreux Equity Partners",
+                    "mid": "/g/1ptzrlh08",
+                    "score": 0.20731753
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

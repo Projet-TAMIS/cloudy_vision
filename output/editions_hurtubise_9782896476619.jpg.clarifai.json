@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:03:16.934035970Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.9940674
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_FWCjC8jZ",
+                        "name": "architecture",
+                        "value": 0.99261785
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8xrjRNnl",
+                        "name": "horizontal plane",
+                        "value": 0.96202064
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WBQfVV0p",
+                        "name": "city",
+                        "value": 0.9614106
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GjVpxXrs",
+                        "name": "street",
+                        "value": 0.9507654
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.937929
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZSKpCCHD",
+                        "name": "vertical",
+                        "value": 0.92796546
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.8963362
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lNsKfmXb",
+                        "name": "sky",
+                        "value": 0.88652253
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_h45ZTxZl",
+                        "name": "square",
+                        "value": 0.8716796
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9Dcdh0PK",
+                        "name": "house",
+                        "value": 0.8610281
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_bwrRvlpn",
+                        "name": "facade",
+                        "value": 0.841993
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.8384417
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_nfd9DXhN",
+                        "name": "tourism",
+                        "value": 0.82068807
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_m8rrtkhG",
+                        "name": "town",
+                        "value": 0.8008513
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VTlCx2f2",
+                        "name": "window",
+                        "value": 0.79979503
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TjbmxC6B",
+                        "name": "tree",
+                        "value": 0.79790276
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_41s912fX",
+                        "name": "fair weather",
+                        "value": 0.7835743
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_f3fsJS61",
+                        "name": "pavement",
+                        "value": 0.7682905
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.7403141
+                    }
+                ]
+            },
+            "id": "a1a6592dd14c46e69ceea2fae1adcaff",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/b4e2283915e0baf91fed3e330f6928b7"
+                    }
+                },
+                "id": "915cc1a843a342d8ba50258c66c823b4"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.0766890048980713,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

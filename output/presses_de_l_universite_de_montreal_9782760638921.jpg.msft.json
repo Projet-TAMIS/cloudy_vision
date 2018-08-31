@@ -1,0 +1,64 @@
+{
+    "adult": {
+        "adultScore": 0.029705077409744263,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.031980037689208984
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "text_",
+            "score": 0.52734375
+        },
+        {
+            "name": "text_menu",
+            "score": 0.22265625
+        }
+    ],
+    "color": {
+        "accentColor": "4C634C",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7998594454186715,
+                "text": "a close up of text on a white background"
+            }
+        ],
+        "tags": [
+            "text"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2687,
+        "width": 1802
+    },
+    "requestId": "a6afa13a-4cf9-4b27-a19f-ade4adfbcfcc",
+    "response_time": 3.1150319576263428,
+    "tags": [
+        {
+            "confidence": 0.9947039484977722,
+            "name": "text"
+        },
+        {
+            "confidence": 0.16341203451156616,
+            "name": "receipt"
+        }
+    ]
+}

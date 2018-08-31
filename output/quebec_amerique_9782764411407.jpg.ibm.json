@@ -1,0 +1,62 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "spatule",
+                            "score": 0.659,
+                            "type_hierarchy": "/ustensile/spatule"
+                        },
+                        {
+                            "class": "ustensile",
+                            "score": 0.906
+                        },
+                        {
+                            "class": "fourchette de table",
+                            "score": 0.621,
+                            "type_hierarchy": "/ustensile/vaisselle de table/fourchette de table"
+                        },
+                        {
+                            "class": "vaisselle de table",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "couteau de table",
+                            "score": 0.612,
+                            "type_hierarchy": "/outil/couvert/couteau/couteau de table"
+                        },
+                        {
+                            "class": "couteau",
+                            "score": 0.612
+                        },
+                        {
+                            "class": "couvert",
+                            "score": 0.632
+                        },
+                        {
+                            "class": "outil",
+                            "score": 0.632
+                        },
+                        {
+                            "class": "vaisselle",
+                            "score": 0.5,
+                            "type_hierarchy": "/ustensile/vaisselle"
+                        },
+                        {
+                            "class": "couleur gris cendr\u00e9",
+                            "score": 0.785
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764411407.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.383868932723999
+}

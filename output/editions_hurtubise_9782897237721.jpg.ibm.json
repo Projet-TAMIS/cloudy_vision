@@ -1,0 +1,62 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "veilleuse",
+                            "score": 0.638,
+                            "type_hierarchy": "/source de lumi\u00e8re/veilleuse"
+                        },
+                        {
+                            "class": "source de lumi\u00e8re",
+                            "score": 0.666
+                        },
+                        {
+                            "class": "pr\u00e9natal",
+                            "score": 0.565,
+                            "type_hierarchy": "/personne/pr\u00e9natal"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "magazine pulp",
+                            "score": 0.563,
+                            "type_hierarchy": "/magazine/magazine pulp"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.641
+                        },
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "couleur jaune citron",
+                            "score": 0.818
+                        },
+                        {
+                            "class": "couleur verd\u00e2tre",
+                            "score": 0.619
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897237721.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6926789283752441
+}

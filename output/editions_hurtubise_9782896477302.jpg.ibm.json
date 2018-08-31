@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "personne",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "\u00e9couteur t\u00e9l\u00e9phonique",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "livre",
+                            "score": 0.548
+                        },
+                        {
+                            "class": "chapeau",
+                            "score": 0.51,
+                            "type_hierarchy": "/coiffe/chapeau"
+                        },
+                        {
+                            "class": "coiffe",
+                            "score": 0.51
+                        },
+                        {
+                            "class": "veilleuse",
+                            "score": 0.5,
+                            "type_hierarchy": "/source de lumi\u00e8re/veilleuse"
+                        },
+                        {
+                            "class": "source de lumi\u00e8re",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.814
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896477302.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6665029525756836
+}

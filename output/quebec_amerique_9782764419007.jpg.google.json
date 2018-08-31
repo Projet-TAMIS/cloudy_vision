@@ -1,0 +1,221 @@
+{
+    "response_time": 2.1275010108947754,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1449
+                                },
+                                {
+                                    "y": 1449
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 94,
+                                "green": 191,
+                                "red": 222
+                            },
+                            "pixelFraction": 0.036763754,
+                            "score": 0.16941078
+                        },
+                        {
+                            "color": {
+                                "blue": 54,
+                                "green": 83,
+                                "red": 93
+                            },
+                            "pixelFraction": 0.09527508,
+                            "score": 0.122270025
+                        },
+                        {
+                            "color": {
+                                "blue": 91,
+                                "green": 153,
+                                "red": 176
+                            },
+                            "pixelFraction": 0.047961164,
+                            "score": 0.10602162
+                        },
+                        {
+                            "color": {
+                                "blue": 63,
+                                "green": 118,
+                                "red": 139
+                            },
+                            "pixelFraction": 0.06511327,
+                            "score": 0.102569245
+                        },
+                        {
+                            "color": {
+                                "blue": 68,
+                                "green": 155,
+                                "red": 186
+                            },
+                            "pixelFraction": 0.029255664,
+                            "score": 0.07369878
+                        },
+                        {
+                            "color": {
+                                "blue": 35,
+                                "green": 85,
+                                "red": 102
+                            },
+                            "pixelFraction": 0.041941747,
+                            "score": 0.068157785
+                        },
+                        {
+                            "color": {
+                                "blue": 81,
+                                "green": 113,
+                                "red": 127
+                            },
+                            "pixelFraction": 0.035210356,
+                            "score": 0.055765938
+                        },
+                        {
+                            "color": {
+                                "blue": 124,
+                                "green": 189,
+                                "red": 213
+                            },
+                            "pixelFraction": 0.018511327,
+                            "score": 0.051638626
+                        },
+                        {
+                            "color": {
+                                "blue": 29,
+                                "green": 56,
+                                "red": 65
+                            },
+                            "pixelFraction": 0.04394822,
+                            "score": 0.03855114
+                        },
+                        {
+                            "color": {
+                                "blue": 117,
+                                "green": 152,
+                                "red": 170
+                            },
+                            "pixelFraction": 0.01197411,
+                            "score": 0.020719776
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "yellow",
+                    "mid": "/m/088fh",
+                    "score": 0.93921554,
+                    "topicality": 0.93921554
+                },
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.92602277,
+                    "topicality": 0.92602277
+                },
+                {
+                    "description": "poster",
+                    "mid": "/m/01n5jq",
+                    "score": 0.85117924,
+                    "topicality": 0.85117924
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.74335295,
+                    "topicality": 0.74335295
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.65801644,
+                    "topicality": 0.65801644
+                },
+                {
+                    "description": "graphic design",
+                    "mid": "/m/03c31",
+                    "score": 0.55861956,
+                    "topicality": 0.55861956
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 651,
+                                "y": 1009
+                            },
+                            {
+                                "x": 828,
+                                "y": 1009
+                            },
+                            {
+                                "x": 828,
+                                "y": 1062
+                            },
+                            {
+                                "x": 651,
+                                "y": 1062
+                            }
+                        ]
+                    },
+                    "description": "20 Minutes",
+                    "score": 0.20763817
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 309,
+                                "y": 1008
+                            },
+                            {
+                                "x": 666,
+                                "y": 1008
+                            },
+                            {
+                                "x": 666,
+                                "y": 1180
+                            },
+                            {
+                                "x": 309,
+                                "y": 1180
+                            }
+                        ]
+                    },
+                    "description": "True Crime (1999)",
+                    "score": 0.1846317
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

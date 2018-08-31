@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "femme qui attend un b\u00e9b\u00e9",
+                            "score": 0.815,
+                            "type_hierarchy": "/personne/femelle/femme/femme qui attend un b\u00e9b\u00e9"
+                        },
+                        {
+                            "class": "femme",
+                            "score": 0.816
+                        },
+                        {
+                            "class": "femelle",
+                            "score": 0.818
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.865
+                        },
+                        {
+                            "class": "ventre",
+                            "score": 0.508,
+                            "type_hierarchy": "/forme convexe/ventre"
+                        },
+                        {
+                            "class": "forme convexe",
+                            "score": 0.508
+                        },
+                        {
+                            "class": "agent d'entretien",
+                            "score": 0.5,
+                            "type_hierarchy": "/personne/ouvrier/manoeuvre/agent d'entretien"
+                        },
+                        {
+                            "class": "manoeuvre",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ouvrier",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "habillement",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "couleur jaune citron",
+                            "score": 0.99
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764426593.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.606520891189575
+}

@@ -1,0 +1,61 @@
+{
+    "adult": {
+        "adultScore": 0.3621090054512024,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.37852364778518677
+    },
+    "categories": [],
+    "color": {
+        "accentColor": "AD891E",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Yellow"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5142692175959453,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "sitting",
+            "table",
+            "old",
+            "black",
+            "computer",
+            "stuffed",
+            "bird",
+            "bear"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2373,
+        "width": 1400
+    },
+    "requestId": "979d6f0c-716c-4d1b-98ee-cd1c65cc8dd4",
+    "response_time": 2.481584072113037,
+    "tags": [
+        {
+            "confidence": 0.999762237071991,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9992823004722595,
+            "name": "book"
+        }
+    ]
+}

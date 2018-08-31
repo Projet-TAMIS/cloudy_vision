@@ -1,0 +1,54 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.26042175292969,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.26042175292969,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.26042175292969,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 56.80442428588867,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 55.683101654052734,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 55.683101654052734,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 55.683101654052734,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 55.683101654052734,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 50.58311080932617,
+            "Name": "Accessories"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "493",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:07:49 GMT",
+            "x-amzn-requestid": "6e894222-a198-11e8-bca7-8fe83cfb2020"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6e894222-a198-11e8-bca7-8fe83cfb2020",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.8291687965393066
+}

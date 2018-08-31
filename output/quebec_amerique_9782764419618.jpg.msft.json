@@ -1,0 +1,61 @@
+{
+    "adult": {
+        "adultScore": 0.006749993190169334,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.010215729475021362
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "text_sign",
+            "score": 0.546875
+        }
+    ],
+    "color": {
+        "accentColor": "048CC7",
+        "dominantColorBackground": "Red",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Red",
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8893191703791126,
+                "text": "a close up of text on a white background"
+            }
+        ],
+        "tags": [
+            "text"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 776,
+        "width": 582
+    },
+    "requestId": "0bcdbcfd-80ce-4ad4-a5c3-1ca1c506ebcd",
+    "response_time": 2.565432071685791,
+    "tags": [
+        {
+            "confidence": 0.3945199251174927,
+            "name": "screenshot"
+        },
+        {
+            "confidence": 0.17779436707496643,
+            "name": "businesscard"
+        }
+    ]
+}

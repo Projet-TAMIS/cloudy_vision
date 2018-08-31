@@ -1,0 +1,82 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "gazette",
+                            "score": 0.657,
+                            "type_hierarchy": "/moyen/journal/gazette"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.701
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.701
+                        },
+                        {
+                            "class": "bo\u00eete de dialogue",
+                            "score": 0.596,
+                            "type_hierarchy": "/dispositif \u00e9lectronique/\u00e9cran vid\u00e9o/fen\u00eatre/bo\u00eete de dialogue"
+                        },
+                        {
+                            "class": "fen\u00eatre",
+                            "score": 0.643
+                        },
+                        {
+                            "class": "\u00e9cran vid\u00e9o",
+                            "score": 0.643
+                        },
+                        {
+                            "class": "dispositif \u00e9lectronique",
+                            "score": 0.643
+                        },
+                        {
+                            "class": "site Web",
+                            "score": 0.528,
+                            "type_hierarchy": "/machine/ordinateur/site Web"
+                        },
+                        {
+                            "class": "ordinateur",
+                            "score": 0.604
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.604
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.52
+                        },
+                        {
+                            "class": "espace de discussion sur l'Internet",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/ordinateur/espace de discussion sur l'Internet"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "couleur noir",
+                            "score": 0.9
+                        },
+                        {
+                            "class": "couleur noir charbon",
+                            "score": 0.885
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_xyz_9782892617313.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.332170009613037
+}

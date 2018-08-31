@@ -1,0 +1,90 @@
+{
+    "adult": {
+        "adultScore": 0.004791005980223417,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.006438271142542362
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0234375
+        }
+    ],
+    "color": {
+        "accentColor": "2B89A0",
+        "dominantColorBackground": "Teal",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Teal"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7951813200499793,
+                "text": "a car parked in a parking lot"
+            }
+        ],
+        "tags": [
+            "car",
+            "parked",
+            "sitting",
+            "front",
+            "parking",
+            "old",
+            "small",
+            "street",
+            "side",
+            "lot",
+            "bed",
+            "green",
+            "truck",
+            "sign",
+            "standing",
+            "driving",
+            "luggage",
+            "meter",
+            "suitcase",
+            "blue"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1500,
+        "width": 1000
+    },
+    "requestId": "38a02076-30b9-4db7-8569-8d022b0add2e",
+    "response_time": 1.5475008487701416,
+    "tags": [
+        {
+            "confidence": 0.9989349246025085,
+            "name": "car"
+        },
+        {
+            "confidence": 0.709715723991394,
+            "name": "transport"
+        },
+        {
+            "confidence": 0.7053917646408081,
+            "name": "parked"
+        },
+        {
+            "confidence": 0.06599888205528259,
+            "name": "curb"
+        }
+    ]
+}

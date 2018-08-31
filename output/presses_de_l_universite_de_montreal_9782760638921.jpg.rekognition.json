@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 82.06494903564453,
+            "Name": "Diploma"
+        },
+        {
+            "Confidence": 82.06494903564453,
+            "Name": "Document"
+        },
+        {
+            "Confidence": 82.06494903564453,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 72.62528228759766,
+            "Name": "Letter"
+        },
+        {
+            "Confidence": 65.5664291381836,
+            "Name": "License"
+        },
+        {
+            "Confidence": 51.19662857055664,
+            "Name": "Label"
+        },
+        {
+            "Confidence": 51.198612213134766,
+            "Name": "Page"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "354",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:15:05 GMT",
+            "x-amzn-requestid": "717b8abd-a199-11e8-ba1c-5d41e01b8742"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "717b8abd-a199-11e8-ba1c-5d41e01b8742",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.691655158996582
+}

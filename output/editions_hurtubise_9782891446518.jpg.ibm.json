@@ -1,0 +1,62 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "CD-ROM",
+                            "score": 0.895,
+                            "type_hierarchy": "/p\u00e9riph\u00e9rique de stockage/CD-ROM"
+                        },
+                        {
+                            "class": "p\u00e9riph\u00e9rique de stockage",
+                            "score": 0.956
+                        },
+                        {
+                            "class": "disque",
+                            "score": 0.691,
+                            "type_hierarchy": "/cercle/disque"
+                        },
+                        {
+                            "class": "cercle",
+                            "score": 0.691
+                        },
+                        {
+                            "class": "vid\u00e9odisque, DVD",
+                            "score": 0.55,
+                            "type_hierarchy": "/p\u00e9riph\u00e9rique de stockage/vid\u00e9odisque, DVD"
+                        },
+                        {
+                            "class": "CD-R",
+                            "score": 0.5,
+                            "type_hierarchy": "/p\u00e9riph\u00e9rique de stockage/CD-R"
+                        },
+                        {
+                            "class": "enregistrement",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "forme ronde",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur jaune citron",
+                            "score": 0.535
+                        },
+                        {
+                            "class": "couleur bleu vert",
+                            "score": 0.506
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782891446518.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.6424520015716553
+}

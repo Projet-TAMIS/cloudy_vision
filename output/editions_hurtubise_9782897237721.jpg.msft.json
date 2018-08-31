@@ -1,0 +1,58 @@
+{
+    "adult": {
+        "adultScore": 0.09278268367052078,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.11367863416671753
+    },
+    "categories": [
+        {
+            "name": "abstract_rect",
+            "score": 0.3828125
+        },
+        {
+            "name": "others_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "AEA31D",
+        "dominantColorBackground": "Teal",
+        "dominantColorForeground": "Green",
+        "dominantColors": [
+            "Black",
+            "Teal",
+            "Green"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [],
+        "tags": [
+            "text",
+            "book",
+            "green",
+            "sitting",
+            "computer",
+            "man"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1765,
+        "width": 1000
+    },
+    "requestId": "856ea32e-1fe0-44ac-9fc6-f1b820524ddb",
+    "response_time": 1.3569037914276123,
+    "tags": [
+        {
+            "confidence": 0.9292446970939636,
+            "name": "text"
+        }
+    ]
+}

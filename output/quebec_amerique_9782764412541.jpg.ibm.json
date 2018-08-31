@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.886,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.961
+                        },
+                        {
+                            "class": "magazine pulp",
+                            "score": 0.709,
+                            "type_hierarchy": "/magazine/magazine pulp"
+                        },
+                        {
+                            "class": "couverture de livre",
+                            "score": 0.5,
+                            "type_hierarchy": "/papier cadeau/couverture de livre"
+                        },
+                        {
+                            "class": "papier cadeau",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur rouge indien",
+                            "score": 0.822
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 0.542
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764412541.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.278879165649414
+}

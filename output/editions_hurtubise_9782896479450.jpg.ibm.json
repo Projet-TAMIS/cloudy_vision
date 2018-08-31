@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "couverture de livre",
+                            "score": 0.859,
+                            "type_hierarchy": "/papier cadeau/couverture de livre"
+                        },
+                        {
+                            "class": "papier cadeau",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "papier (timbres/devises)",
+                            "score": 0.836,
+                            "type_hierarchy": "/document \u00e9crit/papier (timbres/devises)"
+                        },
+                        {
+                            "class": "document \u00e9crit",
+                            "score": 0.838
+                        },
+                        {
+                            "class": "m\u00e9morial",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.789
+                        },
+                        {
+                            "class": "couleur brun clair",
+                            "score": 0.937
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896479450.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.934912919998169
+}

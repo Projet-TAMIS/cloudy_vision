@@ -1,0 +1,62 @@
+{
+    "Labels": [
+        {
+            "Confidence": 75.98115539550781,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 63.23025894165039,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 60.15190887451172,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 60.15190887451172,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 60.15190887451172,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 56.04949188232422,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 56.04949188232422,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 55.74866485595703,
+            "Name": "Collage"
+        },
+        {
+            "Confidence": 51.667396545410156,
+            "Name": "Airmail"
+        },
+        {
+            "Confidence": 51.667396545410156,
+            "Name": "Envelope"
+        },
+        {
+            "Confidence": 51.667396545410156,
+            "Name": "Mail"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "592",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:04:16 GMT",
+            "x-amzn-requestid": "eef6df30-a197-11e8-b427-c531d84ae521"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "eef6df30-a197-11e8-b427-c531d84ae521",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.3697011470794678
+}

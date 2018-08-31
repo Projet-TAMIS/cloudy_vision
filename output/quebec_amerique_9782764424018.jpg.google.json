@@ -1,0 +1,222 @@
+{
+    "response_time": 2.040703058242798,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1413
+                                },
+                                {
+                                    "x": 1413,
+                                    "y": 2399
+                                },
+                                {
+                                    "y": 2399
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 239,
+                                "green": 228,
+                                "red": 224
+                            },
+                            "pixelFraction": 0.15742424,
+                            "score": 0.32068396
+                        },
+                        {
+                            "color": {
+                                "blue": 69,
+                                "green": 41,
+                                "red": 70
+                            },
+                            "pixelFraction": 0.009166666,
+                            "score": 0.014335926
+                        },
+                        {
+                            "color": {
+                                "blue": 132,
+                                "green": 140,
+                                "red": 184
+                            },
+                            "pixelFraction": 0.0031060607,
+                            "score": 0.0104945395
+                        },
+                        {
+                            "color": {
+                                "blue": 115,
+                                "green": 110,
+                                "red": 148
+                            },
+                            "pixelFraction": 0.004469697,
+                            "score": 0.00972326
+                        },
+                        {
+                            "color": {
+                                "blue": 238,
+                                "green": 221,
+                                "red": 208
+                            },
+                            "pixelFraction": 0.090833336,
+                            "score": 0.2017953
+                        },
+                        {
+                            "color": {
+                                "blue": 224,
+                                "green": 203,
+                                "red": 189
+                            },
+                            "pixelFraction": 0.41469696,
+                            "score": 0.20158942
+                        },
+                        {
+                            "color": {
+                                "blue": 189,
+                                "green": 161,
+                                "red": 137
+                            },
+                            "pixelFraction": 0.18287879,
+                            "score": 0.10515186
+                        },
+                        {
+                            "color": {
+                                "blue": 219,
+                                "green": 207,
+                                "red": 202
+                            },
+                            "pixelFraction": 0.033636365,
+                            "score": 0.03837678
+                        },
+                        {
+                            "color": {
+                                "blue": 141,
+                                "green": 113,
+                                "red": 134
+                            },
+                            "pixelFraction": 0.0059848484,
+                            "score": 0.008676338
+                        },
+                        {
+                            "color": {
+                                "blue": 145,
+                                "green": 121,
+                                "red": 114
+                            },
+                            "pixelFraction": 0.028257575,
+                            "score": 0.008328658
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "sky",
+                    "mid": "/m/01bqvp",
+                    "score": 0.9313044,
+                    "topicality": 0.9313044
+                },
+                {
+                    "description": "cloud",
+                    "mid": "/m/0csby",
+                    "score": 0.83180416,
+                    "topicality": 0.83180416
+                },
+                {
+                    "description": "air travel",
+                    "mid": "/m/025t3bg",
+                    "score": 0.75592464,
+                    "topicality": 0.75592464
+                },
+                {
+                    "description": "daytime",
+                    "mid": "/m/02q7ylj",
+                    "score": 0.7513955,
+                    "topicality": 0.7513955
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.7111205,
+                    "topicality": 0.7111205
+                },
+                {
+                    "description": "heart",
+                    "mid": "/m/07bg4p",
+                    "score": 0.64464283,
+                    "topicality": 0.64464283
+                },
+                {
+                    "description": "windsports",
+                    "mid": "/m/041q5g",
+                    "score": 0.62394977,
+                    "topicality": 0.62394977
+                },
+                {
+                    "description": "air sports",
+                    "mid": "/m/07wpp2",
+                    "score": 0.58161324,
+                    "topicality": 0.58161324
+                },
+                {
+                    "description": "love",
+                    "mid": "/m/048knlz",
+                    "score": 0.5726029,
+                    "topicality": 0.5726029
+                },
+                {
+                    "description": "computer wallpaper",
+                    "mid": "/m/03w43x",
+                    "score": 0.52219963,
+                    "topicality": 0.52219963
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 878,
+                                "y": 255
+                            },
+                            {
+                                "x": 1173,
+                                "y": 255
+                            },
+                            {
+                                "x": 1173,
+                                "y": 564
+                            },
+                            {
+                                "x": 878,
+                                "y": 564
+                            }
+                        ]
+                    },
+                    "description": "Freewavz",
+                    "mid": "/g/11b6dg80vb",
+                    "score": 0.3761859
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

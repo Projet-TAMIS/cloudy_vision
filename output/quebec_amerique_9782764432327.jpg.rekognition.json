@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.96600341796875,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.96598815917969,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.96600341796875,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 60.18922805786133,
+            "Name": "Hair"
+        },
+        {
+            "Confidence": 60.18922805786133,
+            "Name": "Haircut"
+        },
+        {
+            "Confidence": 59.759925842285156,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 59.759925842285156,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 59.759925842285156,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 59.759925842285156,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 59.23630142211914,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 59.23630142211914,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 54.88521957397461,
+            "Name": "Head"
+        },
+        {
+            "Confidence": 51.45429992675781,
+            "Name": "Dimples"
+        },
+        {
+            "Confidence": 50.75870132446289,
+            "Name": "Page"
+        },
+        {
+            "Confidence": 50.75870132446289,
+            "Name": "Text"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "744",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:25:49 GMT",
+            "x-amzn-requestid": "f1e2faf1-a19a-11e8-9276-eb303f05f763"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "f1e2faf1-a19a-11e8-9276-eb303f05f763",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.7176408767700195
+}

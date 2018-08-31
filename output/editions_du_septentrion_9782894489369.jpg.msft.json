@@ -1,0 +1,87 @@
+{
+    "adult": {
+        "adultScore": 0.10954239219427109,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.12483006715774536
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_sign",
+            "score": 0.40625
+        }
+    ],
+    "color": {
+        "accentColor": "A1702A",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.728220675644416,
+                "text": "a person holding a sign"
+            }
+        ],
+        "tags": [
+            "person",
+            "text",
+            "man",
+            "photo",
+            "woman",
+            "cellphone",
+            "sign",
+            "phone",
+            "holding",
+            "wearing",
+            "standing",
+            "talking",
+            "hat",
+            "people",
+            "street",
+            "swinging",
+            "player"
+        ]
+    },
+    "faces": [
+        {
+            "age": 58,
+            "faceRectangle": {
+                "height": 238,
+                "left": 179,
+                "top": 627,
+                "width": 238
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2400,
+        "width": 1500
+    },
+    "requestId": "d0b564ca-15be-428e-ae95-d1b87eec2bfb",
+    "response_time": 3.3488378524780273,
+    "tags": [
+        {
+            "confidence": 0.9349995851516724,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9016549587249756,
+            "name": "text"
+        }
+    ]
+}

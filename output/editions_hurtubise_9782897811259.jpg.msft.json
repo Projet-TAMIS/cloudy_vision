@@ -1,0 +1,68 @@
+{
+    "adult": {
+        "adultScore": 0.010491054505109787,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.012248202227056026
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        }
+    ],
+    "color": {
+        "accentColor": "C1B70A",
+        "dominantColorBackground": "Red",
+        "dominantColorForeground": "Red",
+        "dominantColors": [
+            "Red",
+            "Yellow",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4277006642851827,
+                "text": "a black and red text"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "black",
+            "sitting",
+            "girl",
+            "woman",
+            "red",
+            "holding",
+            "hydrant",
+            "sign"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2211,
+        "width": 1400
+    },
+    "requestId": "b362a646-7a2b-4a33-8d33-7fde09857513",
+    "response_time": 3.538753032684326,
+    "tags": [
+        {
+            "confidence": 0.9941413998603821,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9893155097961426,
+            "name": "book"
+        }
+    ]
+}

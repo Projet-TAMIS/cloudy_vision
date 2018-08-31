@@ -1,0 +1,53 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.30337524414062,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 98.30337524414062,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 98.30337524414062,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 98.30337524414062,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 68.79768371582031,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 68.79768371582031,
+            "Name": "Modern Art"
+        },
+        {
+            "Confidence": 56.58135223388672,
+            "Name": "Graphic Design"
+        },
+        {
+            "Confidence": 50.962646484375,
+            "Name": "Sign"
+        },
+        {
+            "Confidence": 50.520652770996094,
+            "Name": "Text"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "457",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:09:09 GMT",
+            "x-amzn-requestid": "9ce1e211-a198-11e8-9d74-51ba0bfe48cf"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "9ce1e211-a198-11e8-9d74-51ba0bfe48cf",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.694632053375244
+}

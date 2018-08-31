@@ -1,0 +1,47 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "a\u00e9rogare",
+                            "score": 0.928
+                        },
+                        {
+                            "class": "Promenade",
+                            "score": 0.555
+                        },
+                        {
+                            "class": "Quai de station de m\u00e9tro",
+                            "score": 0.5,
+                            "type_hierarchy": "/quai/Quai de station de m\u00e9tro"
+                        },
+                        {
+                            "class": "quai",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "int\u00e9rieur",
+                            "score": 0.793
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.844
+                        },
+                        {
+                            "class": "couleur bleu pourpre",
+                            "score": 0.717
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760627130.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5559258460998535
+}

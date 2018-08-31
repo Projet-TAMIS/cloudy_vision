@@ -1,0 +1,95 @@
+{
+    "adult": {
+        "adultScore": 0.009294824674725533,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011717851273715496
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.05859375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        },
+        {
+            "name": "text_sign",
+            "score": 0.109375
+        }
+    ],
+    "color": {
+        "accentColor": "833B2D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7177595132049831,
+                "text": "a person standing in front of a brick building"
+            }
+        ],
+        "tags": [
+            "building",
+            "outdoor",
+            "snow",
+            "brick",
+            "man",
+            "sitting",
+            "front",
+            "red",
+            "old",
+            "sign",
+            "truck",
+            "bear",
+            "fire",
+            "street",
+            "standing",
+            "riding",
+            "parked",
+            "stuffed",
+            "skiing",
+            "bed",
+            "hydrant"
+        ]
+    },
+    "faces": [
+        {
+            "age": 23,
+            "faceRectangle": {
+                "height": 64,
+                "left": 276,
+                "top": 627,
+                "width": 64
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2100,
+        "width": 1400
+    },
+    "requestId": "423aa9f9-942d-479e-b9e1-a6b4f8f8c34c",
+    "response_time": 6.630430221557617,
+    "tags": [
+        {
+            "confidence": 0.9981330037117004,
+            "name": "building"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "tirelire",
+                            "score": 0.586
+                        },
+                        {
+                            "class": "puzzle",
+                            "score": 0.549
+                        },
+                        {
+                            "class": "bonbon croquant",
+                            "score": 0.529,
+                            "type_hierarchy": "/aliment/nutrition/gourmandise/sucr\u00e9/bonbon/bonbon croquant"
+                        },
+                        {
+                            "class": "bonbon",
+                            "score": 0.612
+                        },
+                        {
+                            "class": "sucr\u00e9",
+                            "score": 0.612
+                        },
+                        {
+                            "class": "gourmandise",
+                            "score": 0.615
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.616
+                        },
+                        {
+                            "class": "aliment",
+                            "score": 0.616
+                        },
+                        {
+                            "class": "porcelaine",
+                            "score": 0.514,
+                            "type_hierarchy": "/ustensile/porcelaine"
+                        },
+                        {
+                            "class": "ustensile",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "barrette (\u00e9pingle \u00e0 cheveux)",
+                            "score": 0.512,
+                            "type_hierarchy": "/retenue (cha\u00eenes)/moyen d'assemblage/\u00e9pingle/barrette (\u00e9pingle \u00e0 cheveux)"
+                        },
+                        {
+                            "class": "\u00e9pingle",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "moyen d'assemblage",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "retenue (cha\u00eenes)",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "sucette",
+                            "score": 0.5,
+                            "type_hierarchy": "/aliment/nutrition/gourmandise/sucr\u00e9/bonbon/sucette"
+                        },
+                        {
+                            "class": "instrument de musique",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 1
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764418413.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.971626043319702
+}

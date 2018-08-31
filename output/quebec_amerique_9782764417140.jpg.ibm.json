@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine pulp",
+                            "score": 0.806,
+                            "type_hierarchy": "/magazine/magazine pulp"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.807
+                        },
+                        {
+                            "class": "Atelier d'artiste",
+                            "score": 0.626,
+                            "type_hierarchy": "/int\u00e9rieur/Atelier d'artiste"
+                        },
+                        {
+                            "class": "int\u00e9rieur",
+                            "score": 0.779
+                        },
+                        {
+                            "class": "peinture",
+                            "score": 0.548
+                        },
+                        {
+                            "class": "galerie d'art",
+                            "score": 0.5,
+                            "type_hierarchy": "/int\u00e9rieur/galerie d'art"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur alb\u00e2tre",
+                            "score": 0.873
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764417140.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.3265459537506104
+}

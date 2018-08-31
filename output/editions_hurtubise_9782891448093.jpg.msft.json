@@ -1,0 +1,48 @@
+{
+    "adult": {
+        "adultScore": 0.009301732294261456,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.012740968726575375
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.02734375
+        },
+        {
+            "name": "text_sign",
+            "score": 0.18359375
+        }
+    ],
+    "color": {
+        "accentColor": "B71422",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [],
+        "tags": [
+            "box",
+            "sign",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2162,
+        "width": 1400
+    },
+    "requestId": "9a2a1a34-bd51-48ec-9ff3-9e7b6eb15e07",
+    "response_time": 2.2994439601898193,
+    "tags": []
+}

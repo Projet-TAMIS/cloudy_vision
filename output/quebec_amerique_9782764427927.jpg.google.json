@@ -1,0 +1,165 @@
+{
+    "response_time": 2.608860969543457,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2099
+                                },
+                                {
+                                    "y": 2099
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 99,
+                                "green": 119,
+                                "red": 132
+                            },
+                            "pixelFraction": 0.085266665,
+                            "score": 0.13809069
+                        },
+                        {
+                            "color": {
+                                "blue": 109,
+                                "green": 119,
+                                "red": 126
+                            },
+                            "pixelFraction": 0.082,
+                            "score": 0.1228045
+                        },
+                        {
+                            "color": {
+                                "blue": 129,
+                                "green": 152,
+                                "red": 166
+                            },
+                            "pixelFraction": 0.0666,
+                            "score": 0.10510919
+                        },
+                        {
+                            "color": {
+                                "blue": 142,
+                                "green": 154,
+                                "red": 157
+                            },
+                            "pixelFraction": 0.0622,
+                            "score": 0.097464524
+                        },
+                        {
+                            "color": {
+                                "blue": 64,
+                                "green": 84,
+                                "red": 96
+                            },
+                            "pixelFraction": 0.040666666,
+                            "score": 0.07266756
+                        },
+                        {
+                            "color": {
+                                "blue": 34,
+                                "green": 50,
+                                "red": 63
+                            },
+                            "pixelFraction": 0.032266665,
+                            "score": 0.06377031
+                        },
+                        {
+                            "color": {
+                                "blue": 162,
+                                "green": 189,
+                                "red": 203
+                            },
+                            "pixelFraction": 0.042866666,
+                            "score": 0.061963025
+                        },
+                        {
+                            "color": {
+                                "blue": 180,
+                                "green": 193,
+                                "red": 191
+                            },
+                            "pixelFraction": 0.041333333,
+                            "score": 0.061083622
+                        },
+                        {
+                            "color": {
+                                "blue": 75,
+                                "green": 83,
+                                "red": 90
+                            },
+                            "pixelFraction": 0.04,
+                            "score": 0.0556363
+                        },
+                        {
+                            "color": {
+                                "blue": 42,
+                                "green": 50,
+                                "red": 58
+                            },
+                            "pixelFraction": 0.037133332,
+                            "score": 0.05549714
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "poster",
+                    "mid": "/m/01n5jq",
+                    "score": 0.86996317,
+                    "topicality": 0.86996317
+                },
+                {
+                    "description": "leg",
+                    "mid": "/m/035r7c",
+                    "score": 0.8303606,
+                    "topicality": 0.8303606
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.66785824,
+                    "topicality": 0.66785824
+                },
+                {
+                    "description": "human leg",
+                    "mid": "/m/09w5r",
+                    "score": 0.5698846,
+                    "topicality": 0.5698846
+                },
+                {
+                    "description": "painting",
+                    "mid": "/m/05qdh",
+                    "score": 0.5628261,
+                    "topicality": 0.5628261
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "POSSIBLE",
+                "medical": "UNLIKELY",
+                "racy": "VERY_LIKELY",
+                "spoof": "LIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

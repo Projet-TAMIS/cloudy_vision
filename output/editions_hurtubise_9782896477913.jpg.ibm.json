@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "noix de cajou",
+                            "score": 0.75,
+                            "type_hierarchy": "/fruit/graine/noix/noix de cajou"
+                        },
+                        {
+                            "class": "noix",
+                            "score": 0.75
+                        },
+                        {
+                            "class": "graine",
+                            "score": 0.75
+                        },
+                        {
+                            "class": "fruit",
+                            "score": 0.75
+                        },
+                        {
+                            "class": "pr\u00e9natal",
+                            "score": 0.56,
+                            "type_hierarchy": "/personne/pr\u00e9natal"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.56
+                        },
+                        {
+                            "class": "\u00e9ponge",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invert\u00e9br\u00e9/\u00e9ponge"
+                        },
+                        {
+                            "class": "invert\u00e9br\u00e9",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "aliment",
+                            "score": 0.595
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.991
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896477913.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6278319358825684
+}

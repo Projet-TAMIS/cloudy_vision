@@ -1,0 +1,73 @@
+{
+    "adult": {
+        "adultScore": 0.027443666011095047,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.031586553901433945
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.27734375
+        }
+    ],
+    "color": {
+        "accentColor": "0886BF",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7225262148183529,
+                "text": "a pile of snow"
+            }
+        ],
+        "tags": [
+            "nature",
+            "snow",
+            "sitting",
+            "covered",
+            "skiing",
+            "bird",
+            "sign",
+            "man",
+            "mountain",
+            "pile",
+            "large",
+            "standing",
+            "bed",
+            "street",
+            "slope",
+            "riding",
+            "people"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 800,
+        "width": 600
+    },
+    "requestId": "6fb1b39d-6dfa-4cef-9efa-8aea12ffc565",
+    "response_time": 1.582082986831665,
+    "tags": [
+        {
+            "confidence": 0.8864969611167908,
+            "name": "nature"
+        },
+        {
+            "confidence": 0.8416194319725037,
+            "name": "ice"
+        }
+    ]
+}

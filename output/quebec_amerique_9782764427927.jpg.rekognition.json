@@ -1,0 +1,101 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.24915313720703,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.24906921386719,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.24915313720703,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 98.111083984375,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 98.111083984375,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 93.08287811279297,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 76.39005279541016,
+            "Name": "Ankle"
+        },
+        {
+            "Confidence": 65.51231384277344,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 65.51231384277344,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 65.51231384277344,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 52.877540588378906,
+            "Name": "Dirt Road"
+        },
+        {
+            "Confidence": 52.877540588378906,
+            "Name": "Gravel"
+        },
+        {
+            "Confidence": 52.877540588378906,
+            "Name": "Road"
+        },
+        {
+            "Confidence": 52.69095993041992,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 52.69095993041992,
+            "Name": "Footwear"
+        },
+        {
+            "Confidence": 52.34945297241211,
+            "Name": "Bling"
+        },
+        {
+            "Confidence": 52.34945297241211,
+            "Name": "Jewelry"
+        },
+        {
+            "Confidence": 52.34945297241211,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 51.33212661743164,
+            "Name": "Apparel"
+        },
+        {
+            "Confidence": 50.97600173950195,
+            "Name": "Lingerie"
+        },
+        {
+            "Confidence": 50.97600173950195,
+            "Name": "Underwear"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "1050",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:24:32 GMT",
+            "x-amzn-requestid": "c387c2fa-a19a-11e8-87b2-9d4d8033cd98"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c387c2fa-a19a-11e8-87b2-9d4d8033cd98",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.1748790740966797
+}

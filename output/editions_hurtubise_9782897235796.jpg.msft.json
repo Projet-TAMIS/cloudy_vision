@@ -1,0 +1,64 @@
+{
+    "adult": {
+        "adultScore": 0.016863007098436356,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.06629452109336853
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "A26F29",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.2868250246206159,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2137,
+        "width": 1400
+    },
+    "requestId": "4fda9d68-2bd7-4f77-a8d1-7e1a78f5a54e",
+    "response_time": 2.331770896911621,
+    "tags": [
+        {
+            "confidence": 0.9881850481033325,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9437891244888306,
+            "name": "book"
+        }
+    ]
+}

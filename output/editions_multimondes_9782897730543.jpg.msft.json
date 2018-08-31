@@ -1,0 +1,82 @@
+{
+    "adult": {
+        "adultScore": 0.023732438683509827,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0288431104272604
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.015625
+        },
+        {
+            "name": "sky_cloud",
+            "score": 0.30078125
+        }
+    ],
+    "color": {
+        "accentColor": "B12A1A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4812027800967394,
+                "text": "a group of people riding skis on a snowy mountain"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "water",
+            "mountain",
+            "snow",
+            "hill",
+            "man",
+            "riding",
+            "red",
+            "people",
+            "surfing",
+            "large",
+            "skiing",
+            "boat",
+            "air",
+            "wave",
+            "flying",
+            "group",
+            "field",
+            "blue",
+            "slope",
+            "standing",
+            "ocean"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2164,
+        "width": 1400
+    },
+    "requestId": "9e74af0a-f7ec-454e-b072-e1ed93d774d3",
+    "response_time": 2.4909069538116455,
+    "tags": [
+        {
+            "confidence": 0.8755429983139038,
+            "name": "outdoor"
+        }
+    ]
+}

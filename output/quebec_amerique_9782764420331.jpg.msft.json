@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.007649229373782873,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.010602299124002457
+    },
+    "categories": [
+        {
+            "name": "text_mag",
+            "score": 0.94140625
+        }
+    ],
+    "color": {
+        "accentColor": "C78504",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Yellow",
+            "Orange"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4117235280973499,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "sign"
+        ]
+    },
+    "faces": [
+        {
+            "age": 53,
+            "faceRectangle": {
+                "height": 228,
+                "left": 178,
+                "top": 416,
+                "width": 228
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 776,
+        "width": 582
+    },
+    "requestId": "e041c7c6-8a24-4a3f-974b-6c122d402867",
+    "response_time": 1.3818581104278564,
+    "tags": [
+        {
+            "confidence": 0.9997352957725525,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9983170032501221,
+            "name": "book"
+        }
+    ]
+}

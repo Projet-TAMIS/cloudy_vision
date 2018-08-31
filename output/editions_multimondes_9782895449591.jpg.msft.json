@@ -1,0 +1,50 @@
+{
+    "adult": {
+        "adultScore": 0.033502887934446335,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.036976054310798645
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "AE1D2B",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8721172935264436,
+                "text": "a screenshot of a cell phone"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2992,
+        "width": 2340
+    },
+    "requestId": "16e380dd-f0e9-45fc-8f53-9636b3368b06",
+    "response_time": 1.9802348613739014,
+    "tags": [
+        {
+            "confidence": 0.34581702947616577,
+            "name": "screenshot"
+        }
+    ]
+}

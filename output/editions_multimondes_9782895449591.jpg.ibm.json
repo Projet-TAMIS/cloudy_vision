@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.565,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.706
+                        },
+                        {
+                            "class": "gazette",
+                            "score": 0.5,
+                            "type_hierarchy": "/moyen/journal/gazette"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.567
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.567
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "habillement",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "couleur gris",
+                            "score": 0.596
+                        },
+                        {
+                            "class": "couleur vert sauge",
+                            "score": 0.514
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_multimondes_9782895449591.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.3725388050079346
+}

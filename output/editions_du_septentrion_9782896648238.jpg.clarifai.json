@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-17T11:48:11.232218523Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.9915204
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.9887885
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9bHlLt8r",
+                        "name": "paper",
+                        "value": 0.9887171
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.9884227
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ScMLg2G9",
+                        "name": "postcard",
+                        "value": 0.98451084
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KJZC1RDL",
+                        "name": "antique",
+                        "value": 0.9711983
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1VSx3n1w",
+                        "name": "card",
+                        "value": 0.96900165
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_MKSwLDhD",
+                        "name": "print",
+                        "value": 0.9650245
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JBPqff8z",
+                        "name": "art",
+                        "value": 0.96450263
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RSQn1mZW",
+                        "name": "post",
+                        "value": 0.95190823
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dLBr2Ssb",
+                        "name": "letter",
+                        "value": 0.94922745
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GTvMbVGh",
+                        "name": "ancient",
+                        "value": 0.9475722
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jlMHXl32",
+                        "name": "historic",
+                        "value": 0.93697965
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QrcQWGwJ",
+                        "name": "painting",
+                        "value": 0.9339391
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M78jFpM2",
+                        "name": "text",
+                        "value": 0.93113476
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8Q7rrSPw",
+                        "name": "stamp",
+                        "value": 0.93082714
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dm5GLXnB",
+                        "name": "illustration",
+                        "value": 0.9287763
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_b7NNQdBZ",
+                        "name": "message",
+                        "value": 0.9262478
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdcbGVpV",
+                        "name": "picture frame",
+                        "value": 0.918706
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HzmSJZZq",
+                        "name": "document",
+                        "value": 0.9154749
+                    }
+                ]
+            },
+            "id": "9662bb3a1181462a90d1b891bed31a89",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/ce1944f7a8eb352fe7419ded9c815405"
+                    }
+                },
+                "id": "c66312524a644b7da6169d4f418cfbc8"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.918727159500122,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

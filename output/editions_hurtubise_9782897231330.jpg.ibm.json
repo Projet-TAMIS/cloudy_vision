@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "papier (timbres/devises)",
+                            "score": 0.753,
+                            "type_hierarchy": "/document \u00e9crit/papier (timbres/devises)"
+                        },
+                        {
+                            "class": "document \u00e9crit",
+                            "score": 0.753
+                        },
+                        {
+                            "class": "cellule",
+                            "score": 0.537
+                        },
+                        {
+                            "class": "appareil orthodontique (dentaire)",
+                            "score": 0.521,
+                            "type_hierarchy": "/appareil dentaire/appareil orthodontique (dentaire)"
+                        },
+                        {
+                            "class": "appareil dentaire",
+                            "score": 0.528
+                        },
+                        {
+                            "class": "veine",
+                            "score": 0.5,
+                            "type_hierarchy": "/personne/veine"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "couleur sanguine (rouge)",
+                            "score": 0.781
+                        },
+                        {
+                            "class": "couleur brun rouge",
+                            "score": 0.653
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897231330.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.5850768089294434
+}

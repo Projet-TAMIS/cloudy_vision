@@ -1,0 +1,53 @@
+{
+    "adult": {
+        "adultScore": 0.023787546902894974,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02812894433736801
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.015625
+        }
+    ],
+    "color": {
+        "accentColor": "770137",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5515515440405039,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1500,
+        "width": 1000
+    },
+    "requestId": "6948ca42-9358-4bc9-a603-6df2982f10bf",
+    "response_time": 1.6144680976867676,
+    "tags": [
+        {
+            "confidence": 0.9347691535949707,
+            "name": "text"
+        }
+    ]
+}

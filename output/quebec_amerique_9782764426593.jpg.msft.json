@@ -1,0 +1,91 @@
+{
+    "adult": {
+        "adultScore": 0.006625777576118708,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.010274081490933895
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "AC921F",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9361416014878334,
+                "text": "a woman in a yellow dress"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "yellow",
+            "woman",
+            "standing",
+            "looking",
+            "holding",
+            "girl",
+            "front",
+            "young",
+            "dress",
+            "table",
+            "wearing",
+            "cake",
+            "room",
+            "shirt",
+            "man",
+            "white",
+            "people",
+            "kitchen"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2100,
+        "width": 1400
+    },
+    "requestId": "957c60c6-5243-4321-b897-41a2882488c8",
+    "response_time": 1.9569578170776367,
+    "tags": [
+        {
+            "confidence": 0.9967443943023682,
+            "name": "person"
+        },
+        {
+            "confidence": 0.8888936638832092,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8554379940032959,
+            "name": "yellow"
+        }
+    ]
+}

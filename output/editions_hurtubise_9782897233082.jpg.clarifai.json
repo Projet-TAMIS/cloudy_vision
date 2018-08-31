@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:06:17.256393008Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.9727158
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8xrjRNnl",
+                        "name": "horizontal plane",
+                        "value": 0.92907834
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Xxjc3MhT",
+                        "name": "transportation system",
+                        "value": 0.88636094
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.8699958
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.8242862
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_FWCjC8jZ",
+                        "name": "architecture",
+                        "value": 0.812012
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GjVpxXrs",
+                        "name": "street",
+                        "value": 0.8062734
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2hGN5HMx",
+                        "name": "cloud",
+                        "value": 0.8048868
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.7737188
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TjbmxC6B",
+                        "name": "tree",
+                        "value": 0.7718626
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.7636065
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M78jFpM2",
+                        "name": "text",
+                        "value": 0.75391304
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P9f3vfGr",
+                        "name": "cavalry",
+                        "value": 0.74125123
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.7308836
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZSKpCCHD",
+                        "name": "vertical",
+                        "value": 0.72067475
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tBcWlsCp",
+                        "name": "nature",
+                        "value": 0.7201494
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WBQfVV0p",
+                        "name": "city",
+                        "value": 0.71865714
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_3jQg3f2h",
+                        "name": "cart",
+                        "value": 0.7147193
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vfV1Zf9w",
+                        "name": "horizontal",
+                        "value": 0.7133781
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_FsT0Zqdb",
+                        "name": "summer",
+                        "value": 0.6762665
+                    }
+                ]
+            },
+            "id": "4240533029704ba69886c2d3466008ad",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/153ad829550dc8c401dcf8c45a0ab309"
+                    }
+                },
+                "id": "53569eee21584f09be0ec243daea7ad0"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.390331983566284,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

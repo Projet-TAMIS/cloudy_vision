@@ -1,0 +1,71 @@
+{
+    "adult": {
+        "adultScore": 0.10725070536136627,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.11461260169744492
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "0A4CA0",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "Blue",
+        "dominantColors": [
+            "Blue"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.32275787055733113,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "sitting",
+            "table",
+            "small",
+            "blue",
+            "holding",
+            "laying",
+            "sign"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1310,
+        "width": 1000
+    },
+    "requestId": "4e45b589-ecc0-4fd2-8d39-ad1ae4398eed",
+    "response_time": 1.3948280811309814,
+    "tags": [
+        {
+            "confidence": 0.9984095692634583,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9892809987068176,
+            "name": "book"
+        }
+    ]
+}

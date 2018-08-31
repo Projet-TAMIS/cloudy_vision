@@ -1,0 +1,168 @@
+{
+    "response_time": 1.7373840808868408,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2161
+                                },
+                                {
+                                    "y": 2161
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 20,
+                                "green": 23,
+                                "red": 23
+                            },
+                            "pixelFraction": 0.22405498,
+                            "score": 0.4527838
+                        },
+                        {
+                            "color": {
+                                "blue": 235,
+                                "green": 242,
+                                "red": 244
+                            },
+                            "pixelFraction": 0.6371134,
+                            "score": 0.062427826
+                        },
+                        {
+                            "color": {
+                                "blue": 46,
+                                "green": 50,
+                                "red": 50
+                            },
+                            "pixelFraction": 0.041786943,
+                            "score": 0.16914392
+                        },
+                        {
+                            "color": {
+                                "blue": 81,
+                                "green": 86,
+                                "red": 85
+                            },
+                            "pixelFraction": 0.03890034,
+                            "score": 0.12911433
+                        },
+                        {
+                            "color": {
+                                "blue": 112,
+                                "green": 117,
+                                "red": 117
+                            },
+                            "pixelFraction": 0.021993127,
+                            "score": 0.10469742
+                        },
+                        {
+                            "color": {
+                                "blue": 147,
+                                "green": 154,
+                                "red": 154
+                            },
+                            "pixelFraction": 0.018419243,
+                            "score": 0.054374218
+                        },
+                        {
+                            "color": {
+                                "blue": 185,
+                                "green": 193,
+                                "red": 193
+                            },
+                            "pixelFraction": 0.017731959,
+                            "score": 0.027458504
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.93161094,
+                    "topicality": 0.93161094
+                },
+                {
+                    "description": "chin",
+                    "mid": "/m/0f9swq",
+                    "score": 0.8754443,
+                    "topicality": 0.8754443
+                },
+                {
+                    "description": "nose",
+                    "mid": "/m/0k0pj",
+                    "score": 0.87058854,
+                    "topicality": 0.87058854
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.83518976,
+                    "topicality": 0.83518976
+                },
+                {
+                    "description": "forehead",
+                    "mid": "/m/025kyy",
+                    "score": 0.7516512,
+                    "topicality": 0.7516512
+                },
+                {
+                    "description": "close up",
+                    "mid": "/m/02cqfm",
+                    "score": 0.7137074,
+                    "topicality": 0.7137074
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.70007265,
+                    "topicality": 0.70007265
+                },
+                {
+                    "description": "jaw",
+                    "mid": "/m/01k9lj",
+                    "score": 0.6709243,
+                    "topicality": 0.6709243
+                },
+                {
+                    "description": "brand",
+                    "mid": "/m/01cd9",
+                    "score": 0.5980796,
+                    "topicality": 0.5980796
+                },
+                {
+                    "description": "monochrome photography",
+                    "mid": "/m/03d49p1",
+                    "score": 0.58064306,
+                    "topicality": 0.58064306
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

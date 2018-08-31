@@ -1,0 +1,64 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "chambre noire",
+                            "score": 0.722,
+                            "type_hierarchy": "/int\u00e9rieur/chambre noire"
+                        },
+                        {
+                            "class": "int\u00e9rieur",
+                            "score": 0.722
+                        },
+                        {
+                            "class": "clavi\u00e9riste",
+                            "score": 0.719,
+                            "type_hierarchy": "/personne/artiste de spectacle/musicien/clavi\u00e9riste"
+                        },
+                        {
+                            "class": "musicien",
+                            "score": 0.72
+                        },
+                        {
+                            "class": "artiste de spectacle",
+                            "score": 0.72
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.72
+                        },
+                        {
+                            "class": "gens",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "instrument de musique",
+                            "score": 0.59
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "habillement",
+                            "score": 0.593
+                        },
+                        {
+                            "class": "couleur rouge fonc\u00e9",
+                            "score": 0.974
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764435267.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 11.574795007705688
+}

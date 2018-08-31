@@ -1,0 +1,90 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.37210083007812,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.37203979492188,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.37210083007812,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 94.00501251220703,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 86.5771255493164,
+            "Name": "Birthday Cake"
+        },
+        {
+            "Confidence": 86.5771255493164,
+            "Name": "Cake"
+        },
+        {
+            "Confidence": 86.5771255493164,
+            "Name": "Dessert"
+        },
+        {
+            "Confidence": 86.5771255493164,
+            "Name": "Food"
+        },
+        {
+            "Confidence": 76.66596984863281,
+            "Name": "Doll"
+        },
+        {
+            "Confidence": 76.66596984863281,
+            "Name": "Toy"
+        },
+        {
+            "Confidence": 75.94599914550781,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 75.94599914550781,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 75.94599914550781,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 51.57789611816406,
+            "Name": "Chair"
+        },
+        {
+            "Confidence": 51.57789611816406,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 50.65913772583008,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 50.59745788574219,
+            "Name": "Cushion"
+        },
+        {
+            "Confidence": 50.59745788574219,
+            "Name": "Home Decor"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "928",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:18:32 GMT",
+            "x-amzn-requestid": "eca9cfbf-a199-11e8-827a-efefa9dfdf54"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "eca9cfbf-a199-11e8-827a-efefa9dfdf54",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.1790099143981934
+}

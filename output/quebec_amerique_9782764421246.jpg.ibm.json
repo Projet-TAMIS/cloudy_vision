@@ -1,0 +1,49 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "glacier",
+                            "score": 0.943,
+                            "type_hierarchy": "/nature/masse de glace/glacier"
+                        },
+                        {
+                            "class": "masse de glace",
+                            "score": 0.981
+                        },
+                        {
+                            "class": "nature",
+                            "score": 0.981
+                        },
+                        {
+                            "class": "glacier polaire",
+                            "score": 0.501,
+                            "type_hierarchy": "/nature/masse de glace/glacier/glacier polaire"
+                        },
+                        {
+                            "class": "Plate-forme glaciaire",
+                            "score": 0.5,
+                            "type_hierarchy": "/nature/masse de glace/Plate-forme glaciaire"
+                        },
+                        {
+                            "class": "couleur vert jade",
+                            "score": 0.825
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.792
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764421246.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.3460259437561035
+}

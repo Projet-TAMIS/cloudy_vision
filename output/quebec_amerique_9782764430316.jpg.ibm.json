@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "attach\u00e9 militaire",
+                            "score": 0.784,
+                            "type_hierarchy": "/personne/attach\u00e9 militaire"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.831
+                        },
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.507,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.519
+                        },
+                        {
+                            "class": "officier militaire",
+                            "score": 0.5,
+                            "type_hierarchy": "/personne/milicien/officier militaire"
+                        },
+                        {
+                            "class": "milicien",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur bleu d'outremer",
+                            "score": 0.837
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.657
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764430316.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.3492538928985596
+}

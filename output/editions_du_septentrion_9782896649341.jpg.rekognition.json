@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.39642333984375,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.39636993408203,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.39642333984375,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 90.9714584350586,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 90.9714584350586,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 86.9906997680664,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 86.9906997680664,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 86.9906997680664,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 86.9906997680664,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 63.886260986328125,
+            "Name": "Blackboard"
+        },
+        {
+            "Confidence": 53.01400375366211,
+            "Name": "Banner"
+        },
+        {
+            "Confidence": 53.01400375366211,
+            "Name": "Text"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "595",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 20:59:21 GMT",
+            "x-amzn-requestid": "3f058563-a197-11e8-87b9-e1ce455de937"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "3f058563-a197-11e8-87b9-e1ce455de937",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.270962953567505
+}

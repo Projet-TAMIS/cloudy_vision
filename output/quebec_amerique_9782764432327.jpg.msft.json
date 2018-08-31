@@ -1,0 +1,71 @@
+{
+    "adult": {
+        "adultScore": 0.7189450860023499,
+        "isAdultContent": true,
+        "isRacyContent": true,
+        "racyScore": 0.7610946893692017
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_mag",
+            "score": 0.79296875
+        }
+    ],
+    "color": {
+        "accentColor": "A02B46",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6862847087857865,
+                "text": "a screen shot of a social media post"
+            }
+        ],
+        "tags": [
+            "text",
+            "sitting",
+            "white",
+            "old",
+            "screen"
+        ]
+    },
+    "faces": [
+        {
+            "age": 21,
+            "faceRectangle": {
+                "height": 177,
+                "left": 724,
+                "top": 684,
+                "width": 177
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1800,
+        "width": 1200
+    },
+    "requestId": "c8e8dbf2-7724-4c7f-9b2b-7a657fdd24d9",
+    "response_time": 1.7561171054840088,
+    "tags": [
+        {
+            "confidence": 0.9674054980278015,
+            "name": "text"
+        }
+    ]
+}

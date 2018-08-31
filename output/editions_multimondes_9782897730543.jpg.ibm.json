@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "glacier polaire",
+                            "score": 0.728,
+                            "type_hierarchy": "/nature/masse de glace/glacier/glacier polaire"
+                        },
+                        {
+                            "class": "glacier",
+                            "score": 0.732
+                        },
+                        {
+                            "class": "masse de glace",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "nature",
+                            "score": 0.916
+                        },
+                        {
+                            "class": "banquise flottante",
+                            "score": 0.727,
+                            "type_hierarchy": "/nature/masse de glace/banquise flottante"
+                        },
+                        {
+                            "class": "plan d'eau gel\u00e9",
+                            "score": 0.503,
+                            "type_hierarchy": "/nature/plan d'eau gel\u00e9"
+                        },
+                        {
+                            "class": "laitue iceberg",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "bateau",
+                            "score": 0.791
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "sport",
+                            "score": 0.787
+                        },
+                        {
+                            "class": "couleur azur",
+                            "score": 0.888
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.847
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_multimondes_9782897730543.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.9216699600219727
+}

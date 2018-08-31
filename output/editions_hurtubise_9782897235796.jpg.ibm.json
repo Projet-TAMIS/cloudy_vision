@@ -1,0 +1,49 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine",
+                            "score": 0.949
+                        },
+                        {
+                            "class": "magazine de luxe",
+                            "score": 0.653,
+                            "type_hierarchy": "/magazine/magazine de luxe"
+                        },
+                        {
+                            "class": "annonceur",
+                            "score": 0.58,
+                            "type_hierarchy": "/personne/annonceur"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.58
+                        },
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur rose",
+                            "score": 0.996
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897235796.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 4.224485874176025
+}

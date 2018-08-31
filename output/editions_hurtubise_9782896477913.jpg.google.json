@@ -1,0 +1,210 @@
+{
+    "response_time": 1.553257942199707,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1309
+                                },
+                                {
+                                    "y": 1309
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 183,
+                                "green": 152,
+                                "red": 119
+                            },
+                            "pixelFraction": 0.033275362,
+                            "score": 0.10749483
+                        },
+                        {
+                            "color": {
+                                "blue": 160,
+                                "green": 195,
+                                "red": 213
+                            },
+                            "pixelFraction": 0.023304347,
+                            "score": 0.08572677
+                        },
+                        {
+                            "color": {
+                                "blue": 155,
+                                "green": 76,
+                                "red": 25
+                            },
+                            "pixelFraction": 0.55327535,
+                            "score": 0.025640965
+                        },
+                        {
+                            "color": {
+                                "blue": 162,
+                                "green": 131,
+                                "red": 101
+                            },
+                            "pixelFraction": 0.025971014,
+                            "score": 0.10627029
+                        },
+                        {
+                            "color": {
+                                "blue": 176,
+                                "green": 125,
+                                "red": 90
+                            },
+                            "pixelFraction": 0.036289856,
+                            "score": 0.09062471
+                        },
+                        {
+                            "color": {
+                                "blue": 30,
+                                "green": 95,
+                                "red": 175
+                            },
+                            "pixelFraction": 0.00011594203,
+                            "score": 0.0008616356
+                        },
+                        {
+                            "color": {
+                                "blue": 138,
+                                "green": 194,
+                                "red": 220
+                            },
+                            "pixelFraction": 0.031014493,
+                            "score": 0.08109143
+                        },
+                        {
+                            "color": {
+                                "blue": 188,
+                                "green": 223,
+                                "red": 241
+                            },
+                            "pixelFraction": 0.011246377,
+                            "score": 0.059495986
+                        },
+                        {
+                            "color": {
+                                "blue": 203,
+                                "green": 151,
+                                "red": 113
+                            },
+                            "pixelFraction": 0.020463768,
+                            "score": 0.03938075
+                        },
+                        {
+                            "color": {
+                                "blue": 125,
+                                "green": 158,
+                                "red": 170
+                            },
+                            "pixelFraction": 0.01594203,
+                            "score": 0.03878641
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.94740325,
+                    "topicality": 0.94740325
+                },
+                {
+                    "description": "organism",
+                    "mid": "/m/05nnm",
+                    "score": 0.82539654,
+                    "topicality": 0.82539654
+                },
+                {
+                    "description": "angel",
+                    "mid": "/m/0x6r",
+                    "score": 0.663447,
+                    "topicality": 0.663447
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.65056175,
+                    "topicality": 0.65056175
+                },
+                {
+                    "description": "fictional character",
+                    "mid": "/m/02h7lkt",
+                    "score": 0.64397234,
+                    "topicality": 0.64397234
+                },
+                {
+                    "description": "jaw",
+                    "mid": "/m/01k9lj",
+                    "score": 0.5708863,
+                    "topicality": 0.5708863
+                },
+                {
+                    "description": "supernatural creature",
+                    "mid": "/g/1196b301f",
+                    "score": 0.5549486,
+                    "topicality": 0.5549486
+                },
+                {
+                    "description": "mythical creature",
+                    "mid": "/m/05cfj6x",
+                    "score": 0.53415275,
+                    "topicality": 0.53415275
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 158,
+                                "y": 125
+                            },
+                            {
+                                "x": 485,
+                                "y": 125
+                            },
+                            {
+                                "x": 485,
+                                "y": 175
+                            },
+                            {
+                                "x": 158,
+                                "y": 175
+                            }
+                        ]
+                    },
+                    "description": "Auberge Chaneac",
+                    "mid": "/g/1ty83m_t",
+                    "score": 0.18317938
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

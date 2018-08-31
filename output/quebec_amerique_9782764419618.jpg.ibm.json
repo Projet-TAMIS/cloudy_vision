@@ -1,0 +1,55 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "dictionnaire de bureau",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "lexique",
+                            "score": 0.543
+                        },
+                        {
+                            "class": "site Web",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/ordinateur/site Web"
+                        },
+                        {
+                            "class": "ordinateur",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "p\u00e9riph\u00e9rique de stockage",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 0.57
+                        },
+                        {
+                            "class": "couleur rouge fonc\u00e9",
+                            "score": 0.524
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764419618.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4713289737701416
+}

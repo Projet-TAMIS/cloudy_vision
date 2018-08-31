@@ -1,0 +1,51 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "document \u00e9crit",
+                            "score": 0.816
+                        },
+                        {
+                            "class": "fen\u00eatre",
+                            "score": 0.694,
+                            "type_hierarchy": "/dispositif \u00e9lectronique/\u00e9cran vid\u00e9o/fen\u00eatre"
+                        },
+                        {
+                            "class": "\u00e9cran vid\u00e9o",
+                            "score": 0.694
+                        },
+                        {
+                            "class": "dispositif \u00e9lectronique",
+                            "score": 0.694
+                        },
+                        {
+                            "class": "papier",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "ordinateur",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "couleur gris",
+                            "score": 0.94
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760638921.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 4.695823907852173
+}

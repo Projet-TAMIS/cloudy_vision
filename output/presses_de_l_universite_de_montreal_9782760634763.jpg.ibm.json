@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "crayon",
+                            "score": 0.67,
+                            "type_hierarchy": "/figure/crayon"
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.732
+                        },
+                        {
+                            "class": "triangle",
+                            "score": 0.524,
+                            "type_hierarchy": "/figure/polygone/triangle"
+                        },
+                        {
+                            "class": "polygone",
+                            "score": 0.524
+                        },
+                        {
+                            "class": "site Web",
+                            "score": 0.501,
+                            "type_hierarchy": "/machine/ordinateur/site Web"
+                        },
+                        {
+                            "class": "ordinateur",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "papier",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "drapeau",
+                            "score": 0.596
+                        },
+                        {
+                            "class": "outil d'\u00e9criture",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 0.873
+                        },
+                        {
+                            "class": "couleur jaune citron",
+                            "score": 0.631
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760634763.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.340826988220215
+}

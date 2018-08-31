@@ -1,0 +1,222 @@
+{
+    "response_time": 1.170206069946289,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2218
+                                },
+                                {
+                                    "y": 2218
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 151,
+                                "green": 155,
+                                "red": 159
+                            },
+                            "pixelFraction": 0.03922807,
+                            "score": 0.19592568
+                        },
+                        {
+                            "color": {
+                                "blue": 11,
+                                "green": 9,
+                                "red": 8
+                            },
+                            "pixelFraction": 0.19838597,
+                            "score": 0.18395819
+                        },
+                        {
+                            "color": {
+                                "blue": 116,
+                                "green": 119,
+                                "red": 122
+                            },
+                            "pixelFraction": 0.036,
+                            "score": 0.17883602
+                        },
+                        {
+                            "color": {
+                                "blue": 190,
+                                "green": 194,
+                                "red": 196
+                            },
+                            "pixelFraction": 0.039929826,
+                            "score": 0.16605988
+                        },
+                        {
+                            "color": {
+                                "blue": 239,
+                                "green": 241,
+                                "red": 241
+                            },
+                            "pixelFraction": 0.656,
+                            "score": 0.13763042
+                        },
+                        {
+                            "color": {
+                                "blue": 82,
+                                "green": 85,
+                                "red": 88
+                            },
+                            "pixelFraction": 0.017333332,
+                            "score": 0.0812169
+                        },
+                        {
+                            "color": {
+                                "blue": 53,
+                                "green": 54,
+                                "red": 56
+                            },
+                            "pixelFraction": 0.012350877,
+                            "score": 0.044672415
+                        },
+                        {
+                            "color": {
+                                "blue": 137,
+                                "green": 120,
+                                "red": 117
+                            },
+                            "pixelFraction": 0.00028070176,
+                            "score": 0.0048778984
+                        },
+                        {
+                            "color": {
+                                "blue": 108,
+                                "green": 92,
+                                "red": 89
+                            },
+                            "pixelFraction": 0.00028070176,
+                            "score": 0.0038046855
+                        },
+                        {
+                            "color": {
+                                "blue": 79,
+                                "green": 64,
+                                "red": 62
+                            },
+                            "pixelFraction": 0.00021052631,
+                            "score": 0.0030179147
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "cat",
+                    "mid": "/m/01yrx",
+                    "score": 0.9850653,
+                    "topicality": 0.9850653
+                },
+                {
+                    "description": "mammal",
+                    "mid": "/m/04rky",
+                    "score": 0.92557716,
+                    "topicality": 0.92557716
+                },
+                {
+                    "description": "small to medium sized cats",
+                    "mid": "/m/07k6w8",
+                    "score": 0.92210084,
+                    "topicality": 0.92210084
+                },
+                {
+                    "description": "cat like mammal",
+                    "mid": "/m/0307l",
+                    "score": 0.9161026,
+                    "topicality": 0.9161026
+                },
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.894397,
+                    "topicality": 0.894397
+                },
+                {
+                    "description": "whiskers",
+                    "mid": "/m/01l7qd",
+                    "score": 0.8802457,
+                    "topicality": 0.8802457
+                },
+                {
+                    "description": "photo caption",
+                    "mid": "/m/0b75wg4",
+                    "score": 0.86783284,
+                    "topicality": 0.86783284
+                },
+                {
+                    "description": "snout",
+                    "mid": "/m/05mqq3",
+                    "score": 0.7374183,
+                    "topicality": 0.7374183
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.688374,
+                    "topicality": 0.688374
+                },
+                {
+                    "description": "carnivoran",
+                    "mid": "/m/01lrl",
+                    "score": 0.5933589,
+                    "topicality": 0.5933589
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 591,
+                                "y": 620
+                            },
+                            {
+                                "x": 840,
+                                "y": 620
+                            },
+                            {
+                                "x": 840,
+                                "y": 774
+                            },
+                            {
+                                "x": 591,
+                                "y": 774
+                            }
+                        ]
+                    },
+                    "description": "University of Texas Medical Branch",
+                    "mid": "/g/1wrgl193",
+                    "score": 0.1698403
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "POSSIBLE",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

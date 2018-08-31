@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.735,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.736
+                        },
+                        {
+                            "class": "\u00e9toile",
+                            "score": 0.711,
+                            "type_hierarchy": "/figure/\u00e9toile"
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.711
+                        },
+                        {
+                            "class": "boule puante",
+                            "score": 0.523,
+                            "type_hierarchy": "/engin explosif/bombe/boule puante"
+                        },
+                        {
+                            "class": "bombe",
+                            "score": 0.569
+                        },
+                        {
+                            "class": "engin explosif",
+                            "score": 0.569
+                        },
+                        {
+                            "class": "dessin",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "couleur rouge fonc\u00e9",
+                            "score": 0.871
+                        },
+                        {
+                            "class": "couleur marron",
+                            "score": 0.846
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897811259.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 5.49633002281189
+}

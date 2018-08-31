@@ -1,0 +1,98 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.22743225097656,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.22743225097656,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.22743225097656,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 91.10337829589844,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 91.10337829589844,
+            "Name": "Coat"
+        },
+        {
+            "Confidence": 91.10337829589844,
+            "Name": "Overcoat"
+        },
+        {
+            "Confidence": 91.10337829589844,
+            "Name": "Suit"
+        },
+        {
+            "Confidence": 67.7522964477539,
+            "Name": "Audience"
+        },
+        {
+            "Confidence": 67.7522964477539,
+            "Name": "Crowd"
+        },
+        {
+            "Confidence": 67.7522964477539,
+            "Name": "Speech"
+        },
+        {
+            "Confidence": 67.37664031982422,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 67.37664031982422,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 60.929317474365234,
+            "Name": "Tuxedo"
+        },
+        {
+            "Confidence": 56.818626403808594,
+            "Name": "Military"
+        },
+        {
+            "Confidence": 56.818626403808594,
+            "Name": "Military Uniform"
+        },
+        {
+            "Confidence": 56.818626403808594,
+            "Name": "Officer"
+        },
+        {
+            "Confidence": 51.05695724487305,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 51.05695724487305,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 51.05695724487305,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 51.05695724487305,
+            "Name": "Poster"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "1041",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:25:07 GMT",
+            "x-amzn-requestid": "d8d9fc66-a19a-11e8-981c-7f2f255c87bb"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d8d9fc66-a19a-11e8-981c-7f2f255c87bb",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.578087091445923
+}

@@ -1,0 +1,79 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "suppl\u00e9ment en couleur",
+                            "score": 0.604,
+                            "type_hierarchy": "/magazine/suppl\u00e9ment en couleur"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.662
+                        },
+                        {
+                            "class": "gazette",
+                            "score": 0.563,
+                            "type_hierarchy": "/moyen/journal/gazette"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "pochette de disque",
+                            "score": 0.514,
+                            "type_hierarchy": "/pochette/pochette de disque"
+                        },
+                        {
+                            "class": "pochette",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "couverture de livre",
+                            "score": 0.505,
+                            "type_hierarchy": "/papier cadeau/couverture de livre"
+                        },
+                        {
+                            "class": "papier cadeau",
+                            "score": 0.505
+                        },
+                        {
+                            "class": "site Web",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/ordinateur/site Web"
+                        },
+                        {
+                            "class": "ordinateur",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "couleur vert olive",
+                            "score": 0.559
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764419007.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6120598316192627
+}

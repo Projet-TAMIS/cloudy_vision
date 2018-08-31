@@ -1,0 +1,58 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "\u00e9cusson",
+                            "score": 0.828,
+                            "type_hierarchy": "/tissu/\u00e9cusson"
+                        },
+                        {
+                            "class": "tissu",
+                            "score": 0.913
+                        },
+                        {
+                            "class": "pavillon",
+                            "score": 0.751,
+                            "type_hierarchy": "/drapeau/pavillon"
+                        },
+                        {
+                            "class": "drapeau",
+                            "score": 0.754
+                        },
+                        {
+                            "class": "insigne",
+                            "score": 0.645,
+                            "type_hierarchy": "/tissu/insigne"
+                        },
+                        {
+                            "class": "filtre \u00e0 caf\u00e9",
+                            "score": 0.5,
+                            "type_hierarchy": "/filtre/filtre \u00e0 caf\u00e9"
+                        },
+                        {
+                            "class": "filtre",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "couleur azur",
+                            "score": 0.759
+                        },
+                        {
+                            "class": "couleur bleu d'outremer",
+                            "score": 0.68
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_du_septentrion_9782896647224.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.7738730907440186
+}

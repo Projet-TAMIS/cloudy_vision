@@ -1,0 +1,50 @@
+{
+    "adult": {
+        "adultScore": 0.08906108886003494,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.09914174675941467
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.1015625
+        }
+    ],
+    "color": {
+        "accentColor": "857246",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.848484491337429,
+                "text": "a close up of a mans face"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2162,
+        "width": 1400
+    },
+    "requestId": "25d9edf7-f293-443c-852d-e584f4c5710c",
+    "response_time": 1.635991096496582,
+    "tags": []
+}

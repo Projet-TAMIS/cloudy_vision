@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Glacier"
+        },
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Ice"
+        },
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Mountain"
+        },
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Nature"
+        },
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Outdoors"
+        },
+        {
+            "Confidence": 76.478759765625,
+            "Name": "Snow"
+        },
+        {
+            "Confidence": 53.486366271972656,
+            "Name": "Soil"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "342",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:11:31 GMT",
+            "x-amzn-requestid": "f02075c3-a198-11e8-b5fd-6fe2ffc54cb7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "f02075c3-a198-11e8-b5fd-6fe2ffc54cb7",
+        "RetryAttempts": 0
+    },
+    "response_time": 5.11214804649353
+}

@@ -1,0 +1,222 @@
+{
+    "response_time": 1.8842430114746094,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1499
+                                },
+                                {
+                                    "y": 1499
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 51,
+                                "green": 18,
+                                "red": 98
+                            },
+                            "pixelFraction": 0.0324,
+                            "score": 0.2660609
+                        },
+                        {
+                            "color": {
+                                "blue": 205,
+                                "green": 232,
+                                "red": 248
+                            },
+                            "pixelFraction": 0.024066666,
+                            "score": 0.06702297
+                        },
+                        {
+                            "color": {
+                                "blue": 164,
+                                "green": 188,
+                                "red": 234
+                            },
+                            "pixelFraction": 0.0084,
+                            "score": 0.041200753
+                        },
+                        {
+                            "color": {
+                                "blue": 63,
+                                "green": 168,
+                                "red": 250
+                            },
+                            "pixelFraction": 0.00086666667,
+                            "score": 0.015416015
+                        },
+                        {
+                            "color": {
+                                "blue": 58,
+                                "green": 126,
+                                "red": 102
+                            },
+                            "pixelFraction": 0.0013333333,
+                            "score": 0.0062483298
+                        },
+                        {
+                            "color": {
+                                "blue": 55,
+                                "green": 10,
+                                "red": 116
+                            },
+                            "pixelFraction": 0.008333334,
+                            "score": 0.09288143
+                        },
+                        {
+                            "color": {
+                                "blue": 244,
+                                "green": 243,
+                                "red": 250
+                            },
+                            "pixelFraction": 0.7438,
+                            "score": 0.05667897
+                        },
+                        {
+                            "color": {
+                                "blue": 169,
+                                "green": 197,
+                                "red": 223
+                            },
+                            "pixelFraction": 0.010266666,
+                            "score": 0.035491593
+                        },
+                        {
+                            "color": {
+                                "blue": 206,
+                                "green": 185,
+                                "red": 228
+                            },
+                            "pixelFraction": 0.011266666,
+                            "score": 0.03415483
+                        },
+                        {
+                            "color": {
+                                "blue": 87,
+                                "green": 57,
+                                "red": 127
+                            },
+                            "pixelFraction": 0.0054666665,
+                            "score": 0.03282179
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.868275,
+                    "topicality": 0.868275
+                },
+                {
+                    "description": "food",
+                    "mid": "/m/02wbm",
+                    "score": 0.8643474,
+                    "topicality": 0.8643474
+                },
+                {
+                    "description": "tableware",
+                    "mid": "/m/04brg2",
+                    "score": 0.8425364,
+                    "topicality": 0.8425364
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.82006884,
+                    "topicality": 0.82006884
+                },
+                {
+                    "description": "fork",
+                    "mid": "/m/0dt3t",
+                    "score": 0.79479814,
+                    "topicality": 0.79479814
+                },
+                {
+                    "description": "meal",
+                    "mid": "/m/0krfg",
+                    "score": 0.7814863,
+                    "topicality": 0.7814863
+                },
+                {
+                    "description": "cutlery",
+                    "mid": "/m/023pjk",
+                    "score": 0.7380781,
+                    "topicality": 0.7380781
+                },
+                {
+                    "description": "cuisine",
+                    "mid": "/m/01ykh",
+                    "score": 0.6874077,
+                    "topicality": 0.6874077
+                },
+                {
+                    "description": "line",
+                    "mid": "/m/03scnj",
+                    "score": 0.66211814,
+                    "topicality": 0.66211814
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.6519635,
+                    "topicality": 0.6519635
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 670,
+                                "y": 245
+                            },
+                            {
+                                "x": 861,
+                                "y": 245
+                            },
+                            {
+                                "x": 861,
+                                "y": 333
+                            },
+                            {
+                                "x": 670,
+                                "y": 333
+                            }
+                        ]
+                    },
+                    "description": "Equine Warehouse Clonmel",
+                    "mid": "/g/1hc7krbd9",
+                    "score": 0.16434766
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

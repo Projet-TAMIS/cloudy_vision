@@ -1,0 +1,195 @@
+{
+    "response_time": 1.869379997253418,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1499
+                                },
+                                {
+                                    "y": 1499
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 178,
+                                "green": 158,
+                                "red": 67
+                            },
+                            "pixelFraction": 0.29946667,
+                            "score": 0.5494193
+                        },
+                        {
+                            "color": {
+                                "blue": 82,
+                                "green": 159,
+                                "red": 159
+                            },
+                            "pixelFraction": 0.04193333,
+                            "score": 0.06168377
+                        },
+                        {
+                            "color": {
+                                "blue": 238,
+                                "green": 245,
+                                "red": 187
+                            },
+                            "pixelFraction": 0.0079333335,
+                            "score": 0.015964769
+                        },
+                        {
+                            "color": {
+                                "blue": 98,
+                                "green": 83,
+                                "red": 64
+                            },
+                            "pixelFraction": 0.0050666668,
+                            "score": 0.010970303
+                        },
+                        {
+                            "color": {
+                                "blue": 66,
+                                "green": 122,
+                                "red": 125
+                            },
+                            "pixelFraction": 0.014,
+                            "score": 0.0074816905
+                        },
+                        {
+                            "color": {
+                                "blue": 162,
+                                "green": 142,
+                                "red": 47
+                            },
+                            "pixelFraction": 0.18526667,
+                            "score": 0.12962294
+                        },
+                        {
+                            "color": {
+                                "blue": 125,
+                                "green": 201,
+                                "red": 202
+                            },
+                            "pixelFraction": 0.027466666,
+                            "score": 0.051375326
+                        },
+                        {
+                            "color": {
+                                "blue": 159,
+                                "green": 166,
+                                "red": 114
+                            },
+                            "pixelFraction": 0.024466667,
+                            "score": 0.016634546
+                        },
+                        {
+                            "color": {
+                                "blue": 121,
+                                "green": 129,
+                                "red": 78
+                            },
+                            "pixelFraction": 0.008,
+                            "score": 0.012612614
+                        },
+                        {
+                            "color": {
+                                "blue": 194,
+                                "green": 202,
+                                "red": 145
+                            },
+                            "pixelFraction": 0.0434,
+                            "score": 0.011216646
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "motor vehicle",
+                    "mid": "/m/012f08",
+                    "score": 0.9763743,
+                    "topicality": 0.9763743
+                },
+                {
+                    "description": "car",
+                    "mid": "/m/0k4j",
+                    "score": 0.96813256,
+                    "topicality": 0.96813256
+                },
+                {
+                    "description": "mode of transport",
+                    "mid": "/m/079bkr",
+                    "score": 0.8752478,
+                    "topicality": 0.8752478
+                },
+                {
+                    "description": "vehicle",
+                    "mid": "/m/07yv9",
+                    "score": 0.86068344,
+                    "topicality": 0.86068344
+                },
+                {
+                    "description": "vehicle door",
+                    "mid": "/m/02q2kc3",
+                    "score": 0.8397292,
+                    "topicality": 0.8397292
+                },
+                {
+                    "description": "automotive design",
+                    "mid": "/m/068mqj",
+                    "score": 0.8351813,
+                    "topicality": 0.8351813
+                },
+                {
+                    "description": "sky",
+                    "mid": "/m/01bqvp",
+                    "score": 0.8190847,
+                    "topicality": 0.8190847
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.7920421,
+                    "topicality": 0.7920421
+                },
+                {
+                    "description": "full size car",
+                    "mid": "/m/03vntj",
+                    "score": 0.7524093,
+                    "topicality": 0.7524093
+                },
+                {
+                    "description": "automotive exterior",
+                    "mid": "/m/0h8ls87",
+                    "score": 0.7034642,
+                    "topicality": 0.7034642
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

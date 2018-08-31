@@ -1,0 +1,222 @@
+{
+    "response_time": 1.3487508296966553,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1179
+                                },
+                                {
+                                    "y": 1179
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 71,
+                                "green": 50,
+                                "red": 9
+                            },
+                            "pixelFraction": 0.118267715,
+                            "score": 0.24509442
+                        },
+                        {
+                            "color": {
+                                "blue": 118,
+                                "green": 92,
+                                "red": 24
+                            },
+                            "pixelFraction": 0.10356955,
+                            "score": 0.17923771
+                        },
+                        {
+                            "color": {
+                                "blue": 183,
+                                "green": 136,
+                                "red": 25
+                            },
+                            "pixelFraction": 0.23102362,
+                            "score": 0.14071442
+                        },
+                        {
+                            "color": {
+                                "blue": 50,
+                                "green": 82,
+                                "red": 90
+                            },
+                            "pixelFraction": 0.002257218,
+                            "score": 0.0025918575
+                        },
+                        {
+                            "color": {
+                                "blue": 47,
+                                "green": 31,
+                                "red": 4
+                            },
+                            "pixelFraction": 0.2128084,
+                            "score": 0.18635337
+                        },
+                        {
+                            "color": {
+                                "blue": 247,
+                                "green": 246,
+                                "red": 240
+                            },
+                            "pixelFraction": 0.012283465,
+                            "score": 0.0014713843
+                        },
+                        {
+                            "color": {
+                                "blue": 7,
+                                "green": 57,
+                                "red": 60
+                            },
+                            "pixelFraction": 0.0005774278,
+                            "score": 0.0013854802
+                        },
+                        {
+                            "color": {
+                                "blue": 162,
+                                "green": 157,
+                                "red": 150
+                            },
+                            "pixelFraction": 0.0051968503,
+                            "score": 0.001038275
+                        },
+                        {
+                            "color": {
+                                "blue": 110,
+                                "green": 81,
+                                "red": 26
+                            },
+                            "pixelFraction": 0.03270341,
+                            "score": 0.05723467
+                        },
+                        {
+                            "color": {
+                                "blue": 25,
+                                "green": 20,
+                                "red": 7
+                            },
+                            "pixelFraction": 0.1768504,
+                            "score": 0.050032645
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.87250555,
+                    "topicality": 0.87250555
+                },
+                {
+                    "description": "architecture",
+                    "mid": "/m/03nfmq",
+                    "score": 0.84699285,
+                    "topicality": 0.84699285
+                },
+                {
+                    "description": "structure",
+                    "mid": "/m/0n68_",
+                    "score": 0.8080449,
+                    "topicality": 0.8080449
+                },
+                {
+                    "description": "fixed link",
+                    "mid": "/m/051gs3",
+                    "score": 0.7482153,
+                    "topicality": 0.7482153
+                },
+                {
+                    "description": "sky",
+                    "mid": "/m/01bqvp",
+                    "score": 0.68420285,
+                    "topicality": 0.68420285
+                },
+                {
+                    "description": "water",
+                    "mid": "/m/0838f",
+                    "score": 0.6675995,
+                    "topicality": 0.6675995
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.64165455,
+                    "topicality": 0.64165455
+                },
+                {
+                    "description": "energy",
+                    "mid": "/m/02mm_",
+                    "score": 0.58937216,
+                    "topicality": 0.58937216
+                },
+                {
+                    "description": "computer wallpaper",
+                    "mid": "/m/03w43x",
+                    "score": 0.56680244,
+                    "topicality": 0.56680244
+                },
+                {
+                    "description": "screenshot",
+                    "mid": "/m/01zbnw",
+                    "score": 0.5446695,
+                    "topicality": 0.5446695
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 144,
+                                "y": 106
+                            },
+                            {
+                                "x": 785,
+                                "y": 106
+                            },
+                            {
+                                "x": 785,
+                                "y": 175
+                            },
+                            {
+                                "x": 144,
+                                "y": 175
+                            }
+                        ]
+                    },
+                    "description": "24 Hours",
+                    "mid": "/m/05q3xn",
+                    "score": 0.17915654
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

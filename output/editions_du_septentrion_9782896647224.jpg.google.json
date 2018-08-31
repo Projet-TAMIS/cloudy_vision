@@ -1,0 +1,210 @@
+{
+    "response_time": 1.7397549152374268,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1499
+                                },
+                                {
+                                    "x": 1499,
+                                    "y": 2399
+                                },
+                                {
+                                    "y": 2399
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 247,
+                                "green": 245,
+                                "red": 245
+                            },
+                            "pixelFraction": 0.26028368,
+                            "score": 0.23463702
+                        },
+                        {
+                            "color": {
+                                "blue": 68,
+                                "green": 120,
+                                "red": 149
+                            },
+                            "pixelFraction": 0.018723404,
+                            "score": 0.11157774
+                        },
+                        {
+                            "color": {
+                                "blue": 45,
+                                "green": 17,
+                                "red": 22
+                            },
+                            "pixelFraction": 0.28539008,
+                            "score": 0.060892913
+                        },
+                        {
+                            "color": {
+                                "blue": 105,
+                                "green": 82,
+                                "red": 87
+                            },
+                            "pixelFraction": 0.016524823,
+                            "score": 0.019208528
+                        },
+                        {
+                            "color": {
+                                "blue": 64,
+                                "green": 49,
+                                "red": 161
+                            },
+                            "pixelFraction": 0.0015602837,
+                            "score": 0.004818004
+                        },
+                        {
+                            "color": {
+                                "blue": 90,
+                                "green": 164,
+                                "red": 103
+                            },
+                            "pixelFraction": 0.0032624113,
+                            "score": 0.003155983
+                        },
+                        {
+                            "color": {
+                                "blue": 203,
+                                "green": 197,
+                                "red": 195
+                            },
+                            "pixelFraction": 0.029716313,
+                            "score": 0.05943138
+                        },
+                        {
+                            "color": {
+                                "blue": 32,
+                                "green": 10,
+                                "red": 14
+                            },
+                            "pixelFraction": 0.067092195,
+                            "score": 0.05351344
+                        },
+                        {
+                            "color": {
+                                "blue": 88,
+                                "green": 118,
+                                "red": 140
+                            },
+                            "pixelFraction": 0.013120567,
+                            "score": 0.04495448
+                        },
+                        {
+                            "color": {
+                                "blue": 90,
+                                "green": 145,
+                                "red": 170
+                            },
+                            "pixelFraction": 0.005248227,
+                            "score": 0.03641117
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.8639124,
+                    "topicality": 0.8639124
+                },
+                {
+                    "description": "poster",
+                    "mid": "/m/01n5jq",
+                    "score": 0.81519055,
+                    "topicality": 0.81519055
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.6769764,
+                    "topicality": 0.6769764
+                },
+                {
+                    "description": "graphic design",
+                    "mid": "/m/03c31",
+                    "score": 0.6284402,
+                    "topicality": 0.6284402
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.60036874,
+                    "topicality": 0.60036874
+                },
+                {
+                    "description": "brand",
+                    "mid": "/m/01cd9",
+                    "score": 0.56548816,
+                    "topicality": 0.56548816
+                },
+                {
+                    "description": "recreation",
+                    "mid": "/m/06bm2",
+                    "score": 0.5288097,
+                    "topicality": 0.5288097
+                },
+                {
+                    "description": "label",
+                    "mid": "/m/05c0n6k",
+                    "score": 0.5210945,
+                    "topicality": 0.5210945
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 136,
+                                "y": 1167
+                            },
+                            {
+                                "x": 1398,
+                                "y": 1167
+                            },
+                            {
+                                "x": 1398,
+                                "y": 2275
+                            },
+                            {
+                                "x": 136,
+                                "y": 2275
+                            }
+                        ]
+                    },
+                    "description": "President of the United States",
+                    "mid": "/m/03nkf9",
+                    "score": 0.87640226
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

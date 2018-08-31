@@ -1,0 +1,80 @@
+{
+    "adult": {
+        "adultScore": 0.08566338568925858,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.1692710816860199
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "7E0F13",
+        "dominantColorBackground": "Red",
+        "dominantColorForeground": "Red",
+        "dominantColors": [
+            "Red",
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5460225890354772,
+                "text": "a person holding a sign posing for the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "holding",
+            "photo",
+            "standing",
+            "front",
+            "sitting",
+            "woman",
+            "sign",
+            "posing",
+            "racket",
+            "dark",
+            "girl",
+            "player",
+            "wearing",
+            "red",
+            "young",
+            "white",
+            "room",
+            "people",
+            "ball",
+            "playing",
+            "court",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2133,
+        "width": 1200
+    },
+    "requestId": "3445597e-0042-43c1-8e77-77a701424bcb",
+    "response_time": 6.060184001922607,
+    "tags": [
+        {
+            "confidence": 0.9327874779701233,
+            "name": "person"
+        }
+    ]
+}

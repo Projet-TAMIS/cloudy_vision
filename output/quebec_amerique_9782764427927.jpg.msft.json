@@ -1,0 +1,75 @@
+{
+    "adult": {
+        "adultScore": 0.5561023354530334,
+        "isAdultContent": false,
+        "isRacyContent": true,
+        "racyScore": 0.8185890913009644
+    },
+    "categories": [
+        {
+            "name": "text_mag",
+            "score": 0.984375
+        }
+    ],
+    "color": {
+        "accentColor": "714932",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Grey",
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5728054972654798,
+                "text": "a woman taking a selfie"
+            }
+        ],
+        "tags": [
+            "person",
+            "woman",
+            "girl",
+            "beautiful",
+            "young",
+            "holding",
+            "standing",
+            "lady",
+            "wearing",
+            "phone",
+            "playing",
+            "bear",
+            "board",
+            "white",
+            "water"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2100,
+        "width": 1400
+    },
+    "requestId": "73e20c39-fd18-44a9-b454-519083a4440f",
+    "response_time": 3.7076809406280518,
+    "tags": [
+        {
+            "confidence": 0.9816693663597107,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9749600291252136,
+            "name": "woman"
+        },
+        {
+            "confidence": 0.5020183324813843,
+            "name": "beautiful"
+        }
+    ]
+}

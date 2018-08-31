@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:25:04.404817678Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.9864101
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.9833442
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_DqkHZlVW",
+                        "name": "relaxation",
+                        "value": 0.978359
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.977746
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vfV1Zf9w",
+                        "name": "horizontal",
+                        "value": 0.9715283
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.97078204
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_BlL0wSQh",
+                        "name": "water",
+                        "value": 0.9632592
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PSNh6rKx",
+                        "name": "bikini",
+                        "value": 0.95260704
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pcdXtZsw",
+                        "name": "swimming",
+                        "value": 0.94919753
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_DSCFH6f6",
+                        "name": "sand",
+                        "value": 0.9425524
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_w6Q98T5d",
+                        "name": "barefoot",
+                        "value": 0.93469244
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_FsT0Zqdb",
+                        "name": "summer",
+                        "value": 0.92386574
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_J1hw9SFJ",
+                        "name": "beach",
+                        "value": 0.91086113
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_41s912fX",
+                        "name": "fair weather",
+                        "value": 0.9096172
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_st5grjcT",
+                        "name": "H2O",
+                        "value": 0.9081483
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_NTTFwSHB",
+                        "name": "wet",
+                        "value": 0.89497674
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdXkh9Vw",
+                        "name": "nude",
+                        "value": 0.8858227
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7bRKqWjp",
+                        "name": "sea",
+                        "value": 0.8726009
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZSKpCCHD",
+                        "name": "vertical",
+                        "value": 0.871881
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dm5GLXnB",
+                        "name": "illustration",
+                        "value": 0.871351
+                    }
+                ]
+            },
+            "id": "9851b93b5dc6437e976c884b7ae45649",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/28b6a2717638f80aec3218cd19f761ab"
+                    }
+                },
+                "id": "e33df92d95af486d80638af6f402feb4"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.52498197555542,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

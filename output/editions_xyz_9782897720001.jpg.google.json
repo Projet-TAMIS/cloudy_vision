@@ -1,0 +1,189 @@
+{
+    "response_time": 5.823287010192871,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2268
+                                },
+                                {
+                                    "y": 2268
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 201,
+                                "green": 159,
+                                "red": 40
+                            },
+                            "pixelFraction": 0.29663083,
+                            "score": 0.15572858
+                        },
+                        {
+                            "color": {
+                                "blue": 152,
+                                "green": 127,
+                                "red": 59
+                            },
+                            "pixelFraction": 0.037132617,
+                            "score": 0.13381436
+                        },
+                        {
+                            "color": {
+                                "blue": 125,
+                                "green": 123,
+                                "red": 107
+                            },
+                            "pixelFraction": 0.07885305,
+                            "score": 0.06463134
+                        },
+                        {
+                            "color": {
+                                "blue": 100,
+                                "green": 164,
+                                "red": 129
+                            },
+                            "pixelFraction": 0.010250896,
+                            "score": 0.015103174
+                        },
+                        {
+                            "color": {
+                                "blue": 255,
+                                "green": 235,
+                                "red": 122
+                            },
+                            "pixelFraction": 0.00043010752,
+                            "score": 0.0015476681
+                        },
+                        {
+                            "color": {
+                                "blue": 175,
+                                "green": 135,
+                                "red": 24
+                            },
+                            "pixelFraction": 0.06487455,
+                            "score": 0.09318831
+                        },
+                        {
+                            "color": {
+                                "blue": 184,
+                                "green": 160,
+                                "red": 96
+                            },
+                            "pixelFraction": 0.019569892,
+                            "score": 0.06532879
+                        },
+                        {
+                            "color": {
+                                "blue": 161,
+                                "green": 159,
+                                "red": 140
+                            },
+                            "pixelFraction": 0.087741934,
+                            "score": 0.060227506
+                        },
+                        {
+                            "color": {
+                                "blue": 122,
+                                "green": 98,
+                                "red": 34
+                            },
+                            "pixelFraction": 0.018207885,
+                            "score": 0.056828108
+                        },
+                        {
+                            "color": {
+                                "blue": 140,
+                                "green": 121,
+                                "red": 89
+                            },
+                            "pixelFraction": 0.017562725,
+                            "score": 0.04314733
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "water",
+                    "mid": "/m/0838f",
+                    "score": 0.96705496,
+                    "topicality": 0.96705496
+                },
+                {
+                    "description": "nature",
+                    "mid": "/m/05h0n",
+                    "score": 0.94196737,
+                    "topicality": 0.94196737
+                },
+                {
+                    "description": "water resources",
+                    "mid": "/m/015s2f",
+                    "score": 0.85554785,
+                    "topicality": 0.85554785
+                },
+                {
+                    "description": "tree",
+                    "mid": "/m/07j7r",
+                    "score": 0.7627494,
+                    "topicality": 0.7627494
+                },
+                {
+                    "description": "geology",
+                    "mid": "/m/036hv",
+                    "score": 0.6518374,
+                    "topicality": 0.6518374
+                },
+                {
+                    "description": "rock",
+                    "mid": "/m/01cbzq",
+                    "score": 0.6371904,
+                    "topicality": 0.6371904
+                },
+                {
+                    "description": "organism",
+                    "mid": "/m/05nnm",
+                    "score": 0.6161943,
+                    "topicality": 0.6161943
+                },
+                {
+                    "description": "watercourse",
+                    "mid": "/m/03kj4q",
+                    "score": 0.61364484,
+                    "topicality": 0.61364484
+                },
+                {
+                    "description": "sky",
+                    "mid": "/m/01bqvp",
+                    "score": 0.5237489,
+                    "topicality": 0.5237489
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

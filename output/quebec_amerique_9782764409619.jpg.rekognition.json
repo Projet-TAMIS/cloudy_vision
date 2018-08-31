@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 92.1624526977539,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 92.1624526977539,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 92.1624526977539,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 92.1624526977539,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 56.05970001220703,
+            "Name": "Envelope"
+        },
+        {
+            "Confidence": 56.05970001220703,
+            "Name": "Greeting Card"
+        },
+        {
+            "Confidence": 56.05970001220703,
+            "Name": "Mail"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "358",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:15:41 GMT",
+            "x-amzn-requestid": "8618ca82-a199-11e8-81f1-8327edba3626"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "8618ca82-a199-11e8-81f1-8327edba3626",
+        "RetryAttempts": 0
+    },
+    "response_time": 4.032027006149292
+}

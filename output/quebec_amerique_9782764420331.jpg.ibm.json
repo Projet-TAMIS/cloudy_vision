@@ -1,0 +1,54 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine de luxe",
+                            "score": 0.681,
+                            "type_hierarchy": "/magazine/magazine de luxe"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.9
+                        },
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.513,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "suppl\u00e9ment en couleur",
+                            "score": 0.512,
+                            "type_hierarchy": "/magazine/suppl\u00e9ment en couleur"
+                        },
+                        {
+                            "class": "magazine pulp",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/magazine pulp"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur rouge indien",
+                            "score": 0.822
+                        },
+                        {
+                            "class": "couleur orange",
+                            "score": 0.752
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764420331.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6348488330841064
+}

@@ -1,0 +1,78 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.50260925292969,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.50254821777344,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.50260925292969,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 95.02840423583984,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 92.45655822753906,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 92.45655822753906,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 92.45655822753906,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 52.06583786010742,
+            "Name": "Sport"
+        },
+        {
+            "Confidence": 52.06583786010742,
+            "Name": "Sports"
+        },
+        {
+            "Confidence": 52.06583786010742,
+            "Name": "Swimming"
+        },
+        {
+            "Confidence": 52.06583786010742,
+            "Name": "Water"
+        },
+        {
+            "Confidence": 50.50478744506836,
+            "Name": "Nature"
+        },
+        {
+            "Confidence": 50.50478744506836,
+            "Name": "Ocean"
+        },
+        {
+            "Confidence": 50.50478744506836,
+            "Name": "Outdoors"
+        },
+        {
+            "Confidence": 50.50478744506836,
+            "Name": "Sea"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "779",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:22:01 GMT",
+            "x-amzn-requestid": "68e71415-a19a-11e8-ac64-bb5903b362ae"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "68e71415-a19a-11e8-ac64-bb5903b362ae",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.416313886642456
+}

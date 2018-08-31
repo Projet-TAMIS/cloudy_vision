@@ -1,0 +1,52 @@
+{
+    "adult": {
+        "adultScore": 0.059092167764902115,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.06308867782354355
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.35546875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "A3282D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8833161141801512,
+                "text": "a close up of a logo"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2400,
+        "width": 1500
+    },
+    "requestId": "d4195d16-9bc9-4266-a9c1-26fe05745155",
+    "response_time": 1.6961698532104492,
+    "tags": []
+}

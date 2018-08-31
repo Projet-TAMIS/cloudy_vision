@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "nature",
+                            "score": 0.78
+                        },
+                        {
+                            "class": "glacier",
+                            "score": 0.521,
+                            "type_hierarchy": "/nature/masse de glace/glacier"
+                        },
+                        {
+                            "class": "masse de glace",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "lithosph\u00e8re",
+                            "score": 0.519,
+                            "type_hierarchy": "/nature/lithosph\u00e8re"
+                        },
+                        {
+                            "class": "\u00e9l\u00e9vation naturelle",
+                            "score": 0.5,
+                            "type_hierarchy": "/nature/\u00e9l\u00e9vation naturelle"
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur bleu vert",
+                            "score": 0.579
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_xyz_9782897720001.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.566494941711426
+}

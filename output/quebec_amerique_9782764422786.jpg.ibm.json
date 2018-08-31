@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "personne",
+                            "score": 0.793
+                        },
+                        {
+                            "class": "n\u00e9gatif",
+                            "score": 0.958,
+                            "type_hierarchy": "/mat\u00e9riel photographique/pellicule photographique/n\u00e9gatif"
+                        },
+                        {
+                            "class": "pellicule photographique",
+                            "score": 0.958
+                        },
+                        {
+                            "class": "mat\u00e9riel photographique",
+                            "score": 0.958
+                        },
+                        {
+                            "class": "couleur azur",
+                            "score": 0.93
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.786
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764422786.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.165001153945923
+}

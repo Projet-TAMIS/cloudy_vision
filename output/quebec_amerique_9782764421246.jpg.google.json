@@ -1,0 +1,195 @@
+{
+    "response_time": 1.4280929565429688,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 599
+                                },
+                                {
+                                    "x": 599,
+                                    "y": 799
+                                },
+                                {
+                                    "y": 799
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 163,
+                                "green": 160,
+                                "red": 140
+                            },
+                            "pixelFraction": 0.3370368,
+                            "score": 0.53117937
+                        },
+                        {
+                            "color": {
+                                "blue": 232,
+                                "green": 242,
+                                "red": 241
+                            },
+                            "pixelFraction": 0.20501928,
+                            "score": 0.09047392
+                        },
+                        {
+                            "color": {
+                                "blue": 134,
+                                "green": 128,
+                                "red": 110
+                            },
+                            "pixelFraction": 0.14613424,
+                            "score": 0.113292865
+                        },
+                        {
+                            "color": {
+                                "blue": 165,
+                                "green": 163,
+                                "red": 134
+                            },
+                            "pixelFraction": 0.040977713,
+                            "score": 0.09640615
+                        },
+                        {
+                            "color": {
+                                "blue": 187,
+                                "green": 189,
+                                "red": 173
+                            },
+                            "pixelFraction": 0.03679498,
+                            "score": 0.048408475
+                        },
+                        {
+                            "color": {
+                                "blue": 138,
+                                "green": 124,
+                                "red": 103
+                            },
+                            "pixelFraction": 0.034376837,
+                            "score": 0.025729572
+                        },
+                        {
+                            "color": {
+                                "blue": 95,
+                                "green": 89,
+                                "red": 73
+                            },
+                            "pixelFraction": 0.04293837,
+                            "score": 0.019930597
+                        },
+                        {
+                            "color": {
+                                "blue": 100,
+                                "green": 86,
+                                "red": 67
+                            },
+                            "pixelFraction": 0.02372394,
+                            "score": 0.017206768
+                        },
+                        {
+                            "color": {
+                                "blue": 167,
+                                "green": 154,
+                                "red": 130
+                            },
+                            "pixelFraction": 0.010522188,
+                            "score": 0.013001474
+                        },
+                        {
+                            "color": {
+                                "blue": 75,
+                                "green": 60,
+                                "red": 43
+                            },
+                            "pixelFraction": 0.016404158,
+                            "score": 0.012815332
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "glacier",
+                    "mid": "/m/038jz",
+                    "score": 0.9035379,
+                    "topicality": 0.9035379
+                },
+                {
+                    "description": "glacial landform",
+                    "mid": "/m/055s40",
+                    "score": 0.8707646,
+                    "topicality": 0.8707646
+                },
+                {
+                    "description": "arctic",
+                    "mid": "/m/09738",
+                    "score": 0.7835258,
+                    "topicality": 0.7835258
+                },
+                {
+                    "description": "ice cap",
+                    "mid": "/m/04b966",
+                    "score": 0.7814411,
+                    "topicality": 0.7814411
+                },
+                {
+                    "description": "polar ice cap",
+                    "mid": "/m/048nfp",
+                    "score": 0.77039117,
+                    "topicality": 0.77039117
+                },
+                {
+                    "description": "geological phenomenon",
+                    "mid": "/m/07sn5gn",
+                    "score": 0.7467279,
+                    "topicality": 0.7467279
+                },
+                {
+                    "description": "mountain range",
+                    "mid": "/m/04wxr",
+                    "score": 0.7060186,
+                    "topicality": 0.7060186
+                },
+                {
+                    "description": "nunatak",
+                    "mid": "/m/02z47m",
+                    "score": 0.6727521,
+                    "topicality": 0.6727521
+                },
+                {
+                    "description": "ice",
+                    "mid": "/m/03vtj",
+                    "score": 0.67117685,
+                    "topicality": 0.67117685
+                },
+                {
+                    "description": "cirque",
+                    "mid": "/m/03s7w_",
+                    "score": 0.6475188,
+                    "topicality": 0.6475188
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

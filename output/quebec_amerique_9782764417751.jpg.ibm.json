@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "voiture d\u00e9capotable",
+                            "score": 0.77,
+                            "type_hierarchy": "/v\u00e9hicule/v\u00e9hicule sur roues/voiture/voiture d\u00e9capotable"
+                        },
+                        {
+                            "class": "voiture",
+                            "score": 0.773
+                        },
+                        {
+                            "class": "v\u00e9hicule sur roues",
+                            "score": 0.773
+                        },
+                        {
+                            "class": "v\u00e9hicule",
+                            "score": 0.776
+                        },
+                        {
+                            "class": "aileron (d'automobile)",
+                            "score": 0.506,
+                            "type_hierarchy": "/profil a\u00e9rodynamique (avion)/aileron (d'automobile)"
+                        },
+                        {
+                            "class": "profil a\u00e9rodynamique (avion)",
+                            "score": 0.508
+                        },
+                        {
+                            "class": "torpille",
+                            "score": 0.5,
+                            "type_hierarchy": "/engin explosif/torpille"
+                        },
+                        {
+                            "class": "engin explosif",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "bateau",
+                            "score": 0.593
+                        },
+                        {
+                            "class": "couleur vert olive",
+                            "score": 0.822
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764417751.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.7985169887542725
+}

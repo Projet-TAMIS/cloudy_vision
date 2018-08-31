@@ -1,0 +1,93 @@
+{
+    "adult": {
+        "adultScore": 0.024988098070025444,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02794649638235569
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "name": "people_baby",
+            "score": 0.64453125
+        }
+    ],
+    "color": {
+        "accentColor": "C10A28",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3324319621053557,
+                "text": "a group of people flying kites in the air"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "sign",
+            "large",
+            "flying",
+            "kite",
+            "air",
+            "sitting",
+            "bunch",
+            "red",
+            "airplane",
+            "man",
+            "standing",
+            "people",
+            "holding",
+            "field",
+            "group",
+            "bird",
+            "propeller",
+            "street",
+            "city",
+            "parked",
+            "blue"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2400,
+        "width": 1414
+    },
+    "requestId": "c55bffbd-d40b-4b7a-bd4a-1dab268643df",
+    "response_time": 2.380265951156616,
+    "tags": [
+        {
+            "confidence": 0.9999659061431885,
+            "name": "sky"
+        },
+        {
+            "confidence": 0.7385145425796509,
+            "name": "sign"
+        },
+        {
+            "confidence": 0.5764176249504089,
+            "name": "aircraft"
+        },
+        {
+            "confidence": 0.11509165167808533,
+            "name": "several"
+        },
+        {
+            "confidence": 0.11355561763048172,
+            "name": "day"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "Labels": [
+        {
+            "Confidence": 85.33818817138672,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 85.33818817138672,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 85.33818817138672,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 85.33818817138672,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 73.69254302978516,
+            "Name": "Letter"
+        },
+        {
+            "Confidence": 73.69254302978516,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 72.76602172851562,
+            "Name": "Animal"
+        },
+        {
+            "Confidence": 72.76602172851562,
+            "Name": "Cougar"
+        },
+        {
+            "Confidence": 72.76602172851562,
+            "Name": "Mammal"
+        },
+        {
+            "Confidence": 72.76602172851562,
+            "Name": "Puma"
+        },
+        {
+            "Confidence": 72.76602172851562,
+            "Name": "Wildlife"
+        },
+        {
+            "Confidence": 66.97989654541016,
+            "Name": "Abyssinian"
+        },
+        {
+            "Confidence": 66.97989654541016,
+            "Name": "Cat"
+        },
+        {
+            "Confidence": 66.97989654541016,
+            "Name": "Pet"
+        },
+        {
+            "Confidence": 56.84200668334961,
+            "Name": "Siamese"
+        },
+        {
+            "Confidence": 51.608856201171875,
+            "Name": "Page"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "827",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:10:43 GMT",
+            "x-amzn-requestid": "d5da3b61-a198-11e8-99b1-17c601bf5edb"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d5da3b61-a198-11e8-99b1-17c601bf5edb",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.080338954925537
+}

@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.871,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.871
+                        },
+                        {
+                            "class": "arme",
+                            "score": 0.796
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "outil",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "couleur bleu d'outremer",
+                            "score": 0.947
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764409619.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.0260069370269775
+}

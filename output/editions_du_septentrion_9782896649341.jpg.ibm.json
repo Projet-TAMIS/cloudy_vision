@@ -1,0 +1,64 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "panneau de signalisation",
+                            "score": 0.63
+                        },
+                        {
+                            "class": "vitrine",
+                            "score": 0.604,
+                            "type_hierarchy": "/structure de soutien/structure/fen\u00eatre/vitrine"
+                        },
+                        {
+                            "class": "fen\u00eatre",
+                            "score": 0.605
+                        },
+                        {
+                            "class": "structure",
+                            "score": 0.605
+                        },
+                        {
+                            "class": "structure de soutien",
+                            "score": 0.605
+                        },
+                        {
+                            "class": "sac en plastique",
+                            "score": 0.521,
+                            "type_hierarchy": "/sac/sac en plastique"
+                        },
+                        {
+                            "class": "sac",
+                            "score": 0.521
+                        },
+                        {
+                            "class": "livre",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.845
+                        },
+                        {
+                            "class": "couleur bleu d'outremer",
+                            "score": 0.791
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_du_septentrion_9782896649341.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.6683809757232666
+}

@@ -1,0 +1,70 @@
+{
+    "Labels": [
+        {
+            "Confidence": 79.64981079101562,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 79.64981079101562,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 79.64981079101562,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 79.64981079101562,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 55.28472137451172,
+            "Name": "Label"
+        },
+        {
+            "Confidence": 55.28472137451172,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 50.87355422973633,
+            "Name": "Dish"
+        },
+        {
+            "Confidence": 50.87355422973633,
+            "Name": "Food"
+        },
+        {
+            "Confidence": 50.87355422973633,
+            "Name": "Meal"
+        },
+        {
+            "Confidence": 50.87355422973633,
+            "Name": "Plate"
+        },
+        {
+            "Confidence": 50.655818939208984,
+            "Name": "Envelope"
+        },
+        {
+            "Confidence": 50.655818939208984,
+            "Name": "Greeting Card"
+        },
+        {
+            "Confidence": 50.655818939208984,
+            "Name": "Mail"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "684",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:16:16 GMT",
+            "x-amzn-requestid": "9c66f019-a199-11e8-9455-db0f6abeb722"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "9c66f019-a199-11e8-9455-db0f6abeb722",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0539309978485107
+}

@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "classeur, chemise",
+                            "score": 0.637
+                        },
+                        {
+                            "class": "bloc-notes (carnet)",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "livre \u00e0 demi-reliure",
+                            "score": 0.528,
+                            "type_hierarchy": "/couverture de protection/livre \u00e0 demi-reliure"
+                        },
+                        {
+                            "class": "couverture de protection",
+                            "score": 0.722
+                        },
+                        {
+                            "class": "classeur \u00e0 anneaux",
+                            "score": 0.5,
+                            "type_hierarchy": "/couverture de protection/classeur \u00e0 anneaux"
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 0.889
+                        },
+                        {
+                            "class": "couleur rouge d'alizarine",
+                            "score": 0.747
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896475551.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6308939456939697
+}

@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:12:52.698018991Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.95177525
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dm5GLXnB",
+                        "name": "illustration",
+                        "value": 0.9431726
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cMfj16kJ",
+                        "name": "design",
+                        "value": 0.915058
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sTjX6dqC",
+                        "name": "abstract",
+                        "value": 0.9006665
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_V0WFhmCF",
+                        "name": "pattern",
+                        "value": 0.8886009
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JBPqff8z",
+                        "name": "art",
+                        "value": 0.8846839
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.87712896
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_20SCBBZ0",
+                        "name": "vector",
+                        "value": 0.8749096
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_L92T2QtK",
+                        "name": "decoration",
+                        "value": 0.86201453
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0JbWBDPd",
+                        "name": "color",
+                        "value": 0.84989166
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.8495275
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.8183795
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QBpcNtdR",
+                        "name": "graphic",
+                        "value": 0.81184113
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1VSx3n1w",
+                        "name": "card",
+                        "value": 0.8103062
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rZ2j5zkD",
+                        "name": "element",
+                        "value": 0.80411977
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.8009219
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.79750705
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8rNgfppJ",
+                        "name": "symbol",
+                        "value": 0.79009163
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdcbGVpV",
+                        "name": "picture frame",
+                        "value": 0.7842859
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wZCn67qV",
+                        "name": "style",
+                        "value": 0.7582903
+                    }
+                ]
+            },
+            "id": "17a7de28c33c463bb66ab3e824540e04",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/bc2c168e3d756fb83d0b9052f378ea6c"
+                    }
+                },
+                "id": "b7b6d07ba892455796f93c683c035471"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.3432018756866455,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

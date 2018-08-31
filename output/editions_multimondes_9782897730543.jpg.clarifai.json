@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:10:41.470523022Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_l09WQRHT",
+                        "name": "snow",
+                        "value": 0.9960296
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2FHPKk9B",
+                        "name": "winter",
+                        "value": 0.9950237
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jGkHfX9T",
+                        "name": "ice",
+                        "value": 0.9846067
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WB4P57rW",
+                        "name": "frozen",
+                        "value": 0.9583398
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TdCBSxxT",
+                        "name": "sport",
+                        "value": 0.9574722
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.95460856
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tBcWlsCp",
+                        "name": "nature",
+                        "value": 0.9472014
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2gmKZLxp",
+                        "name": "cold",
+                        "value": 0.94634366
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LMNcLLVR",
+                        "name": "frosty",
+                        "value": 0.9322605
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Qp0fHhgG",
+                        "name": "season",
+                        "value": 0.9170836
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VJXZtfth",
+                        "name": "mountain",
+                        "value": 0.8998769
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_H2XmzqsR",
+                        "name": "glacier",
+                        "value": 0.8940089
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vfV1Zf9w",
+                        "name": "horizontal",
+                        "value": 0.8880286
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KwCRJc9d",
+                        "name": "frost",
+                        "value": 0.88114405
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.87964404
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_nzfkJPGP",
+                        "name": "adventure",
+                        "value": 0.87948835
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8xrjRNnl",
+                        "name": "horizontal plane",
+                        "value": 0.84830016
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lNsKfmXb",
+                        "name": "sky",
+                        "value": 0.84690297
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_MTvKbKJv",
+                        "name": "landscape",
+                        "value": 0.8394937
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dm5GLXnB",
+                        "name": "illustration",
+                        "value": 0.8356834
+                    }
+                ]
+            },
+            "id": "7c392d3363a1437980c9f535d3102b42",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/4dde2fc783d561a4b115741383e0362b"
+                    }
+                },
+                "id": "045c24ac5e9f4ff7a36a52ac1765ee41"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 3.6458868980407715,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

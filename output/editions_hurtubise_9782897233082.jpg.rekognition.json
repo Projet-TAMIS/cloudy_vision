@@ -1,0 +1,109 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.365478515625,
+            "Name": "Carriage"
+        },
+        {
+            "Confidence": 98.365478515625,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 98.365478515625,
+            "Name": "Vehicle"
+        },
+        {
+            "Confidence": 93.83082580566406,
+            "Name": "Horse Cart"
+        },
+        {
+            "Confidence": 93.83082580566406,
+            "Name": "Wagon"
+        },
+        {
+            "Confidence": 86.51508331298828,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 86.51508331298828,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 58.68878173828125,
+            "Name": "Antique Car"
+        },
+        {
+            "Confidence": 58.68878173828125,
+            "Name": "Automobile"
+        },
+        {
+            "Confidence": 58.68878173828125,
+            "Name": "Car"
+        },
+        {
+            "Confidence": 58.68878173828125,
+            "Name": "Model T"
+        },
+        {
+            "Confidence": 53.53926467895508,
+            "Name": "Bicycle"
+        },
+        {
+            "Confidence": 53.53926467895508,
+            "Name": "Bike"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Army"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Military"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Military Uniform"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "People"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Soldier"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Team"
+        },
+        {
+            "Confidence": 52.711605072021484,
+            "Name": "Troop"
+        },
+        {
+            "Confidence": 52.35817337036133,
+            "Name": "Poster"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "1168",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:05:28 GMT",
+            "x-amzn-requestid": "19389769-a198-11e8-b743-553116921884"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "19389769-a198-11e8-b743-553116921884",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.2926061153411865
+}

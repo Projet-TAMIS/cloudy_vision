@@ -1,0 +1,61 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.9918212890625,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 94.9918212890625,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 94.9918212890625,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 94.9918212890625,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 92.67263793945312,
+            "Name": "Collage"
+        },
+        {
+            "Confidence": 72.6934585571289,
+            "Name": "Apparel"
+        },
+        {
+            "Confidence": 72.6934585571289,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 62.118309020996094,
+            "Name": "Shop"
+        },
+        {
+            "Confidence": 52.88465118408203,
+            "Name": "Bazaar"
+        },
+        {
+            "Confidence": 52.88465118408203,
+            "Name": "Market"
+        },
+        {
+            "Confidence": 51.23417282104492,
+            "Name": "Photo Booth"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "553",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:09:40 GMT",
+            "x-amzn-requestid": "afd14b61-a198-11e8-b743-553116921884"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "afd14b61-a198-11e8-b743-553116921884",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.6118650436401367
+}

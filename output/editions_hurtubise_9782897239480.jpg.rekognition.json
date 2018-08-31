@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.17088317871094,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.17086791992188,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.17088317871094,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 72.17430877685547,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 72.17430877685547,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 57.635337829589844,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 57.635337829589844,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 54.98506546020508,
+            "Name": "Female"
+        },
+        {
+            "Confidence": 53.39963912963867,
+            "Name": "Leisure Activities"
+        },
+        {
+            "Confidence": 52.47920227050781,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 52.47920227050781,
+            "Name": "Long Sleeve"
+        },
+        {
+            "Confidence": 52.47920227050781,
+            "Name": "Sleeve"
+        },
+        {
+            "Confidence": 50.7640495300293,
+            "Name": "Head"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "665",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:08:29 GMT",
+            "x-amzn-requestid": "84e4fb92-a198-11e8-b1e4-3da87ddb08b7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "84e4fb92-a198-11e8-b1e4-3da87ddb08b7",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.3760762214660645
+}

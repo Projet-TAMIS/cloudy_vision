@@ -1,0 +1,195 @@
+{
+    "response_time": 2.518543004989624,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 898
+                                },
+                                {
+                                    "x": 898,
+                                    "y": 921
+                                },
+                                {
+                                    "y": 921
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 234,
+                                "green": 249,
+                                "red": 250
+                            },
+                            "pixelFraction": 0.15885521,
+                            "score": 0.4940547
+                        },
+                        {
+                            "color": {
+                                "blue": 212,
+                                "green": 176,
+                                "red": 107
+                            },
+                            "pixelFraction": 0.0026936026,
+                            "score": 0.023624
+                        },
+                        {
+                            "color": {
+                                "blue": 48,
+                                "green": 53,
+                                "red": 55
+                            },
+                            "pixelFraction": 0.0014141414,
+                            "score": 0.0064231367
+                        },
+                        {
+                            "color": {
+                                "blue": 226,
+                                "green": 245,
+                                "red": 246
+                            },
+                            "pixelFraction": 0.067474745,
+                            "score": 0.2691913
+                        },
+                        {
+                            "color": {
+                                "blue": 178,
+                                "green": 195,
+                                "red": 198
+                            },
+                            "pixelFraction": 0.01003367,
+                            "score": 0.078125
+                        },
+                        {
+                            "color": {
+                                "blue": 184,
+                                "green": 196,
+                                "red": 199
+                            },
+                            "pixelFraction": 0.0045791245,
+                            "score": 0.030594336
+                        },
+                        {
+                            "color": {
+                                "blue": 217,
+                                "green": 178,
+                                "red": 111
+                            },
+                            "pixelFraction": 0.0054545454,
+                            "score": 0.021371923
+                        },
+                        {
+                            "color": {
+                                "blue": 146,
+                                "green": 157,
+                                "red": 160
+                            },
+                            "pixelFraction": 0.0032996633,
+                            "score": 0.020893635
+                        },
+                        {
+                            "color": {
+                                "blue": 226,
+                                "green": 189,
+                                "red": 121
+                            },
+                            "pixelFraction": 0.0016835016,
+                            "score": 0.014631575
+                        },
+                        {
+                            "color": {
+                                "blue": 227,
+                                "green": 188,
+                                "red": 120
+                            },
+                            "pixelFraction": 0.00067340065,
+                            "score": 0.01125144
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.9704014,
+                    "topicality": 0.9704014
+                },
+                {
+                    "description": "blue",
+                    "mid": "/m/01g5v",
+                    "score": 0.96835655,
+                    "topicality": 0.96835655
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.91936046,
+                    "topicality": 0.91936046
+                },
+                {
+                    "description": "pattern",
+                    "mid": "/m/0hwky",
+                    "score": 0.73426354,
+                    "topicality": 0.73426354
+                },
+                {
+                    "description": "line",
+                    "mid": "/m/03scnj",
+                    "score": 0.71714634,
+                    "topicality": 0.71714634
+                },
+                {
+                    "description": "design",
+                    "mid": "/m/02cwm",
+                    "score": 0.68632346,
+                    "topicality": 0.68632346
+                },
+                {
+                    "description": "area",
+                    "mid": "/m/0n0j",
+                    "score": 0.6720096,
+                    "topicality": 0.6720096
+                },
+                {
+                    "description": "number",
+                    "mid": "/m/05fwb",
+                    "score": 0.65641385,
+                    "topicality": 0.65641385
+                },
+                {
+                    "description": "material",
+                    "mid": "/m/01l0y0",
+                    "score": 0.6089499,
+                    "topicality": 0.6089499
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.6042475,
+                    "topicality": 0.6042475
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

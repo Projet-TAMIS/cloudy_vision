@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.12398529052734,
+            "Name": "Diagram"
+        },
+        {
+            "Confidence": 90.12398529052734,
+            "Name": "Plan"
+        },
+        {
+            "Confidence": 64.73074340820312,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 64.73074340820312,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 64.73074340820312,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 64.73074340820312,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 54.509849548339844,
+            "Name": "Birch"
+        },
+        {
+            "Confidence": 54.509849548339844,
+            "Name": "Flora"
+        },
+        {
+            "Confidence": 54.509849548339844,
+            "Name": "Plant"
+        },
+        {
+            "Confidence": 54.509849548339844,
+            "Name": "Tree"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "500",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:13:13 GMT",
+            "x-amzn-requestid": "2e7e2fe0-a199-11e8-bfe9-ad1fc4d479dd"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "2e7e2fe0-a199-11e8-bfe9-ad1fc4d479dd",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.1187851428985596
+}

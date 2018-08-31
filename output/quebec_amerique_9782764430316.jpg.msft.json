@@ -1,0 +1,131 @@
+{
+    "adult": {
+        "adultScore": 0.00921060424298048,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011145803146064281
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "9B7C30",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "Blue",
+        "dominantColors": [
+            "Blue"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9712209637207968,
+                "text": "a person wearing a suit and tie"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "suit",
+            "photo",
+            "standing",
+            "posing",
+            "wearing",
+            "woman",
+            "old",
+            "military",
+            "front",
+            "holding",
+            "black",
+            "dressed",
+            "uniform",
+            "cutting",
+            "statue",
+            "display",
+            "cake",
+            "cut",
+            "sign",
+            "table",
+            "large",
+            "people",
+            "group",
+            "hat",
+            "snow",
+            "white"
+        ]
+    },
+    "faces": [
+        {
+            "age": 57,
+            "faceRectangle": {
+                "height": 132,
+                "left": 189,
+                "top": 715,
+                "width": 132
+            },
+            "gender": "Male"
+        },
+        {
+            "age": 62,
+            "faceRectangle": {
+                "height": 124,
+                "left": 700,
+                "top": 838,
+                "width": 124
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1500,
+        "width": 1000
+    },
+    "requestId": "355061d0-619a-4256-92e6-2728c494033c",
+    "response_time": 4.52907395362854,
+    "tags": [
+        {
+            "confidence": 0.9919989705085754,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9713945984840393,
+            "name": "man"
+        },
+        {
+            "confidence": 0.9206658005714417,
+            "name": "suit"
+        },
+        {
+            "confidence": 0.8262370824813843,
+            "name": "standing"
+        },
+        {
+            "confidence": 0.7733063697814941,
+            "name": "posing"
+        },
+        {
+            "confidence": 0.5206475853919983,
+            "name": "old"
+        },
+        {
+            "confidence": 0.3367729187011719,
+            "name": "dressed"
+        }
+    ]
+}

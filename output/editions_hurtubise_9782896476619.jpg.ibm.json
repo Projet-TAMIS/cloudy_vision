@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "motel",
+                            "score": 0.544,
+                            "type_hierarchy": "/b\u00e2timent/h\u00f4tel/motel"
+                        },
+                        {
+                            "class": "h\u00f4tel",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "b\u00e2timent",
+                            "score": 0.561
+                        },
+                        {
+                            "class": "h\u00f4tel (b\u00e2timent)",
+                            "score": 0.5
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896476619.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6054589748382568
+}

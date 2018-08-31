@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "couleur \u00e9meraude",
+                            "score": 0.909,
+                            "type_hierarchy": "/couleur vert/couleur \u00e9meraude"
+                        },
+                        {
+                            "class": "couleur vert",
+                            "score": 0.909
+                        },
+                        {
+                            "class": "dispositif \u00e9lectrique",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "p\u00e9riph\u00e9rique de stockage",
+                            "score": 0.781
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760625266.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.740260124206543
+}

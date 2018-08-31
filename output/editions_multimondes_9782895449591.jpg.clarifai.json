@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:10:07.816177489Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_sX3FBQTx",
+                        "name": "bill",
+                        "value": 0.95202166
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S1qBKn3x",
+                        "name": "stock",
+                        "value": 0.94292116
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_btvp5RXz",
+                        "name": "shopping",
+                        "value": 0.93011475
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.904253
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.8995027
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SGSS2Pmg",
+                        "name": "shop",
+                        "value": 0.83720195
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.83297884
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HQJztLHX",
+                        "name": "sale",
+                        "value": 0.8313307
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_K6dHqzgm",
+                        "name": "banner",
+                        "value": 0.8139447
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.8031455
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dlrW3K9W",
+                        "name": "market",
+                        "value": 0.75603807
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_R5h5zC7v",
+                        "name": "mall",
+                        "value": 0.7341627
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_204z6rQq",
+                        "name": "flag",
+                        "value": 0.729933
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5XrskCj8",
+                        "name": "bargain",
+                        "value": 0.7118672
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l24PsHFc",
+                        "name": "option",
+                        "value": 0.70233274
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sTB9Jjfn",
+                        "name": "merchandise",
+                        "value": 0.6944786
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GjVpxXrs",
+                        "name": "street",
+                        "value": 0.6889991
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.67148834
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SZ0mBjV8",
+                        "name": "designing",
+                        "value": 0.65787524
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2wK2dkNW",
+                        "name": "image",
+                        "value": 0.6492671
+                    }
+                ]
+            },
+            "id": "c456c4f0de7540569f99f1f094fe7a14",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/a525342d0a24f14156207e96b549fb98"
+                    }
+                },
+                "id": "58a93253b66f41bb816d127d89a77c02"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.6089990139007568,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

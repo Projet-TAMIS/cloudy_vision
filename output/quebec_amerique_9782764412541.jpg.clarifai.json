@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:17:16.129871985Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dm5GLXnB",
+                        "name": "illustration",
+                        "value": 0.9863855
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JBPqff8z",
+                        "name": "art",
+                        "value": 0.9842324
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QrcQWGwJ",
+                        "name": "painting",
+                        "value": 0.96764433
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.9426532
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_358VqvJT",
+                        "name": "religion",
+                        "value": 0.9257729
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2Bh4VMrb",
+                        "name": "artistic",
+                        "value": 0.9240143
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KJZC1RDL",
+                        "name": "antique",
+                        "value": 0.9101033
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_F1L75hRp",
+                        "name": "graffiti",
+                        "value": 0.9021156
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.90110266
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.8949331
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_MKSwLDhD",
+                        "name": "print",
+                        "value": 0.89335865
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M78jFpM2",
+                        "name": "text",
+                        "value": 0.888988
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.86794025
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.8666099
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_djRqCRT8",
+                        "name": "culture",
+                        "value": 0.85875773
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.85827374
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GTvMbVGh",
+                        "name": "ancient",
+                        "value": 0.85109174
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HP6qMkcb",
+                        "name": "creativity",
+                        "value": 0.8376385
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9bHlLt8r",
+                        "name": "paper",
+                        "value": 0.83755577
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XclQc6bP",
+                        "name": "traditional",
+                        "value": 0.8291455
+                    }
+                ]
+            },
+            "id": "6259e54b0aad4222aaedfa081d982156",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/107b8a2acfe9facfd976c51cd4369251"
+                    }
+                },
+                "id": "48c4968efc054347874fc20a2d35c44b"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 7.24436616897583,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

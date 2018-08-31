@@ -1,0 +1,55 @@
+{
+    "adult": {
+        "adultScore": 0.024526242166757584,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02875344455242157
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "B1951A",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Black",
+            "Yellow"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7406446063227018,
+                "text": "a close up of a sign"
+            }
+        ],
+        "tags": [
+            "sign"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1450,
+        "width": 1000
+    },
+    "requestId": "e3262c0a-1fea-4f9c-97c2-dad8b57f3309",
+    "response_time": 2.0026779174804688,
+    "tags": []
+}

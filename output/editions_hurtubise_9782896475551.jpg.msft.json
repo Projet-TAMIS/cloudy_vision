@@ -1,0 +1,62 @@
+{
+    "adult": {
+        "adultScore": 0.004980717785656452,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.005741072352975607
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.16015625
+        },
+        {
+            "name": "text_sign",
+            "score": 0.1953125
+        }
+    ],
+    "color": {
+        "accentColor": "BA4E11",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5378476547328503,
+                "text": "a close up of a piece of paper"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1508,
+        "width": 1000
+    },
+    "requestId": "0b203e58-2c39-496f-925c-a05bc10871bd",
+    "response_time": 1.4800360202789307,
+    "tags": [
+        {
+            "confidence": 0.68449467420578,
+            "name": "stationary"
+        },
+        {
+            "confidence": 0.6029635071754456,
+            "name": "businesscard"
+        },
+        {
+            "confidence": 0.2844732403755188,
+            "name": "envelope"
+        }
+    ]
+}

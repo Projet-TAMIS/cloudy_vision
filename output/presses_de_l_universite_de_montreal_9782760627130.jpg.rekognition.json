@@ -1,0 +1,82 @@
+{
+    "Labels": [
+        {
+            "Confidence": 73.60062408447266,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 73.60062408447266,
+            "Name": "Office Building"
+        },
+        {
+            "Confidence": 63.29179382324219,
+            "Name": "Corridor"
+        },
+        {
+            "Confidence": 61.36033630371094,
+            "Name": "Banister"
+        },
+        {
+            "Confidence": 61.36033630371094,
+            "Name": "Handrail"
+        },
+        {
+            "Confidence": 60.80120849609375,
+            "Name": "Lighting"
+        },
+        {
+            "Confidence": 53.0250129699707,
+            "Name": "Indoors"
+        },
+        {
+            "Confidence": 53.0250129699707,
+            "Name": "Interior Design"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Alley"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Alleyway"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "City"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Road"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Street"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Town"
+        },
+        {
+            "Confidence": 51.56216049194336,
+            "Name": "Urban"
+        },
+        {
+            "Confidence": 50.54819107055664,
+            "Name": "Housing"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "853",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:12:54 GMT",
+            "x-amzn-requestid": "241b7f3b-a199-11e8-9419-dd111a57f79b"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "241b7f3b-a199-11e8-9419-dd111a57f79b",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.3309791088104248
+}

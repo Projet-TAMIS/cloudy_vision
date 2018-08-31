@@ -1,0 +1,58 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.61450958251953,
+            "Name": "Automobile"
+        },
+        {
+            "Confidence": 95.61450958251953,
+            "Name": "Car"
+        },
+        {
+            "Confidence": 95.61450958251953,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 95.61450958251953,
+            "Name": "Vehicle"
+        },
+        {
+            "Confidence": 74.50311279296875,
+            "Name": "Limo"
+        },
+        {
+            "Confidence": 71.81446838378906,
+            "Name": "Sedan"
+        },
+        {
+            "Confidence": 61.569976806640625,
+            "Name": "Coupe"
+        },
+        {
+            "Confidence": 61.569976806640625,
+            "Name": "Sports Car"
+        },
+        {
+            "Confidence": 51.376197814941406,
+            "Name": "Convertible"
+        },
+        {
+            "Confidence": 51.286346435546875,
+            "Name": "Bumper"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "556",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:17:58 GMT",
+            "x-amzn-requestid": "d90bb039-a199-11e8-afc4-f7f03b3a7f31"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d90bb039-a199-11e8-afc4-f7f03b3a7f31",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.4561619758605957
+}

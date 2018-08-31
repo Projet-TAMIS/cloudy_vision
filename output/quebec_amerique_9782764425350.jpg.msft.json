@@ -1,0 +1,88 @@
+{
+    "adult": {
+        "adultScore": 0.007681273389607668,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.009545199573040009
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "B27819",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.2906182230826281,
+                "text": "a group of people looking at a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "man",
+            "table",
+            "woman",
+            "young",
+            "people",
+            "covered",
+            "standing",
+            "many",
+            "display",
+            "group",
+            "store",
+            "riding",
+            "city",
+            "street",
+            "sign"
+        ]
+    },
+    "faces": [
+        {
+            "age": 28,
+            "faceRectangle": {
+                "height": 62,
+                "left": 402,
+                "top": 1710,
+                "width": 62
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2375,
+        "width": 1400
+    },
+    "requestId": "eeb11191-8949-48f9-a91a-14fd5af2c22c",
+    "response_time": 2.420973062515259,
+    "tags": [
+        {
+            "confidence": 0.9574459195137024,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9231502413749695,
+            "name": "book"
+        }
+    ]
+}

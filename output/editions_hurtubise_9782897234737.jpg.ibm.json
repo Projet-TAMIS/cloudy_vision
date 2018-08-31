@@ -1,0 +1,34 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "personne",
+                            "score": 0.78
+                        },
+                        {
+                            "class": "panneau d'affichage",
+                            "score": 0.969
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "couleur marron",
+                            "score": 0.795
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897234737.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 6.1855788230896
+}

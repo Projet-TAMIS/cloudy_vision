@@ -1,0 +1,174 @@
+{
+    "response_time": 1.4677770137786865,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {
+                                    "y": 180
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 180
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1686
+                                },
+                                {
+                                    "y": 1686
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 0.98999995
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 80,
+                                "green": 94,
+                                "red": 40
+                            },
+                            "pixelFraction": 0.023453815,
+                            "score": 0.15351889
+                        },
+                        {
+                            "color": {
+                                "blue": 249,
+                                "green": 249,
+                                "red": 239
+                            },
+                            "pixelFraction": 0.68473893,
+                            "score": 0.01029703
+                        },
+                        {
+                            "color": {
+                                "blue": 115,
+                                "green": 129,
+                                "red": 74
+                            },
+                            "pixelFraction": 0.023614459,
+                            "score": 0.11849868
+                        },
+                        {
+                            "color": {
+                                "blue": 153,
+                                "green": 164,
+                                "red": 113
+                            },
+                            "pixelFraction": 0.026425702,
+                            "score": 0.11609841
+                        },
+                        {
+                            "color": {
+                                "blue": 113,
+                                "green": 132,
+                                "red": 55
+                            },
+                            "pixelFraction": 0.015421687,
+                            "score": 0.08988261
+                        },
+                        {
+                            "color": {
+                                "blue": 81,
+                                "green": 100,
+                                "red": 27
+                            },
+                            "pixelFraction": 0.009317269,
+                            "score": 0.07685566
+                        },
+                        {
+                            "color": {
+                                "blue": 96,
+                                "green": 132,
+                                "red": 63
+                            },
+                            "pixelFraction": 0.0093975905,
+                            "score": 0.0766978
+                        },
+                        {
+                            "color": {
+                                "blue": 146,
+                                "green": 165,
+                                "red": 85
+                            },
+                            "pixelFraction": 0.010843374,
+                            "score": 0.063497595
+                        },
+                        {
+                            "color": {
+                                "blue": 126,
+                                "green": 165,
+                                "red": 99
+                            },
+                            "pixelFraction": 0.0072289156,
+                            "score": 0.059834722
+                        },
+                        {
+                            "color": {
+                                "blue": 67,
+                                "green": 99,
+                                "red": 30
+                            },
+                            "pixelFraction": 0.0061044176,
+                            "score": 0.05689084
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.9276081,
+                    "topicality": 0.9276081
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.8029681,
+                    "topicality": 0.8029681
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.79980075,
+                    "topicality": 0.79980075
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.6754413,
+                    "topicality": 0.6754413
+                },
+                {
+                    "description": "pattern",
+                    "mid": "/m/0hwky",
+                    "score": 0.63749087,
+                    "topicality": 0.63749087
+                },
+                {
+                    "description": "brand",
+                    "mid": "/m/01cd9",
+                    "score": 0.57714564,
+                    "topicality": 0.57714564
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

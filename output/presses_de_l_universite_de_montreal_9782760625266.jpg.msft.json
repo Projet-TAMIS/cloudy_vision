@@ -1,0 +1,60 @@
+{
+    "adult": {
+        "adultScore": 0.0067360904067754745,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.00803463812917471
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_doorwindows",
+            "score": 0.09765625
+        },
+        {
+            "name": "others_",
+            "score": 0.015625
+        },
+        {
+            "name": "text_",
+            "score": 0.28125
+        },
+        {
+            "name": "text_sign",
+            "score": 0.14453125
+        }
+    ],
+    "color": {
+        "accentColor": "1496B7",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.675280344074802,
+                "text": "a screenshot of a cell phone"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1814,
+        "width": 1000
+    },
+    "requestId": "4a77d789-bd20-474c-b16c-d365aba95deb",
+    "response_time": 1.3950769901275635,
+    "tags": []
+}

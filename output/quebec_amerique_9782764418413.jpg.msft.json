@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.08800889551639557,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.09451372176408768
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.015625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "8D183C",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Red",
+        "dominantColors": [],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.27899037148405337,
+                "text": "a close up of a person"
+            }
+        ],
+        "tags": [
+            "sitting",
+            "photo",
+            "table",
+            "holding",
+            "computer",
+            "food",
+            "man",
+            "room"
+        ]
+    },
+    "faces": [
+        {
+            "age": 4,
+            "faceRectangle": {
+                "height": 61,
+                "left": 312,
+                "top": 1025,
+                "width": 61
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1402,
+        "width": 1402
+    },
+    "requestId": "635c7e3b-036a-4884-abfb-0abe7a48082c",
+    "response_time": 2.113213062286377,
+    "tags": []
+}

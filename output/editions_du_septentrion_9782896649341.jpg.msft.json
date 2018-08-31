@@ -1,0 +1,72 @@
+{
+    "adult": {
+        "adultScore": 0.011495103128254414,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.017188921570777893
+    },
+    "categories": [
+        {
+            "name": "text_",
+            "score": 0.38671875
+        },
+        {
+            "name": "text_sign",
+            "score": 0.453125
+        }
+    ],
+    "color": {
+        "accentColor": "0B4766",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6589760507524238,
+                "text": "a sign on a brick building"
+            }
+        ],
+        "tags": [
+            "building",
+            "rock",
+            "sitting",
+            "brick",
+            "photo",
+            "stone",
+            "black",
+            "woman",
+            "man",
+            "old",
+            "sign",
+            "cake",
+            "table",
+            "people",
+            "bird",
+            "standing",
+            "red"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2700,
+        "width": 1800
+    },
+    "requestId": "e77d39c1-c414-484a-94c8-3e39289b884c",
+    "response_time": 2.767446994781494,
+    "tags": [
+        {
+            "confidence": 0.23783846199512482,
+            "name": "stone"
+        }
+    ]
+}

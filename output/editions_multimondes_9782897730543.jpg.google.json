@@ -1,0 +1,195 @@
+{
+    "response_time": 3.123795986175537,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2163
+                                },
+                                {
+                                    "y": 2163
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 194,
+                                "green": 164,
+                                "red": 133
+                            },
+                            "pixelFraction": 0.3320275,
+                            "score": 0.7278283
+                        },
+                        {
+                            "color": {
+                                "blue": 220,
+                                "green": 190,
+                                "red": 162
+                            },
+                            "pixelFraction": 0.27175257,
+                            "score": 0.08201936
+                        },
+                        {
+                            "color": {
+                                "blue": 155,
+                                "green": 126,
+                                "red": 94
+                            },
+                            "pixelFraction": 0.037113402,
+                            "score": 0.07117156
+                        },
+                        {
+                            "color": {
+                                "blue": 205,
+                                "green": 193,
+                                "red": 181
+                            },
+                            "pixelFraction": 0.21491408,
+                            "score": 0.062500566
+                        },
+                        {
+                            "color": {
+                                "blue": 56,
+                                "green": 39,
+                                "red": 72
+                            },
+                            "pixelFraction": 0.0019243986,
+                            "score": 0.00027289687
+                        },
+                        {
+                            "color": {
+                                "blue": 239,
+                                "green": 229,
+                                "red": 217
+                            },
+                            "pixelFraction": 0.04103093,
+                            "score": 0.026878769
+                        },
+                        {
+                            "color": {
+                                "blue": 177,
+                                "green": 166,
+                                "red": 152
+                            },
+                            "pixelFraction": 0.06371134,
+                            "score": 0.014578692
+                        },
+                        {
+                            "color": {
+                                "blue": 114,
+                                "green": 91,
+                                "red": 70
+                            },
+                            "pixelFraction": 0.008522336,
+                            "score": 0.0054738554
+                        },
+                        {
+                            "color": {
+                                "blue": 165,
+                                "green": 124,
+                                "red": 82
+                            },
+                            "pixelFraction": 0.0009621993,
+                            "score": 0.002578001
+                        },
+                        {
+                            "color": {
+                                "blue": 246,
+                                "green": 224,
+                                "red": 201
+                            },
+                            "pixelFraction": 0.003161512,
+                            "score": 0.0023158651
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "arctic",
+                    "mid": "/m/09738",
+                    "score": 0.8679686,
+                    "topicality": 0.8679686
+                },
+                {
+                    "description": "wave",
+                    "mid": "/m/02p0sll",
+                    "score": 0.830733,
+                    "topicality": 0.830733
+                },
+                {
+                    "description": "water transportation",
+                    "mid": "/m/08rrcl",
+                    "score": 0.8176872,
+                    "topicality": 0.8176872
+                },
+                {
+                    "description": "ocean",
+                    "mid": "/m/05kq4",
+                    "score": 0.81364477,
+                    "topicality": 0.81364477
+                },
+                {
+                    "description": "sea ice",
+                    "mid": "/m/01ycvc",
+                    "score": 0.78207886,
+                    "topicality": 0.78207886
+                },
+                {
+                    "description": "sky",
+                    "mid": "/m/01bqvp",
+                    "score": 0.7788694,
+                    "topicality": 0.7788694
+                },
+                {
+                    "description": "water",
+                    "mid": "/m/0838f",
+                    "score": 0.77832556,
+                    "topicality": 0.77832556
+                },
+                {
+                    "description": "iceberg",
+                    "mid": "/m/012mqx",
+                    "score": 0.77370006,
+                    "topicality": 0.77370006
+                },
+                {
+                    "description": "sea",
+                    "mid": "/m/06npx",
+                    "score": 0.7618104,
+                    "topicality": 0.7618104
+                },
+                {
+                    "description": "arctic ocean",
+                    "mid": "/m/0j85",
+                    "score": 0.7584289,
+                    "topicality": 0.7584289
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

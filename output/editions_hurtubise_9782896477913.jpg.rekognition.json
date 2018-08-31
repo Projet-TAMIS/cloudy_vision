@@ -1,0 +1,30 @@
+{
+    "Labels": [
+        {
+            "Confidence": 77.6753921508789,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 77.6753921508789,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 68.3857421875,
+            "Name": "Poster"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "187",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:03:38 GMT",
+            "x-amzn-requestid": "d80acc0a-a197-11e8-99b1-17c601bf5edb"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d80acc0a-a197-11e8-99b1-17c601bf5edb",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.2242639064788818
+}

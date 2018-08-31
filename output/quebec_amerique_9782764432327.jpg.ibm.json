@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cadre photo",
+                            "score": 0.88,
+                            "type_hierarchy": "/structure de soutien/structure/cadre photo"
+                        },
+                        {
+                            "class": "structure",
+                            "score": 0.963
+                        },
+                        {
+                            "class": "structure de soutien",
+                            "score": 0.963
+                        },
+                        {
+                            "class": "cadre",
+                            "score": 0.74,
+                            "type_hierarchy": "/structure de soutien/structure/cadre"
+                        },
+                        {
+                            "class": "gazette",
+                            "score": 0.5,
+                            "type_hierarchy": "/moyen/journal/gazette"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.629
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.629
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur alb\u00e2tre",
+                            "score": 0.996
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764432327.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.9378809928894043
+}

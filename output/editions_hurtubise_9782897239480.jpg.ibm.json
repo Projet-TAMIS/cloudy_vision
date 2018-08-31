@@ -1,0 +1,54 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "chapeau",
+                            "score": 0.556,
+                            "type_hierarchy": "/coiffe/chapeau"
+                        },
+                        {
+                            "class": "coiffe",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "livreur",
+                            "score": 0.524,
+                            "type_hierarchy": "/personne/livreur"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.611
+                        },
+                        {
+                            "class": "gens",
+                            "score": 0.515,
+                            "type_hierarchy": "/personne/gens"
+                        },
+                        {
+                            "class": "Mountie (GRC/soldat Canadien)",
+                            "score": 0.501,
+                            "type_hierarchy": "/personne/Mountie (GRC/soldat Canadien)"
+                        },
+                        {
+                            "class": "bandeau pour les yeux",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "couleur rouge d'alizarine",
+                            "score": 0.928
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782897239480.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.7910208702087402
+}

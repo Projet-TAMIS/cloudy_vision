@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "personne",
+                            "score": 0.795
+                        },
+                        {
+                            "class": "\u00e9chographie",
+                            "score": 0.606
+                        },
+                        {
+                            "class": "radiogramme",
+                            "score": 0.523
+                        },
+                        {
+                            "class": "peau",
+                            "score": 0.5,
+                            "type_hierarchy": "/personne/peau"
+                        },
+                        {
+                            "class": "couleur noir charbon",
+                            "score": 0.991
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_xyz_9782892618693.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.2054381370544434
+}

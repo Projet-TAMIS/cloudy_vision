@@ -1,0 +1,195 @@
+{
+    "response_time": 3.118067979812622,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1399
+                                },
+                                {
+                                    "x": 1399,
+                                    "y": 2136
+                                },
+                                {
+                                    "y": 2136
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 160,
+                                "green": 182,
+                                "red": 246
+                            },
+                            "pixelFraction": 0.02489796,
+                            "score": 0.095055185
+                        },
+                        {
+                            "color": {
+                                "blue": 246,
+                                "green": 201,
+                                "red": 92
+                            },
+                            "pixelFraction": 0.03755102,
+                            "score": 0.07067669
+                        },
+                        {
+                            "color": {
+                                "blue": 175,
+                                "green": 110,
+                                "red": 213
+                            },
+                            "pixelFraction": 0.03217687,
+                            "score": 0.049392723
+                        },
+                        {
+                            "color": {
+                                "blue": 140,
+                                "green": 64,
+                                "red": 102
+                            },
+                            "pixelFraction": 0.003877551,
+                            "score": 0.041618556
+                        },
+                        {
+                            "color": {
+                                "blue": 64,
+                                "green": 197,
+                                "red": 237
+                            },
+                            "pixelFraction": 0.0069387755,
+                            "score": 0.023467716
+                        },
+                        {
+                            "color": {
+                                "blue": 208,
+                                "green": 242,
+                                "red": 250
+                            },
+                            "pixelFraction": 0.08496599,
+                            "score": 0.01930599
+                        },
+                        {
+                            "color": {
+                                "blue": 97,
+                                "green": 13,
+                                "red": 180
+                            },
+                            "pixelFraction": 0.0036054421,
+                            "score": 0.016095659
+                        },
+                        {
+                            "color": {
+                                "blue": 23,
+                                "green": 43,
+                                "red": 77
+                            },
+                            "pixelFraction": 0.0040136054,
+                            "score": 0.00975975
+                        },
+                        {
+                            "color": {
+                                "blue": 153,
+                                "green": 172,
+                                "red": 69
+                            },
+                            "pixelFraction": 0.016666668,
+                            "score": 0.00795886
+                        },
+                        {
+                            "color": {
+                                "blue": 76,
+                                "green": 123,
+                                "red": 57
+                            },
+                            "pixelFraction": 0.0070068026,
+                            "score": 0.004634516
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "cartoon",
+                    "mid": "/m/0215n",
+                    "score": 0.8785366,
+                    "topicality": 0.8785366
+                },
+                {
+                    "description": "motor vehicle",
+                    "mid": "/m/012f08",
+                    "score": 0.81503284,
+                    "topicality": 0.81503284
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.8125064,
+                    "topicality": 0.8125064
+                },
+                {
+                    "description": "poster",
+                    "mid": "/m/01n5jq",
+                    "score": 0.780621,
+                    "topicality": 0.780621
+                },
+                {
+                    "description": "automotive design",
+                    "mid": "/m/068mqj",
+                    "score": 0.76293814,
+                    "topicality": 0.76293814
+                },
+                {
+                    "description": "fiction",
+                    "mid": "/m/02xlf",
+                    "score": 0.67183954,
+                    "topicality": 0.67183954
+                },
+                {
+                    "description": "illustration",
+                    "mid": "/m/01kr8f",
+                    "score": 0.67182195,
+                    "topicality": 0.67182195
+                },
+                {
+                    "description": "comics",
+                    "mid": "/m/012h24",
+                    "score": 0.671403,
+                    "topicality": 0.671403
+                },
+                {
+                    "description": "graphics",
+                    "mid": "/m/021sdg",
+                    "score": 0.5624696,
+                    "topicality": 0.5624696
+                },
+                {
+                    "description": "graphic design",
+                    "mid": "/m/03c31",
+                    "score": 0.5429904,
+                    "topicality": 0.5429904
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

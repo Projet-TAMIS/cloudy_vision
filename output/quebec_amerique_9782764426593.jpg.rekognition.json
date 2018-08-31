@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.20108032226562,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.20108032226562,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.20108032226562,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 54.01714324951172,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 54.01714324951172,
+            "Name": "Gown"
+        },
+        {
+            "Confidence": 54.01714324951172,
+            "Name": "Robe"
+        },
+        {
+            "Confidence": 52.243465423583984,
+            "Name": "Dress"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "352",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:23:48 GMT",
+            "x-amzn-requestid": "a97c963a-a19a-11e8-9ebd-bba0f4c3e1ce"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a97c963a-a19a-11e8-9ebd-bba0f4c3e1ce",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.202936887741089
+}

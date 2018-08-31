@@ -1,0 +1,195 @@
+{
+    "response_time": 1.61098313331604,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 999
+                                },
+                                {
+                                    "x": 999,
+                                    "y": 1498
+                                },
+                                {
+                                    "y": 1498
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 18,
+                                "green": 24,
+                                "red": 22
+                            },
+                            "pixelFraction": 0.11506667,
+                            "score": 0.24776107
+                        },
+                        {
+                            "color": {
+                                "blue": 230,
+                                "green": 235,
+                                "red": 242
+                            },
+                            "pixelFraction": 0.051066667,
+                            "score": 0.09482244
+                        },
+                        {
+                            "color": {
+                                "blue": 47,
+                                "green": 51,
+                                "red": 50
+                            },
+                            "pixelFraction": 0.16893333,
+                            "score": 0.13219982
+                        },
+                        {
+                            "color": {
+                                "blue": 79,
+                                "green": 84,
+                                "red": 83
+                            },
+                            "pixelFraction": 0.17833333,
+                            "score": 0.111117855
+                        },
+                        {
+                            "color": {
+                                "blue": 110,
+                                "green": 115,
+                                "red": 116
+                            },
+                            "pixelFraction": 0.125,
+                            "score": 0.06404185
+                        },
+                        {
+                            "color": {
+                                "blue": 30,
+                                "green": 48,
+                                "red": 46
+                            },
+                            "pixelFraction": 0.031866666,
+                            "score": 0.0593117
+                        },
+                        {
+                            "color": {
+                                "blue": 30,
+                                "green": 56,
+                                "red": 42
+                            },
+                            "pixelFraction": 0.021,
+                            "score": 0.05161776
+                        },
+                        {
+                            "color": {
+                                "blue": 15,
+                                "green": 32,
+                                "red": 29
+                            },
+                            "pixelFraction": 0.012933333,
+                            "score": 0.04413672
+                        },
+                        {
+                            "color": {
+                                "blue": 150,
+                                "green": 155,
+                                "red": 156
+                            },
+                            "pixelFraction": 0.052533332,
+                            "score": 0.04264326
+                        },
+                        {
+                            "color": {
+                                "blue": 189,
+                                "green": 195,
+                                "red": 197
+                            },
+                            "pixelFraction": 0.0262,
+                            "score": 0.030453898
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "town",
+                    "mid": "/m/0dx1j",
+                    "score": 0.8361042,
+                    "topicality": 0.8361042
+                },
+                {
+                    "description": "house",
+                    "mid": "/m/03jm5",
+                    "score": 0.7408544,
+                    "topicality": 0.7408544
+                },
+                {
+                    "description": "neighbourhood",
+                    "mid": "/m/0180xr",
+                    "score": 0.7305776,
+                    "topicality": 0.7305776
+                },
+                {
+                    "description": "advertising",
+                    "mid": "/m/011s0",
+                    "score": 0.7001828,
+                    "topicality": 0.7001828
+                },
+                {
+                    "description": "home",
+                    "mid": "/m/01l0mw",
+                    "score": 0.6969585,
+                    "topicality": 0.6969585
+                },
+                {
+                    "description": "real estate",
+                    "mid": "/m/023907r",
+                    "score": 0.65163434,
+                    "topicality": 0.65163434
+                },
+                {
+                    "description": "building",
+                    "mid": "/m/0cgh4",
+                    "score": 0.64842045,
+                    "topicality": 0.64842045
+                },
+                {
+                    "description": "facade",
+                    "mid": "/m/01x314",
+                    "score": 0.6433596,
+                    "topicality": 0.6433596
+                },
+                {
+                    "description": "tree",
+                    "mid": "/m/07j7r",
+                    "score": 0.51192486,
+                    "topicality": 0.51192486
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.50500655,
+                    "topicality": 0.50500655
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

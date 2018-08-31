@@ -1,0 +1,59 @@
+{
+    "adult": {
+        "adultScore": 0.005769551731646061,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.006723999511450529
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.359375
+        },
+        {
+            "name": "others_",
+            "score": 0.0234375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "027DC2",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Blue"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.38390693475983706,
+                "text": "a close up of a box"
+            }
+        ],
+        "tags": [
+            "box",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2159,
+        "width": 1400
+    },
+    "requestId": "83d988fc-8563-40fd-84b4-25ab5bca319d",
+    "response_time": 2.207613945007324,
+    "tags": []
+}

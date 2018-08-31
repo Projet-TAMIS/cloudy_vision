@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Glacier"
+        },
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Ice"
+        },
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Mountain"
+        },
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Nature"
+        },
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Outdoors"
+        },
+        {
+            "Confidence": 98.13871765136719,
+            "Name": "Snow"
+        },
+        {
+            "Confidence": 91.10877990722656,
+            "Name": "Iceberg"
+        },
+        {
+            "Confidence": 78.20283508300781,
+            "Name": "Arctic"
+        },
+        {
+            "Confidence": 78.20283508300781,
+            "Name": "Winter"
+        },
+        {
+            "Confidence": 51.498558044433594,
+            "Name": "Boat"
+        },
+        {
+            "Confidence": 51.498558044433594,
+            "Name": "Dinghy"
+        },
+        {
+            "Confidence": 51.498558044433594,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 51.498558044433594,
+            "Name": "Vessel"
+        },
+        {
+            "Confidence": 51.498558044433594,
+            "Name": "Watercraft"
+        },
+        {
+            "Confidence": 51.217716217041016,
+            "Name": "Leisure Activities"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "776",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:10:12 GMT",
+            "x-amzn-requestid": "c21c5e90-a198-11e8-8bfa-893a0a88e2e9"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c21c5e90-a198-11e8-8bfa-893a0a88e2e9",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.67710018157959
+}

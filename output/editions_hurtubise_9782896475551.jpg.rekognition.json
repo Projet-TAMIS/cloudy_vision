@@ -1,0 +1,62 @@
+{
+    "Labels": [
+        {
+            "Confidence": 76.97608184814453,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 76.97608184814453,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 76.97608184814453,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 76.97608184814453,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 58.87424850463867,
+            "Name": "Business Card"
+        },
+        {
+            "Confidence": 58.87424850463867,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 54.560791015625,
+            "Name": "File Binder"
+        },
+        {
+            "Confidence": 54.560791015625,
+            "Name": "File Folder"
+        },
+        {
+            "Confidence": 51.737754821777344,
+            "Name": "Envelope"
+        },
+        {
+            "Confidence": 51.737754821777344,
+            "Name": "Greeting Card"
+        },
+        {
+            "Confidence": 51.737754821777344,
+            "Name": "Mail"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "607",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:02:18 GMT",
+            "x-amzn-requestid": "a99110a1-a197-11e8-89f8-8dd7543a5039"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a99110a1-a197-11e8-89f8-8dd7543a5039",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9165909290313721
+}

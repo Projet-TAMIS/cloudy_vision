@@ -1,0 +1,68 @@
+{
+    "adult": {
+        "adultScore": 0.007514117751270533,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.009157510474324226
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_",
+            "score": 0.40234375
+        },
+        {
+            "name": "text_sign",
+            "score": 0.34375
+        }
+    ],
+    "color": {
+        "accentColor": "06515A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6688440223669606,
+                "text": "a close up of a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "sign",
+            "old"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2685,
+        "width": 1790
+    },
+    "requestId": "24c5aa0b-9fa0-41ea-b6cc-597365f3a6d1",
+    "response_time": 2.364528179168701,
+    "tags": [
+        {
+            "confidence": 0.9998397827148438,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9895740151405334,
+            "name": "book"
+        }
+    ]
+}

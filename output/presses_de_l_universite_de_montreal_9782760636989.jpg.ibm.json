@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "enveloppe",
+                            "score": 0.695,
+                            "type_hierarchy": "/papier cadeau/enveloppe"
+                        },
+                        {
+                            "class": "papier cadeau",
+                            "score": 0.696
+                        },
+                        {
+                            "class": "document \u00e9crit",
+                            "score": 0.682
+                        },
+                        {
+                            "class": "Tampax",
+                            "score": 0.5,
+                            "type_hierarchy": "/fiche/Tampax"
+                        },
+                        {
+                            "class": "fiche",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "tissu",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "couleur bleu d'outremer",
+                            "score": 0.884
+                        },
+                        {
+                            "class": "couleur bleu",
+                            "score": 0.861
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760636989.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.120041847229004
+}

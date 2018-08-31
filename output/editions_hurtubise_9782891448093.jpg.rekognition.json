@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.8898696899414,
+            "Name": "Bandage"
+        },
+        {
+            "Confidence": 95.8898696899414,
+            "Name": "First Aid"
+        },
+        {
+            "Confidence": 91.73312377929688,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 91.73312377929688,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 91.73312377929688,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 91.73312377929688,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 51.11874771118164,
+            "Name": "Label"
+        },
+        {
+            "Confidence": 51.11874771118164,
+            "Name": "Text"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "403",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:00:32 GMT",
+            "x-amzn-requestid": "68341f34-a197-11e8-94d6-1f40284efa3f"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "68341f34-a197-11e8-94d6-1f40284efa3f",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.1834020614624023
+}

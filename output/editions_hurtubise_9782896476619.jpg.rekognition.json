@@ -1,0 +1,158 @@
+{
+    "Labels": [
+        {
+            "Confidence": 79.4439468383789,
+            "Name": "Conifer"
+        },
+        {
+            "Confidence": 79.4439468383789,
+            "Name": "Flora"
+        },
+        {
+            "Confidence": 79.4439468383789,
+            "Name": "Plant"
+        },
+        {
+            "Confidence": 79.4439468383789,
+            "Name": "Tree"
+        },
+        {
+            "Confidence": 79.4439468383789,
+            "Name": "Yew"
+        },
+        {
+            "Confidence": 70.91289520263672,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 70.91289520263672,
+            "Name": "House"
+        },
+        {
+            "Confidence": 70.91289520263672,
+            "Name": "Housing"
+        },
+        {
+            "Confidence": 70.91289520263672,
+            "Name": "Villa"
+        },
+        {
+            "Confidence": 70.73965454101562,
+            "Name": "Architecture"
+        },
+        {
+            "Confidence": 70.73965454101562,
+            "Name": "Church"
+        },
+        {
+            "Confidence": 70.73965454101562,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 70.00296783447266,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 70.00296783447266,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 63.02693557739258,
+            "Name": "Cafe"
+        },
+        {
+            "Confidence": 63.02693557739258,
+            "Name": "Restaurant"
+        },
+        {
+            "Confidence": 59.882537841796875,
+            "Name": "Hotel"
+        },
+        {
+            "Confidence": 59.882537841796875,
+            "Name": "Inn"
+        },
+        {
+            "Confidence": 59.82572555541992,
+            "Name": "Cathedral"
+        },
+        {
+            "Confidence": 57.1700439453125,
+            "Name": "Spire"
+        },
+        {
+            "Confidence": 57.1700439453125,
+            "Name": "Steeple"
+        },
+        {
+            "Confidence": 57.1700439453125,
+            "Name": "Tower"
+        },
+        {
+            "Confidence": 51.74101638793945,
+            "Name": "Mansion"
+        },
+        {
+            "Confidence": 51.619327545166016,
+            "Name": "Urban"
+        },
+        {
+            "Confidence": 51.58904266357422,
+            "Name": "City"
+        },
+        {
+            "Confidence": 51.58904266357422,
+            "Name": "Town"
+        },
+        {
+            "Confidence": 51.44671630859375,
+            "Name": "Neighborhood"
+        },
+        {
+            "Confidence": 51.4002799987793,
+            "Name": "Pine"
+        },
+        {
+            "Confidence": 51.1827392578125,
+            "Name": "Monastery"
+        },
+        {
+            "Confidence": 51.0467643737793,
+            "Name": "Apartment Building"
+        },
+        {
+            "Confidence": 51.0467643737793,
+            "Name": "High Rise"
+        },
+        {
+            "Confidence": 50.879215240478516,
+            "Name": "Office Building"
+        },
+        {
+            "Confidence": 50.57825469970703,
+            "Name": "Arch"
+        },
+        {
+            "Confidence": 50.57825469970703,
+            "Name": "Arched"
+        },
+        {
+            "Confidence": 50.50501251220703,
+            "Name": "Road"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "1778",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:02:43 GMT",
+            "x-amzn-requestid": "b78c51b0-a197-11e8-a9b5-85e7dbb1ab4d"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "b78c51b0-a197-11e8-a9b5-85e7dbb1ab4d",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.7725870609283447
+}

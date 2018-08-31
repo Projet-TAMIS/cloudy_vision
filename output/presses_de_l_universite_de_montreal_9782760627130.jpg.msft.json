@@ -1,0 +1,95 @@
+{
+    "adult": {
+        "adultScore": 0.08170299232006073,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0900648832321167
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.12890625
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.25
+        },
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "116B92",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.44591242549370147,
+                "text": "a bridge over a body of water"
+            }
+        ],
+        "tags": [
+            "water",
+            "scene",
+            "fence",
+            "pier",
+            "photo",
+            "bridge",
+            "body",
+            "river",
+            "board",
+            "sitting",
+            "blue",
+            "standing",
+            "large",
+            "riding",
+            "white",
+            "boat",
+            "sign",
+            "man",
+            "dock",
+            "red",
+            "night"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1180,
+        "width": 1000
+    },
+    "requestId": "87e15375-0f4e-45f2-b939-63f6f488d2cf",
+    "response_time": 1.593174934387207,
+    "tags": [
+        {
+            "confidence": 0.9933602213859558,
+            "name": "water"
+        },
+        {
+            "confidence": 0.9497568607330322,
+            "name": "scene"
+        },
+        {
+            "confidence": 0.8170276880264282,
+            "name": "pier"
+        }
+    ]
+}

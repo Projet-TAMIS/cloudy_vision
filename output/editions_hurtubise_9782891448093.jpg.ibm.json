@@ -1,0 +1,70 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "CD-ROM",
+                            "score": 0.699,
+                            "type_hierarchy": "/p\u00e9riph\u00e9rique de stockage/CD-ROM"
+                        },
+                        {
+                            "class": "p\u00e9riph\u00e9rique de stockage",
+                            "score": 0.818
+                        },
+                        {
+                            "class": "boite de c\u00e9r\u00e9ales",
+                            "score": 0.625,
+                            "type_hierarchy": "/bo\u00eete/boite de c\u00e9r\u00e9ales"
+                        },
+                        {
+                            "class": "bo\u00eete",
+                            "score": 0.625
+                        },
+                        {
+                            "class": "CD-R",
+                            "score": 0.614,
+                            "type_hierarchy": "/p\u00e9riph\u00e9rique de stockage/CD-R"
+                        },
+                        {
+                            "class": "blister",
+                            "score": 0.558
+                        },
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.591
+                        },
+                        {
+                            "class": "enregistrement",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur rose",
+                            "score": 0.901
+                        },
+                        {
+                            "class": "couleur jaune citron",
+                            "score": 0.812
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782891448093.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.2277138233184814
+}

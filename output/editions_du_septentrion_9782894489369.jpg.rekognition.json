@@ -1,0 +1,73 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.28499603271484,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.28499603271484,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.28499603271484,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 97.17414093017578,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 97.17414093017578,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 97.17414093017578,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 97.17414093017578,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 80.06907653808594,
+            "Name": "Magazine"
+        },
+        {
+            "Confidence": 62.92905807495117,
+            "Name": "Logo"
+        },
+        {
+            "Confidence": 62.92905807495117,
+            "Name": "Trademark"
+        },
+        {
+            "Confidence": 54.149627685546875,
+            "Name": "Sign"
+        },
+        {
+            "Confidence": 51.43547058105469,
+            "Name": "Alphabet"
+        },
+        {
+            "Confidence": 51.43547058105469,
+            "Name": "Ampersand"
+        },
+        {
+            "Confidence": 51.43547058105469,
+            "Name": "Text"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "702",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 20:47:47 GMT",
+            "x-amzn-requestid": "a03fe0ef-a195-11e8-983d-4bb56564ef61"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a03fe0ef-a195-11e8-983d-4bb56564ef61",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.4489729404449463
+}

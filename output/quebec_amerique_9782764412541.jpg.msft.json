@@ -1,0 +1,74 @@
+{
+    "adult": {
+        "adultScore": 0.010768070816993713,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014865303412079811
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "B8A113",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Yellow",
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3714063253169252,
+                "text": "a book on a table"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "table",
+            "photo",
+            "old",
+            "filled",
+            "girl",
+            "wearing",
+            "man",
+            "covered",
+            "large",
+            "birthday",
+            "holding",
+            "refrigerator",
+            "plate",
+            "horse",
+            "standing",
+            "elephant"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2376,
+        "width": 1400
+    },
+    "requestId": "05566ef9-2a8b-432a-bded-e56c8c4497a9",
+    "response_time": 2.509436845779419,
+    "tags": [
+        {
+            "confidence": 0.9971610307693481,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9836777448654175,
+            "name": "book"
+        }
+    ]
+}

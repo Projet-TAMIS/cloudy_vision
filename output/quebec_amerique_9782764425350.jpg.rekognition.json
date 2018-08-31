@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.10406494140625,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.10404968261719,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.10406494140625,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 95.81477355957031,
+            "Name": "Blackboard"
+        },
+        {
+            "Confidence": 81.03963470458984,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 81.03963470458984,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 81.03963470458984,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 81.03963470458984,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 71.68388366699219,
+            "Name": "Female"
+        },
+        {
+            "Confidence": 64.90789794921875,
+            "Name": "Dragon"
+        },
+        {
+            "Confidence": 59.22525405883789,
+            "Name": "Comics"
+        },
+        {
+            "Confidence": 56.72291946411133,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 53.89826202392578,
+            "Name": "Modern Art"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "653",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:23:09 GMT",
+            "x-amzn-requestid": "91dbd96e-a19a-11e8-8d45-d568fd52fa8b"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "91dbd96e-a19a-11e8-8d45-d568fd52fa8b",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.9052741527557373
+}

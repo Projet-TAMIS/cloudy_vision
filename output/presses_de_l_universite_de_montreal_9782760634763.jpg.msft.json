@@ -1,0 +1,51 @@
+{
+    "adult": {
+        "adultScore": 0.0031398304272443056,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.004066729452461004
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_",
+            "score": 0.33203125
+        }
+    ],
+    "color": {
+        "accentColor": "B31828",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.29603268471861477,
+                "text": "a screenshot of a video game in a room"
+            }
+        ],
+        "tags": [
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1201,
+        "width": 800
+    },
+    "requestId": "b52c6563-f980-4420-a49e-fc126561f852",
+    "response_time": 1.9147369861602783,
+    "tags": []
+}

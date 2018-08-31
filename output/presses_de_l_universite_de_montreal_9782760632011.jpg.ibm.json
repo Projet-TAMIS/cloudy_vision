@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "autoradiogramme",
+                            "score": 0.587,
+                            "type_hierarchy": "/radiogramme/autoradiogramme"
+                        },
+                        {
+                            "class": "radiogramme",
+                            "score": 0.639
+                        },
+                        {
+                            "class": "gazette",
+                            "score": 0.579,
+                            "type_hierarchy": "/moyen/journal/gazette"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "carte",
+                            "score": 0.554
+                        },
+                        {
+                            "class": "porte de voiture",
+                            "score": 0.504,
+                            "type_hierarchy": "/barri\u00e8re/porte/porte de voiture"
+                        },
+                        {
+                            "class": "porte",
+                            "score": 0.572
+                        },
+                        {
+                            "class": "barri\u00e8re",
+                            "score": 0.572
+                        },
+                        {
+                            "class": "porte moustiquaire",
+                            "score": 0.5,
+                            "type_hierarchy": "/barri\u00e8re/porte/porte moustiquaire"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "couleur noir",
+                            "score": 0.852
+                        },
+                        {
+                            "class": "couleur noir charbon",
+                            "score": 0.697
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/presses_de_l_universite_de_montreal_9782760632011.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.1959400177001953
+}

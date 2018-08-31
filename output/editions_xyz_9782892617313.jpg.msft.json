@@ -1,0 +1,72 @@
+{
+    "adult": {
+        "adultScore": 0.07125614583492279,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.08215968310832977
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.02734375
+        },
+        {
+            "name": "text_",
+            "score": 0.484375
+        }
+    ],
+    "color": {
+        "accentColor": "576274",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8705636217644089,
+                "text": "a cat with its mouth open"
+            }
+        ],
+        "tags": [
+            "animal",
+            "cat",
+            "mammal"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2219,
+        "width": 1400
+    },
+    "requestId": "24a4574c-c5e1-4b2f-a6f8-845e62adeaf0",
+    "response_time": 1.453941822052002,
+    "tags": [
+        {
+            "confidence": 0.9368616938591003,
+            "name": "animal"
+        },
+        {
+            "confidence": 0.8794892430305481,
+            "name": "cat"
+        },
+        {
+            "confidence": 0.8781453371047974,
+            "hint": "animal",
+            "name": "mammal"
+        },
+        {
+            "confidence": 0.7871925234794617,
+            "name": "domestic cat"
+        }
+    ]
+}

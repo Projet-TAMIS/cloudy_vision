@@ -1,0 +1,57 @@
+{
+    "adult": {
+        "adultScore": 0.022423798218369484,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.026772599667310715
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "0896C3",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Blue",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7991866886917953,
+                "text": "a close up of a mountain"
+            }
+        ],
+        "tags": [
+            "mountain",
+            "covered",
+            "tree",
+            "snow",
+            "hydrant",
+            "man",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2269,
+        "width": 1400
+    },
+    "requestId": "43d02b6a-afce-4abe-9600-1226b59356fe",
+    "response_time": 4.359349012374878,
+    "tags": []
+}

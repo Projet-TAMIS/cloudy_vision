@@ -1,0 +1,85 @@
+{
+    "adult": {
+        "adultScore": 0.004303231369704008,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.005583341233432293
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        },
+        {
+            "name": "text_sign",
+            "score": 0.41015625
+        }
+    ],
+    "color": {
+        "accentColor": "446688",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9540121554118637,
+                "text": "a sign in front of a building"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "building",
+            "photo",
+            "sign",
+            "front",
+            "old",
+            "large",
+            "standing",
+            "people",
+            "woman",
+            "different",
+            "walking",
+            "man",
+            "clock",
+            "street",
+            "brick",
+            "city",
+            "road"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1499,
+        "width": 1000
+    },
+    "requestId": "a4b1eb67-db1d-4e21-91ba-a59ed81114b6",
+    "response_time": 2.63321590423584,
+    "tags": [
+        {
+            "confidence": 0.9865043759346008,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9824056029319763,
+            "name": "tree"
+        }
+    ]
+}

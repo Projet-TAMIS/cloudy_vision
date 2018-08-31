@@ -1,0 +1,69 @@
+{
+    "adult": {
+        "adultScore": 0.023252613842487335,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.026518559083342552
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.2890625
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.10546875
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "089E4B",
+        "dominantColorBackground": "Red",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Red",
+            "Yellow",
+            "Orange"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6341967377089778,
+                "text": "a close up of text on a black background"
+            }
+        ],
+        "tags": [
+            "text"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2373,
+        "width": 1400
+    },
+    "requestId": "298b6214-fe72-403e-b04b-a5dea54348c3",
+    "response_time": 2.548673152923584,
+    "tags": [
+        {
+            "confidence": 0.9610071182250977,
+            "name": "text"
+        }
+    ]
+}

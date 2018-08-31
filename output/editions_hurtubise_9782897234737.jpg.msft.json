@@ -1,0 +1,100 @@
+{
+    "adult": {
+        "adultScore": 0.019085383042693138,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.024575699120759964
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.25390625
+        }
+    ],
+    "color": {
+        "accentColor": "346E97",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8085794109343878,
+                "text": "a statue of a person"
+            }
+        ],
+        "tags": [
+            "text",
+            "man",
+            "woman",
+            "photo",
+            "sitting",
+            "standing",
+            "old",
+            "people",
+            "holding",
+            "water",
+            "posing",
+            "green",
+            "large",
+            "statue",
+            "plane",
+            "display",
+            "boat",
+            "sign"
+        ]
+    },
+    "faces": [
+        {
+            "age": 25,
+            "faceRectangle": {
+                "height": 121,
+                "left": 265,
+                "top": 778,
+                "width": 121
+            },
+            "gender": "Female"
+        },
+        {
+            "age": 29,
+            "faceRectangle": {
+                "height": 94,
+                "left": 1065,
+                "top": 1041,
+                "width": 94
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2100,
+        "width": 1400
+    },
+    "requestId": "d417300a-58d1-44a2-af31-415e08f7b147",
+    "response_time": 3.8544299602508545,
+    "tags": []
+}

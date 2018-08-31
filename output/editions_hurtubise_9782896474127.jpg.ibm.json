@@ -1,0 +1,83 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.618,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.657
+                        },
+                        {
+                            "class": "sac de sable",
+                            "score": 0.531,
+                            "type_hierarchy": "/sac/sac de sable"
+                        },
+                        {
+                            "class": "sac",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "chasse-neige",
+                            "score": 0.53,
+                            "type_hierarchy": "/v\u00e9hicule/v\u00e9hicule sur roues/chasse-neige"
+                        },
+                        {
+                            "class": "v\u00e9hicule sur roues",
+                            "score": 0.631
+                        },
+                        {
+                            "class": "v\u00e9hicule",
+                            "score": 0.653
+                        },
+                        {
+                            "class": "dameuse tucker Sno-cat",
+                            "score": 0.508,
+                            "type_hierarchy": "/v\u00e9hicule/v\u00e9hicule sur roues/v\u00e9hicule \u00e0 chenilles/dameuse tucker Sno-cat"
+                        },
+                        {
+                            "class": "v\u00e9hicule \u00e0 chenilles",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "recrue militaire",
+                            "score": 0.5,
+                            "type_hierarchy": "/personne/milicien/recrue militaire"
+                        },
+                        {
+                            "class": "milicien",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "couleur marron",
+                            "score": 0.664
+                        },
+                        {
+                            "class": "couleur sanguine (rouge)",
+                            "score": 0.523
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_hurtubise_9782896474127.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.335099220275879
+}

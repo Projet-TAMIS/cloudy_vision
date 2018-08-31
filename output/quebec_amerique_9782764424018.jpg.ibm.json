@@ -1,0 +1,91 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cellule falciforme",
+                            "score": 0.575,
+                            "type_hierarchy": "/cellule/cellule falciforme"
+                        },
+                        {
+                            "class": "cellule",
+                            "score": 0.577
+                        },
+                        {
+                            "class": "punaise",
+                            "score": 0.552,
+                            "type_hierarchy": "/retenue (cha\u00eenes)/moyen d'assemblage/punaise"
+                        },
+                        {
+                            "class": "moyen d'assemblage",
+                            "score": 0.552
+                        },
+                        {
+                            "class": "retenue (cha\u00eenes)",
+                            "score": 0.552
+                        },
+                        {
+                            "class": "terrain de sport",
+                            "score": 0.515,
+                            "type_hierarchy": "/sport/jeu athl\u00e9tique/terrain de sport"
+                        },
+                        {
+                            "class": "jeu athl\u00e9tique",
+                            "score": 0.515
+                        },
+                        {
+                            "class": "sport",
+                            "score": 0.515
+                        },
+                        {
+                            "class": "casse-t\u00eate, puzzle",
+                            "score": 0.508
+                        },
+                        {
+                            "class": "param\u00e9cie (organisme)",
+                            "score": 0.5,
+                            "type_hierarchy": "/micro-organisme/param\u00e9cie (organisme)"
+                        },
+                        {
+                            "class": "micro-organisme",
+                            "score": 0.509
+                        },
+                        {
+                            "class": "lame de rasoir",
+                            "score": 0.5,
+                            "type_hierarchy": "/outil/lame de rasoir"
+                        },
+                        {
+                            "class": "outil",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "aliment",
+                            "score": 0.597
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.595
+                        },
+                        {
+                            "class": "couleur azur",
+                            "score": 0.955
+                        },
+                        {
+                            "class": "couleur rose",
+                            "score": 0.764
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764424018.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.883780002593994
+}

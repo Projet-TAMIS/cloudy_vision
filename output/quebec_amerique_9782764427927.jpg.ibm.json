@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine de luxe",
+                            "score": 0.882,
+                            "type_hierarchy": "/magazine/magazine de luxe"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.954
+                        },
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "habillement",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur rouge orang\u00e9",
+                            "score": 0.822
+                        },
+                        {
+                            "class": "couleur brun clair",
+                            "score": 0.79
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764427927.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 5.59256386756897
+}

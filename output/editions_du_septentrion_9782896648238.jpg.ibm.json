@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "couverture de livre",
+                            "score": 0.871,
+                            "type_hierarchy": "/papier cadeau/couverture de livre"
+                        },
+                        {
+                            "class": "papier cadeau",
+                            "score": 0.871
+                        },
+                        {
+                            "class": "livre",
+                            "score": 0.672
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "couleur verd\u00e2tre",
+                            "score": 0.899
+                        },
+                        {
+                            "class": "couleur vert jade",
+                            "score": 0.834
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_du_septentrion_9782896648238.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 4.407793998718262
+}

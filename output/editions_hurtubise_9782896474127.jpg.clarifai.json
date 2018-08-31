@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-08-16T21:02:17.705848119Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_2FHPKk9B",
+                        "name": "winter",
+                        "value": 0.93727267
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.93644214
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Xxjc3MhT",
+                        "name": "transportation system",
+                        "value": 0.90117097
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.8993304
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.8936672
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l09WQRHT",
+                        "name": "snow",
+                        "value": 0.8749602
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.8693407
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LplXDDZ2",
+                        "name": "car",
+                        "value": 0.8353405
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.83462524
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8xrjRNnl",
+                        "name": "horizontal plane",
+                        "value": 0.8227377
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.82152355
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.8071256
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vfV1Zf9w",
+                        "name": "horizontal",
+                        "value": 0.75555694
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.73301566
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0SL2mdXt",
+                        "name": "military",
+                        "value": 0.73184717
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GjVpxXrs",
+                        "name": "street",
+                        "value": 0.71910214
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.71139467
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.71061265
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.71050096
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.69689906
+                    }
+                ]
+            },
+            "id": "c4d66329996d4b01bed02753c06d444d",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "dHJ1ZQ==",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img3/prod/small/0794b023355445138f58a119e09ab111/66fb128d294528e904014b82b69b2f1e"
+                    }
+                },
+                "id": "4dc52f8ac1ac409c99f09446d1ecb4b9"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 3.5483388900756836,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

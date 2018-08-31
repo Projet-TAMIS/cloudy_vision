@@ -1,0 +1,64 @@
+{
+    "adult": {
+        "adultScore": 0.008266345597803593,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011211127042770386
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "1F75AC",
+        "dominantColorBackground": "Teal",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Teal"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7206796987557745,
+                "text": "a close up of text on a white background"
+            }
+        ],
+        "tags": [
+            "text"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1357,
+        "width": 899
+    },
+    "requestId": "be754841-de15-4d53-9db6-2ece10b3215a",
+    "response_time": 1.5821399688720703,
+    "tags": [
+        {
+            "confidence": 0.8938804864883423,
+            "name": "text"
+        }
+    ]
+}

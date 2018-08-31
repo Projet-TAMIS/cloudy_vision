@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.5737075805664,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.57366943359375,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.5737075805664,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 88.83338165283203,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 88.83338165283203,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 87.6543197631836,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 87.6543197631836,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 87.6543197631836,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 87.6543197631836,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 71.27501678466797,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 67.03163146972656,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 67.03163146972656,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 54.3895378112793,
+            "Name": "Collage"
+        },
+        {
+            "Confidence": 50.61022186279297,
+            "Name": "Cushion"
+        },
+        {
+            "Confidence": 50.61022186279297,
+            "Name": "Home Decor"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "749",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:16:36 GMT",
+            "x-amzn-requestid": "a6ef2a3c-a199-11e8-a88b-65aea4e03809"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a6ef2a3c-a199-11e8-a88b-65aea4e03809",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.4359259605407715
+}

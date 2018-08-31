@@ -1,0 +1,65 @@
+{
+    "adult": {
+        "adultScore": 0.09571867436170578,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.17771077156066895
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01953125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_sign",
+            "score": 0.41015625
+        }
+    ],
+    "color": {
+        "accentColor": "046D99",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Blue"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5097122532913118,
+                "text": "a drawing of a person"
+            }
+        ],
+        "tags": [
+            "drawing",
+            "shirt"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1695,
+        "width": 1000
+    },
+    "requestId": "abb85677-7810-4cf4-b136-5d0fec5c161e",
+    "response_time": 1.7346999645233154,
+    "tags": [
+        {
+            "confidence": 0.7179259061813354,
+            "name": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "personne",
+                            "score": 0.993,
+                            "type_hierarchy": "/gens/personne"
+                        },
+                        {
+                            "class": "gens",
+                            "score": 0.905
+                        },
+                        {
+                            "class": "bande dessin\u00e9e",
+                            "score": 0.649,
+                            "type_hierarchy": "/magazine/bande dessin\u00e9e"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.795
+                        },
+                        {
+                            "class": "magazine pulp",
+                            "score": 0.5,
+                            "type_hierarchy": "/magazine/magazine pulp"
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "couleur rouge indien",
+                            "score": 0.826
+                        },
+                        {
+                            "class": "couleur brun rouge",
+                            "score": 0.56
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/quebec_amerique_9782764425350.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.5650079250335693
+}

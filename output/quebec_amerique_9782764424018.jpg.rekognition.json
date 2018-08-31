@@ -1,0 +1,50 @@
+{
+    "Labels": [
+        {
+            "Confidence": 58.15107727050781,
+            "Name": "Crowd"
+        },
+        {
+            "Confidence": 58.15107727050781,
+            "Name": "Festival"
+        },
+        {
+            "Confidence": 58.15107727050781,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 58.15107727050781,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 51.094581604003906,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 51.094581604003906,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 51.094581604003906,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 51.094581604003906,
+            "Name": "Poster"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "443",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:22:36 GMT",
+            "x-amzn-requestid": "7e97e7b4-a19a-11e8-a238-0d872e749caf"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "7e97e7b4-a19a-11e8-a238-0d872e749caf",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.106572151184082
+}

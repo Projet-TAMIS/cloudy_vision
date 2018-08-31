@@ -1,0 +1,67 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "magazine sp\u00e9cialis\u00e9",
+                            "score": 0.59,
+                            "type_hierarchy": "/magazine/magazine sp\u00e9cialis\u00e9"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.823
+                        },
+                        {
+                            "class": "magazine de luxe",
+                            "score": 0.575,
+                            "type_hierarchy": "/magazine/magazine de luxe"
+                        },
+                        {
+                            "class": "magazine d'actualit\u00e9s",
+                            "score": 0.548,
+                            "type_hierarchy": "/magazine/magazine d'actualit\u00e9s"
+                        },
+                        {
+                            "class": "annonceur",
+                            "score": 0.543,
+                            "type_hierarchy": "/personne/annonceur"
+                        },
+                        {
+                            "class": "personne",
+                            "score": 0.548
+                        },
+                        {
+                            "class": "tablo\u00efd",
+                            "score": 0.5,
+                            "type_hierarchy": "/moyen/journal/tablo\u00efd"
+                        },
+                        {
+                            "class": "journal",
+                            "score": 0.512
+                        },
+                        {
+                            "class": "moyen",
+                            "score": 0.512
+                        },
+                        {
+                            "class": "presse \u00e9crite",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "couleur marron",
+                            "score": 0.674
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/editions_du_septentrion_9782894489369.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.702993869781494
+}

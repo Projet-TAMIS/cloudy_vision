@@ -1,0 +1,97 @@
+{
+    "adult": {
+        "adultScore": 0.06688009947538376,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.10175012052059174
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_",
+            "score": 0.69921875
+        }
+    ],
+    "color": {
+        "accentColor": "A02C2B",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7036419201809418,
+                "text": "a person wearing a red hat"
+            }
+        ],
+        "tags": [
+            "person",
+            "outdoor",
+            "building",
+            "sitting",
+            "red",
+            "woman",
+            "man",
+            "table",
+            "holding",
+            "front",
+            "wearing",
+            "people",
+            "bench",
+            "boy",
+            "hat",
+            "old",
+            "standing",
+            "young",
+            "shirt",
+            "phone",
+            "riding",
+            "white",
+            "street",
+            "sign"
+        ]
+    },
+    "faces": [
+        {
+            "age": 41,
+            "faceRectangle": {
+                "height": 172,
+                "left": 660,
+                "top": 1091,
+                "width": 172
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2240,
+        "width": 1400
+    },
+    "requestId": "4990a153-12ef-4e59-9cd7-ee4bec1f355d",
+    "response_time": 2.6123239994049072,
+    "tags": [
+        {
+            "confidence": 0.9956099390983582,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9005343317985535,
+            "name": "outdoor"
+        }
+    ]
+}

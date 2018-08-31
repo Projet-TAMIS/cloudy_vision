@@ -1,0 +1,294 @@
+{
+    "response_time": 1.860239028930664,
+    "responses": [
+        {
+            "cropHintsAnnotation": {
+                "cropHints": [
+                    {
+                        "boundingPoly": {
+                            "vertices": [
+                                {},
+                                {
+                                    "x": 1644
+                                },
+                                {
+                                    "x": 1644,
+                                    "y": 2484
+                                },
+                                {
+                                    "y": 2484
+                                }
+                            ]
+                        },
+                        "confidence": 0.79999995,
+                        "importanceFraction": 1
+                    }
+                ]
+            },
+            "imagePropertiesAnnotation": {
+                "dominantColors": {
+                    "colors": [
+                        {
+                            "color": {
+                                "blue": 77,
+                                "green": 82,
+                                "red": 84
+                            },
+                            "pixelFraction": 0.0786532,
+                            "score": 0.35982925
+                        },
+                        {
+                            "color": {
+                                "blue": 233,
+                                "green": 235,
+                                "red": 238
+                            },
+                            "pixelFraction": 0.67279464,
+                            "score": 0.2507924
+                        },
+                        {
+                            "color": {
+                                "blue": 194,
+                                "green": 196,
+                                "red": 199
+                            },
+                            "pixelFraction": 0.10074074,
+                            "score": 0.087296285
+                        },
+                        {
+                            "color": {
+                                "blue": 112,
+                                "green": 116,
+                                "red": 118
+                            },
+                            "pixelFraction": 0.036363635,
+                            "score": 0.078338094
+                        },
+                        {
+                            "color": {
+                                "blue": 58,
+                                "green": 62,
+                                "red": 64
+                            },
+                            "pixelFraction": 0.046868686,
+                            "score": 0.078085035
+                        },
+                        {
+                            "color": {
+                                "blue": 155,
+                                "green": 158,
+                                "red": 159
+                            },
+                            "pixelFraction": 0.054680135,
+                            "score": 0.0739988
+                        },
+                        {
+                            "color": {
+                                "blue": 187,
+                                "green": 187,
+                                "red": 219
+                            },
+                            "pixelFraction": 0.005185185,
+                            "score": 0.038603254
+                        },
+                        {
+                            "color": {
+                                "blue": 220,
+                                "green": 220,
+                                "red": 249
+                            },
+                            "pixelFraction": 0.002895623,
+                            "score": 0.021022726
+                        },
+                        {
+                            "color": {
+                                "blue": 159,
+                                "green": 158,
+                                "red": 192
+                            },
+                            "pixelFraction": 0.0014814815,
+                            "score": 0.012009301
+                        },
+                        {
+                            "color": {
+                                "blue": 33,
+                                "green": 35,
+                                "red": 36
+                            },
+                            "pixelFraction": 0.00033670032,
+                            "score": 2.4861401e-05
+                        }
+                    ]
+                }
+            },
+            "labelAnnotations": [
+                {
+                    "description": "text",
+                    "mid": "/m/07s6nbt",
+                    "score": 0.9467072,
+                    "topicality": 0.9467072
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.841568,
+                    "topicality": 0.841568
+                },
+                {
+                    "description": "structure",
+                    "mid": "/m/0n68_",
+                    "score": 0.82492507,
+                    "topicality": 0.82492507
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.8177321,
+                    "topicality": 0.8177321
+                },
+                {
+                    "description": "design",
+                    "mid": "/m/02cwm",
+                    "score": 0.69297695,
+                    "topicality": 0.69297695
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.6784594,
+                    "topicality": 0.6784594
+                },
+                {
+                    "description": "line",
+                    "mid": "/m/03scnj",
+                    "score": 0.6526067,
+                    "topicality": 0.6526067
+                },
+                {
+                    "description": "angle",
+                    "mid": "/m/0mwc",
+                    "score": 0.5845982,
+                    "topicality": 0.5845982
+                },
+                {
+                    "description": "paper",
+                    "mid": "/m/0641k",
+                    "score": 0.5276805,
+                    "topicality": 0.5276805
+                },
+                {
+                    "description": "pattern",
+                    "mid": "/m/0hwky",
+                    "score": 0.51658684,
+                    "topicality": 0.51658684
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 154,
+                                "y": 155
+                            },
+                            {
+                                "x": 1491,
+                                "y": 155
+                            },
+                            {
+                                "x": 1491,
+                                "y": 1118
+                            },
+                            {
+                                "x": 154,
+                                "y": 1118
+                            }
+                        ]
+                    },
+                    "description": "The Open Door.",
+                    "mid": "/g/11c2lg3lwh",
+                    "score": 0.9045412
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 190,
+                                "y": 162
+                            },
+                            {
+                                "x": 1467,
+                                "y": 162
+                            },
+                            {
+                                "x": 1467,
+                                "y": 1053
+                            },
+                            {
+                                "x": 190,
+                                "y": 1053
+                            }
+                        ]
+                    },
+                    "description": "The Open Door. by William Henry Fox Talbot",
+                    "score": 0.83642834
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 182,
+                                "y": 162
+                            },
+                            {
+                                "x": 1467,
+                                "y": 162
+                            },
+                            {
+                                "x": 1467,
+                                "y": 1053
+                            },
+                            {
+                                "x": 182,
+                                "y": 1053
+                            }
+                        ]
+                    },
+                    "description": "The Open Door",
+                    "score": 0.83210623
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 369,
+                                "y": 610
+                            },
+                            {
+                                "x": 1151,
+                                "y": 610
+                            },
+                            {
+                                "x": 1151,
+                                "y": 1029
+                            },
+                            {
+                                "x": 369,
+                                "y": 1029
+                            }
+                        ]
+                    },
+                    "description": "The Open Door by William Henry Fox Talbot",
+                    "score": 0.1923693
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

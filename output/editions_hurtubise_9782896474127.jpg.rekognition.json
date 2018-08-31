@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.25529479980469,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.25529479980469,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.25529479980469,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 85.58306121826172,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 85.58306121826172,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 85.58306121826172,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 85.58306121826172,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 63.95139694213867,
+            "Name": "Brick"
+        },
+        {
+            "Confidence": 51.20335388183594,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 51.20335388183594,
+            "Name": "Coat"
+        },
+        {
+            "Confidence": 51.20335388183594,
+            "Name": "Overcoat"
+        },
+        {
+            "Confidence": 50.96139907836914,
+            "Name": "Graffiti"
+        },
+        {
+            "Confidence": 50.52223205566406,
+            "Name": "Bumper"
+        },
+        {
+            "Confidence": 50.52223205566406,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 50.52223205566406,
+            "Name": "Vehicle"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "758",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 16 Aug 2018 21:00:59 GMT",
+            "x-amzn-requestid": "784aed76-a197-11e8-9445-431344cd5f11"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "784aed76-a197-11e8-9445-431344cd5f11",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.58199405670166
+}

@@ -1,0 +1,117 @@
+{
+    "adult": {
+        "adultScore": 0.01925565116107464,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.026447007432579994
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0390625
+        }
+    ],
+    "color": {
+        "accentColor": "326399",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9690291191703706,
+                "text": "a person riding a horse drawn carriage in front of a building"
+            }
+        ],
+        "tags": [
+            "horse",
+            "outdoor",
+            "building",
+            "road",
+            "carriage",
+            "drawn",
+            "street",
+            "container",
+            "riding",
+            "transport",
+            "pulling",
+            "front",
+            "cart",
+            "brown",
+            "small",
+            "town",
+            "man",
+            "pulled",
+            "people",
+            "city",
+            "sign",
+            "driving",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 2100,
+        "width": 1400
+    },
+    "requestId": "f1d67e24-acc2-44d5-a672-a1b91c3b23a2",
+    "response_time": 4.951830148696899,
+    "tags": [
+        {
+            "confidence": 0.9991375207901001,
+            "name": "horse"
+        },
+        {
+            "confidence": 0.9990665316581726,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9973233342170715,
+            "name": "building"
+        },
+        {
+            "confidence": 0.9771201610565186,
+            "name": "road"
+        },
+        {
+            "confidence": 0.9219663143157959,
+            "name": "carriage"
+        },
+        {
+            "confidence": 0.9073367714881897,
+            "name": "drawn"
+        },
+        {
+            "confidence": 0.887127161026001,
+            "name": "street"
+        },
+        {
+            "confidence": 0.8748631477355957,
+            "name": "horse-drawn vehicle"
+        },
+        {
+            "confidence": 0.8301358222961426,
+            "name": "transport"
+        },
+        {
+            "confidence": 0.6872547268867493,
+            "name": "pulling"
+        },
+        {
+            "confidence": 0.439579039812088,
+            "name": "cart"
+        }
+    ]
+}
