@@ -1,0 +1,122 @@
+{
+    "adult": {
+        "adultScore": 0.026774734258651733,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.029541634023189545
+    },
+    "categories": [
+        {
+            "name": "trans_bicycle",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "4D687E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7995592897044153,
+                "text": "a bicycle leaning against a wall"
+            }
+        ],
+        "tags": [
+            "bicycle",
+            "outdoor",
+            "parked",
+            "red",
+            "building",
+            "sidewalk",
+            "leaning",
+            "seat",
+            "rack",
+            "basket",
+            "sitting",
+            "front",
+            "purple",
+            "pink",
+            "brown",
+            "bench",
+            "standing",
+            "side",
+            "sign",
+            "post",
+            "pole",
+            "street",
+            "table",
+            "brick",
+            "laying",
+            "room",
+            "blue",
+            "train",
+            "bedroom"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 694,
+        "width": 962
+    },
+    "requestId": "655b16fb-fb44-458e-9e2a-70958c68efc8",
+    "response_time": 2.7064049243927,
+    "tags": [
+        {
+            "confidence": 0.9999995231628418,
+            "name": "bicycle"
+        },
+        {
+            "confidence": 0.9527050256729126,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.8668040633201599,
+            "name": "parked"
+        },
+        {
+            "confidence": 0.8378322124481201,
+            "name": "red"
+        },
+        {
+            "confidence": 0.7262957096099854,
+            "name": "sidewalk"
+        },
+        {
+            "confidence": 0.65952467918396,
+            "name": "transport"
+        },
+        {
+            "confidence": 0.5372807383537292,
+            "name": "seat"
+        },
+        {
+            "confidence": 0.5331861972808838,
+            "name": "rack"
+        },
+        {
+            "confidence": 0.5258021950721741,
+            "name": "basket"
+        },
+        {
+            "confidence": 0.12290358543395996,
+            "name": "bicycle rack"
+        },
+        {
+            "confidence": 0.07788977026939392,
+            "hint": "sport",
+            "name": "bicycling"
+        }
+    ]
+}

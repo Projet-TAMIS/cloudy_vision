@@ -1,0 +1,35 @@
+{
+    "response_time": 1.7010409832000732,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "vehicle",
+                    "mid": "/m/07yv9",
+                    "score": 0.77071476
+                },
+                {
+                    "description": "toy",
+                    "mid": "/m/0138tl",
+                    "score": 0.70728856
+                },
+                {
+                    "description": "locomotive",
+                    "mid": "/m/04h5c",
+                    "score": 0.59773904
+                },
+                {
+                    "description": "model car",
+                    "mid": "/m/0lyw6",
+                    "score": 0.56033117
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "duckling",
+                            "score": 0.785,
+                            "type_hierarchy": "/animal/aquatic bird/waterfowl/duckling"
+                        },
+                        {
+                            "class": "duck",
+                            "score": 0.862
+                        },
+                        {
+                            "class": "waterfowl",
+                            "score": 0.863
+                        },
+                        {
+                            "class": "aquatic bird",
+                            "score": 0.864
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.864
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.865
+                        },
+                        {
+                            "class": "green color",
+                            "score": 0.984
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/collie_in_a_park_rotated.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.523090124130249
+}

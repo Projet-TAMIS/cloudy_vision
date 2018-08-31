@@ -1,0 +1,40 @@
+{
+    "response_time": 1.1926109790802002,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "blue",
+                    "mid": "/m/01g5v",
+                    "score": 0.9182846
+                },
+                {
+                    "description": "wall",
+                    "mid": "/m/09qqq",
+                    "score": 0.7867551
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.74587667
+                },
+                {
+                    "description": "wood",
+                    "mid": "/m/083vt",
+                    "score": 0.6652676
+                },
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.58411515
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

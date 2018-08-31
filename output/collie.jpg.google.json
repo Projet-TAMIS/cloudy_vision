@@ -1,0 +1,55 @@
+{
+    "response_time": 1.1150541305541992,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "dog",
+                    "mid": "/m/0bt9lr",
+                    "score": 0.9524616
+                },
+                {
+                    "description": "mammal",
+                    "mid": "/m/04rky",
+                    "score": 0.92030233
+                },
+                {
+                    "description": "vertebrate",
+                    "mid": "/m/09686",
+                    "score": 0.8996753
+                },
+                {
+                    "description": "grass",
+                    "mid": "/m/08t9c_",
+                    "score": 0.82545644
+                },
+                {
+                    "description": "dog breed group",
+                    "mid": "/m/02xl47d",
+                    "score": 0.81202847
+                },
+                {
+                    "description": "dog like mammal",
+                    "mid": "/m/01z5f",
+                    "score": 0.66209984
+                },
+                {
+                    "description": "lawn",
+                    "mid": "/m/01v327",
+                    "score": 0.5806347
+                },
+                {
+                    "description": "collie",
+                    "mid": "/m/02kcj6",
+                    "score": 0.5735398
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

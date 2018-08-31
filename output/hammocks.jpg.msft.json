@@ -1,0 +1,64 @@
+{
+    "adult": {
+        "adultScore": 0.021734312176704407,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.041841138154268265
+    },
+    "color": {
+        "accentColor": "8A9C2F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Green",
+            "Grey",
+            "Brown"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.11782192619294891,
+                "text": "an umbrella hanging from a tree"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "table",
+            "building",
+            "sitting",
+            "umbrella",
+            "view",
+            "hanging",
+            "side",
+            "water",
+            "large",
+            "mirror",
+            "street",
+            "bed",
+            "red",
+            "white",
+            "bus",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "f8c8be74-547d-4b38-a602-38e1116d3f94",
+    "response_time": 2.5275909900665283,
+    "tags": [
+        {
+            "confidence": 0.9979555606842041,
+            "name": "tree"
+        }
+    ]
+}

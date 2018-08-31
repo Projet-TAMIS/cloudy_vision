@@ -1,0 +1,102 @@
+{
+    "adult": {
+        "adultScore": 0.054409679025411606,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03050537407398224
+    },
+    "categories": [
+        {
+            "name": "people_",
+            "score": 0.51953125
+        }
+    ],
+    "color": {
+        "accentColor": "7A7F4C",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.19932159069401234,
+                "text": "Mona Lisa sitting on a couch"
+            }
+        ],
+        "tags": [
+            "person",
+            "woman",
+            "indoor",
+            "sitting",
+            "hair",
+            "photo",
+            "posing",
+            "young",
+            "holding",
+            "smiling",
+            "girl",
+            "dress",
+            "black",
+            "wearing",
+            "standing",
+            "laptop",
+            "room",
+            "phone",
+            "man",
+            "pizza",
+            "white",
+            "cat",
+            "blurry",
+            "umbrella"
+        ]
+    },
+    "faces": [
+        {
+            "age": 21,
+            "faceRectangle": {
+                "height": 142,
+                "left": 200,
+                "top": 172,
+                "width": 142
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 900,
+        "width": 604
+    },
+    "requestId": "d91e81b7-49e0-493d-a9c0-32266e4c933b",
+    "response_time": 2.6043808460235596,
+    "tags": [
+        {
+            "confidence": 0.98784339427948,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9501712918281555,
+            "name": "woman"
+        },
+        {
+            "confidence": 0.9119387269020081,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.4349212646484375,
+            "name": "hair"
+        },
+        {
+            "confidence": 0.3617804944515228,
+            "name": "posing"
+        }
+    ]
+}

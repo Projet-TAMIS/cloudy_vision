@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.004909737966954708,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011896751821041107
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.09375
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "trans_bus",
+            "score": 0.66796875
+        }
+    ],
+    "color": {
+        "accentColor": "C39D08",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.15303439181762207,
+                "text": "a yellow bus"
+            }
+        ],
+        "tags": [
+            "yellow",
+            "small",
+            "sitting",
+            "toy",
+            "car",
+            "laying",
+            "parked",
+            "bus",
+            "bed",
+            "street"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "898d2133-e385-4e11-804f-031cbb0bdf5a",
+    "response_time": 3.7578489780426025,
+    "tags": [
+        {
+            "confidence": 0.9958617687225342,
+            "name": "yellow"
+        }
+    ]
+}

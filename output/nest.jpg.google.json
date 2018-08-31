@@ -1,0 +1,60 @@
+{
+    "response_time": 1.3289029598236084,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "gauge",
+                    "mid": "/m/05kc0j",
+                    "score": 0.9163411
+                },
+                {
+                    "description": "tachometer",
+                    "mid": "/m/01hyhj",
+                    "score": 0.8316645
+                },
+                {
+                    "description": "wheel",
+                    "mid": "/m/083wq",
+                    "score": 0.7330195
+                },
+                {
+                    "description": "font",
+                    "mid": "/m/03gq5hm",
+                    "score": 0.691504
+                },
+                {
+                    "description": "speedometer",
+                    "mid": "/m/02rs44",
+                    "score": 0.61625266
+                },
+                {
+                    "description": "hand",
+                    "mid": "/m/0k65p",
+                    "score": 0.5735198
+                },
+                {
+                    "description": "circle",
+                    "mid": "/m/01vkl",
+                    "score": 0.5453752
+                },
+                {
+                    "description": "tool",
+                    "mid": "/m/07k1x",
+                    "score": 0.5134482
+                },
+                {
+                    "description": "measuring instrument",
+                    "mid": "/m/056hv",
+                    "score": 0.51198626
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "response_time": 1.5512170791625977,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "toy",
+                    "mid": "/m/0138tl",
+                    "score": 0.6928717
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1362,
+                                "y": 2418
+                            },
+                            {
+                                "x": 2009,
+                                "y": 2418
+                            },
+                            {
+                                "x": 2009,
+                                "y": 2776
+                            },
+                            {
+                                "x": 1362,
+                                "y": 2776
+                            }
+                        ]
+                    },
+                    "description": "Lasertag Darmstadt",
+                    "mid": "/g/1q66547rv",
+                    "score": 0.18160439
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

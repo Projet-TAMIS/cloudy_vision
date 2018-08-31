@@ -1,0 +1,47 @@
+{
+    "response_time": 2.028597116470337,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "vehicle",
+                    "mid": "/m/07yv9",
+                    "score": 0.562566
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 896,
+                                "y": 2595
+                            },
+                            {
+                                "x": 1001,
+                                "y": 2595
+                            },
+                            {
+                                "x": 1001,
+                                "y": 2742
+                            },
+                            {
+                                "x": 896,
+                                "y": 2742
+                            }
+                        ]
+                    },
+                    "description": "Ticket to Ride",
+                    "mid": "/m/050jzx",
+                    "score": 0.24735592
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

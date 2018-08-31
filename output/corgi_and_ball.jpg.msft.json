@@ -1,0 +1,94 @@
+{
+    "adult": {
+        "adultScore": 0.016679715365171432,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.09839170426130295
+    },
+    "color": {
+        "accentColor": "899437",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8136526704586599,
+                "text": "a dog standing on a wooden floor"
+            }
+        ],
+        "tags": [
+            "floor",
+            "dog",
+            "indoor",
+            "building",
+            "brown",
+            "standing",
+            "wooden",
+            "wood",
+            "room",
+            "game",
+            "table",
+            "hard",
+            "small",
+            "orange",
+            "mouth",
+            "white",
+            "toy",
+            "rug",
+            "black",
+            "front",
+            "green",
+            "living",
+            "large",
+            "yellow",
+            "top",
+            "frisbee",
+            "holding",
+            "playing",
+            "kitchen"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "456193b5-2f32-425d-8681-7157e99e7c2e",
+    "response_time": 3.996121883392334,
+    "tags": [
+        {
+            "confidence": 0.9999276399612427,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.999835729598999,
+            "name": "dog"
+        },
+        {
+            "confidence": 0.9948521256446838,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.825287401676178,
+            "name": "building"
+        },
+        {
+            "confidence": 0.4978989362716675,
+            "name": "wood"
+        },
+        {
+            "confidence": 0.3834836184978485,
+            "name": "hard"
+        }
+    ]
+}

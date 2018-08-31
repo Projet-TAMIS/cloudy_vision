@@ -1,0 +1,174 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-04-17T19:53:18.26276Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": null,
+                        "id": "ai_VTlCx2f2",
+                        "name": "window",
+                        "value": 0.93623275
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.9239916
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_94cQBGlt",
+                        "name": "two",
+                        "value": 0.9174566
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_n9vjC1jB",
+                        "name": "light",
+                        "value": 0.9055208
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_WcnFrjw1",
+                        "name": "backlit",
+                        "value": 0.90466166
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TjbmxC6B",
+                        "name": "tree",
+                        "value": 0.8994033
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_xxnGcd42",
+                        "name": "seat",
+                        "value": 0.88627875
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_mCpQg89c",
+                        "name": "glass",
+                        "value": 0.87206954
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.8677418
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.8652065
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_xQbBc1zb",
+                        "name": "girl",
+                        "value": 0.86511314
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_5WfQcbMp",
+                        "name": "flower",
+                        "value": 0.85851544
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TkWkj1sX",
+                        "name": "container",
+                        "value": 0.85844326
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_ZrPNDjxN",
+                        "name": "daylight",
+                        "value": 0.8574574
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.8486424
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.84490347
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.84157676
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.8373289
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_5Kp5FMJw",
+                        "name": "still life",
+                        "value": 0.83450556
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TJ9wFfK5",
+                        "name": "portrait",
+                        "value": 0.8254622
+                    }
+                ]
+            },
+            "id": "c8d2be95274b41da868413e46fc2abb1",
+            "input": {
+                "data": {
+                    "image": {
+                        "url": "https://s3.amazonaws.com/clarifai-api/img/prod/fd575814cd924ce384de96d58a0656a4/bc0e1022c2cd46f4a98c1d17eee898a6.jpeg"
+                    }
+                },
+                "id": "b2d525937fb94dce8733004a6feccd0d"
+            },
+            "model": {
+                "app_id": null,
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "active_concept_count": 9171,
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "metrics_status": {
+                        "code": 21302,
+                        "description": "Model is not yet evaluated."
+                    },
+                    "multiclass_metrics": {},
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 3.08341383934021,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-04-17T20:00:01.112309Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": null,
+                        "id": "ai_gRZHdRD7",
+                        "name": "wheel",
+                        "value": 0.99937356
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_32LpvRQ0",
+                        "name": "bike",
+                        "value": 0.9965482
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.992075
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_Xxjc3MhT",
+                        "name": "transportation system",
+                        "value": 0.9344312
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.91165566
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_tKDsn1X2",
+                        "name": "spoke",
+                        "value": 0.90781736
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.8995637
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_QwfPt5x7",
+                        "name": "cyclist",
+                        "value": 0.8981986
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_V1FjkFXr",
+                        "name": "leisure",
+                        "value": 0.8977015
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_8Qw6PFLZ",
+                        "name": "recreation",
+                        "value": 0.8957836
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.8955634
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_h91j6nGL",
+                        "name": "bicycle",
+                        "value": 0.88705516
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TsSR8Rx5",
+                        "name": "tire",
+                        "value": 0.8826351
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_GdP98gQp",
+                        "name": "saddle",
+                        "value": 0.86574006
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_f5hHWj1N",
+                        "name": "brake",
+                        "value": 0.8617389
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TZ3C79C6",
+                        "name": "road",
+                        "value": 0.85802114
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_TW9GpHcz",
+                        "name": "roll along",
+                        "value": 0.8462601
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_RHl9Dqmk",
+                        "name": "chain",
+                        "value": 0.8320962
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.82329327
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.82157075
+                    }
+                ]
+            },
+            "id": "ce570234a5884e33a07851440a9ed8fd",
+            "input": {
+                "data": {
+                    "image": {
+                        "url": "https://s3.amazonaws.com/clarifai-api/img/prod/fd575814cd924ce384de96d58a0656a4/bc8ad97091d64d9394e1bc987f112917.jpeg"
+                    }
+                },
+                "id": "c3ed3e6d2d8b499a91b2ba603eb5a50f"
+            },
+            "model": {
+                "app_id": null,
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "active_concept_count": 9171,
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "metrics_status": {
+                        "code": 21302,
+                        "description": "Model is not yet evaluated."
+                    },
+                    "multiclass_metrics": {},
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.408039093017578,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

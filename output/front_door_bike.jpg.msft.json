@@ -1,0 +1,81 @@
+{
+    "adult": {
+        "adultScore": 0.027578776702284813,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.024132126942276955
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.10546875
+        },
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "623827",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Brown",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.22467354089003866,
+                "text": "a bicycle leaning against a wall"
+            }
+        ],
+        "tags": [
+            "building",
+            "bicycle",
+            "table",
+            "sitting",
+            "stone",
+            "room",
+            "wooden",
+            "bench",
+            "counter",
+            "living",
+            "kitchen",
+            "white",
+            "board",
+            "laying",
+            "standing",
+            "cat"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "3d0f5427-d431-4f35-88dd-b831bd85ca6e",
+    "response_time": 2.6634891033172607,
+    "tags": [
+        {
+            "confidence": 0.2677907645702362,
+            "name": "stone"
+        }
+    ]
+}

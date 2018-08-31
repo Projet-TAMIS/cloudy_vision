@@ -1,0 +1,65 @@
+{
+    "response_time": 2.006241798400879,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "food",
+                    "mid": "/m/02wbm",
+                    "score": 0.929693
+                },
+                {
+                    "description": "fruit",
+                    "mid": "/m/02xwb",
+                    "score": 0.91820997
+                },
+                {
+                    "description": "painting",
+                    "mid": "/m/05qdh",
+                    "score": 0.91594815
+                },
+                {
+                    "description": "produce",
+                    "mid": "/m/036qh8",
+                    "score": 0.8948577
+                },
+                {
+                    "description": "still life photography",
+                    "mid": "/m/027_ny3",
+                    "score": 0.87905085
+                },
+                {
+                    "description": "plant",
+                    "mid": "/m/05s2s",
+                    "score": 0.8766003
+                },
+                {
+                    "description": "yellow",
+                    "mid": "/m/088fh",
+                    "score": 0.8245786
+                },
+                {
+                    "description": "still life",
+                    "mid": "/m/01spzs",
+                    "score": 0.80617833
+                },
+                {
+                    "description": "land plant",
+                    "mid": "/m/01v728",
+                    "score": 0.7321275
+                },
+                {
+                    "description": "flowering plant",
+                    "mid": "/m/04sjm",
+                    "score": 0.65188366
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "adult": {
+        "adultScore": 0.01371973380446434,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.021435663104057312
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_",
+            "score": 0.7734375
+        }
+    ],
+    "color": {
+        "accentColor": "6F3234",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Brown"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.07891830248868005,
+                "text": "a man and a woman holding a tennis racket"
+            }
+        ],
+        "tags": [
+            "person",
+            "building",
+            "outdoor",
+            "holding",
+            "man",
+            "racket",
+            "carrying",
+            "tennis",
+            "woman",
+            "sitting",
+            "standing",
+            "pair",
+            "red",
+            "game",
+            "people",
+            "large",
+            "food",
+            "player",
+            "old",
+            "street",
+            "hat",
+            "court",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 349
+    },
+    "requestId": "9d82e8c6-a901-48a8-a682-1959e36f4066",
+    "response_time": 2.9371728897094727,
+    "tags": [
+        {
+            "confidence": 0.9977402687072754,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9688907861709595,
+            "name": "outdoor"
+        }
+    ]
+}

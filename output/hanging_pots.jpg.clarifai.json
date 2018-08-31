@@ -1,0 +1,174 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-04-17T19:58:08.262747Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": null,
+                        "id": "ai_XdwTxJz3",
+                        "name": "steel",
+                        "value": 0.97709215
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_0cPzC1Z8",
+                        "name": "pan",
+                        "value": 0.9753526
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_4fWZ4LdH",
+                        "name": "kitchenware",
+                        "value": 0.9738364
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.97302055
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_KXNqVd5F",
+                        "name": "cooking",
+                        "value": 0.97118974
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_WBSxss6P",
+                        "name": "stove",
+                        "value": 0.9582659
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.95390546
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_m52MdMR3",
+                        "name": "iron",
+                        "value": 0.9536878
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.948153
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_Ktgm5lhf",
+                        "name": "ladle",
+                        "value": 0.9345155
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_KFbSxW9r",
+                        "name": "cookware",
+                        "value": 0.9312185
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_ZPhtS7nj",
+                        "name": "preparation",
+                        "value": 0.92622995
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_HDcHrx7r",
+                        "name": "stainless steel",
+                        "value": 0.9255644
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_JJqZ6XR7",
+                        "name": "utensil",
+                        "value": 0.9243274
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.91574085
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.9131201
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.90760565
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_KJZC1RDL",
+                        "name": "antique",
+                        "value": 0.89584064
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.8935923
+                    },
+                    {
+                        "app_id": null,
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.88434434
+                    }
+                ]
+            },
+            "id": "aa7331f04a7b4d8c83a8be46592b1fe7",
+            "input": {
+                "data": {
+                    "image": {
+                        "url": "https://s3.amazonaws.com/clarifai-api/img/prod/fd575814cd924ce384de96d58a0656a4/a0c6ebca92f2447da93a6e8dcf0029ad.jpeg"
+                    }
+                },
+                "id": "f191d3fbc20f4360bf59e2baa9ecdb71"
+            },
+            "model": {
+                "app_id": null,
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "active_concept_count": 9171,
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "metrics_status": {
+                        "code": 21302,
+                        "description": "Model is not yet evaluated."
+                    },
+                    "multiclass_metrics": {},
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 3.5851891040802,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "response_time": 1.7605111598968506,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "dog",
+                    "mid": "/m/0bt9lr",
+                    "score": 0.94612443
+                },
+                {
+                    "description": "mammal",
+                    "mid": "/m/04rky",
+                    "score": 0.9249037
+                },
+                {
+                    "description": "vertebrate",
+                    "mid": "/m/09686",
+                    "score": 0.9102434
+                },
+                {
+                    "description": "dog breed group",
+                    "mid": "/m/02xl47d",
+                    "score": 0.81554294
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.7799775
+                },
+                {
+                    "description": "puppy",
+                    "mid": "/m/0d7s3w",
+                    "score": 0.70135975
+                },
+                {
+                    "description": "dog like mammal",
+                    "mid": "/m/01z5f",
+                    "score": 0.6869603
+                },
+                {
+                    "description": "pomeranian",
+                    "mid": "/m/016wfy",
+                    "score": 0.5844508
+                },
+                {
+                    "description": "pembroke welsh corgi",
+                    "mid": "/m/02kh2h",
+                    "score": 0.5769095
+                },
+                {
+                    "description": "wood flooring",
+                    "mid": "/m/027xhm0",
+                    "score": 0.5748735
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "POSSIBLE",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

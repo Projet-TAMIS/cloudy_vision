@@ -1,0 +1,55 @@
+{
+    "response_time": 2.3396618366241455,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "dairy cow",
+                    "mid": "/m/03vcw7",
+                    "score": 0.9420005
+                },
+                {
+                    "description": "mammal",
+                    "mid": "/m/04rky",
+                    "score": 0.9249136
+                },
+                {
+                    "description": "pasture",
+                    "mid": "/m/01gd91",
+                    "score": 0.9055902
+                },
+                {
+                    "description": "vertebrate",
+                    "mid": "/m/09686",
+                    "score": 0.9031924
+                },
+                {
+                    "description": "cattle like mammal",
+                    "mid": "/m/0jzz1",
+                    "score": 0.88622737
+                },
+                {
+                    "description": "fauna",
+                    "mid": "/m/035qhg",
+                    "score": 0.8455444
+                },
+                {
+                    "description": "grazing",
+                    "mid": "/m/03hh2k",
+                    "score": 0.8014054
+                },
+                {
+                    "description": "bull",
+                    "mid": "/m/0cnyhnx",
+                    "score": 0.60166067
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

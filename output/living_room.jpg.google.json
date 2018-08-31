@@ -1,0 +1,65 @@
+{
+    "response_time": 1.3721377849578857,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "property",
+                    "mid": "/m/05wrt",
+                    "score": 0.89793855
+                },
+                {
+                    "description": "room",
+                    "mid": "/m/06ht1",
+                    "score": 0.89567775
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.8252591
+                },
+                {
+                    "description": "living room",
+                    "mid": "/m/03f6tq",
+                    "score": 0.8058992
+                },
+                {
+                    "description": "hardwood",
+                    "mid": "/m/020g49",
+                    "score": 0.7489011
+                },
+                {
+                    "description": "interior design",
+                    "mid": "/m/02rfdq",
+                    "score": 0.6706435
+                },
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.6659764
+                },
+                {
+                    "description": "flooring",
+                    "mid": "/m/01c34b",
+                    "score": 0.6622841
+                },
+                {
+                    "description": "home",
+                    "mid": "/m/01l0mw",
+                    "score": 0.63871807
+                },
+                {
+                    "description": "real estate",
+                    "mid": "/m/023907r",
+                    "score": 0.6211557
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

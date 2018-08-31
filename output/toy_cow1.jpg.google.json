@@ -1,0 +1,60 @@
+{
+    "response_time": 1.699512004852295,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "dog",
+                    "mid": "/m/0bt9lr",
+                    "score": 0.90879333
+                },
+                {
+                    "description": "stuffed toy",
+                    "mid": "/m/021mh_",
+                    "score": 0.8197658
+                },
+                {
+                    "description": "moustache",
+                    "mid": "/m/0bby24z",
+                    "score": 0.6330954
+                },
+                {
+                    "description": "figurine",
+                    "mid": "/m/01xmqj",
+                    "score": 0.59836286
+                },
+                {
+                    "description": "textile",
+                    "mid": "/m/0dnr7",
+                    "score": 0.5788823
+                },
+                {
+                    "description": "dog like mammal",
+                    "mid": "/m/01z5f",
+                    "score": 0.5604588
+                },
+                {
+                    "description": "toy",
+                    "mid": "/m/0138tl",
+                    "score": 0.53497016
+                },
+                {
+                    "description": "material",
+                    "mid": "/m/01l0y0",
+                    "score": 0.53255886
+                },
+                {
+                    "description": "ceramic",
+                    "mid": "/m/01x5q",
+                    "score": 0.5095784
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

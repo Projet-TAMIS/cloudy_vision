@@ -1,0 +1,50 @@
+{
+    "adult": {
+        "adultScore": 0.04032180830836296,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.051867932081222534
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.30859375
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "307E9C",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Green"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.08397807290353183,
+                "text": "a person on a surf board in a skate park"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "57ea127d-b945-4542-90ce-4a7afbcd5782",
+    "response_time": 3.0186309814453125,
+    "tags": []
+}

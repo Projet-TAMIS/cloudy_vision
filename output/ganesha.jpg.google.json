@@ -1,0 +1,60 @@
+{
+    "response_time": 1.3229341506958008,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "sculpture",
+                    "mid": "/m/06msq",
+                    "score": 0.9369885
+                },
+                {
+                    "description": "statue",
+                    "mid": "/m/013_1c",
+                    "score": 0.8480687
+                },
+                {
+                    "description": "carving",
+                    "mid": "/m/0jwzhtg",
+                    "score": 0.82065547
+                },
+                {
+                    "description": "stone carving",
+                    "mid": "/m/02wtjj",
+                    "score": 0.8112333
+                },
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.7842606
+                },
+                {
+                    "description": "monument",
+                    "mid": "/m/02ljgl",
+                    "score": 0.685624
+                },
+                {
+                    "description": "wood",
+                    "mid": "/m/083vt",
+                    "score": 0.61542284
+                },
+                {
+                    "description": "temple",
+                    "mid": "/m/08g_yr",
+                    "score": 0.582754
+                },
+                {
+                    "description": "ancient history",
+                    "mid": "/m/0djmp",
+                    "score": 0.5585254
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

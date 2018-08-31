@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "plush (fabric for toys)",
+                            "score": 0.661
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.723
+                        },
+                        {
+                            "class": "Welsh corgi",
+                            "score": 0.578,
+                            "type_hierarchy": "/domestic animal/dog/Welsh corgi"
+                        },
+                        {
+                            "class": "dog",
+                            "score": 0.618
+                        },
+                        {
+                            "class": "domestic animal",
+                            "score": 0.681
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.682
+                        },
+                        {
+                            "class": "toy",
+                            "score": 0.555,
+                            "type_hierarchy": "/device/toy"
+                        },
+                        {
+                            "class": "device",
+                            "score": 0.555
+                        },
+                        {
+                            "class": "felt",
+                            "score": 0.532,
+                            "type_hierarchy": "/fabric/felt"
+                        },
+                        {
+                            "class": "pepper shaker",
+                            "score": 0.53
+                        },
+                        {
+                            "class": "azure color",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.713
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/toy_cow1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 4.269668102264404
+}

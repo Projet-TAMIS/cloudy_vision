@@ -1,0 +1,75 @@
+{
+    "adult": {
+        "adultScore": 0.03682810440659523,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0303252711892128
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.83984375
+        }
+    ],
+    "color": {
+        "accentColor": "8C6F3F",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Brown",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.04530035585549523,
+                "text": "a close up of a person holding a mouse"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "person",
+            "sitting",
+            "table",
+            "holding",
+            "desk",
+            "man",
+            "black",
+            "computer",
+            "front",
+            "cat",
+            "standing",
+            "blue",
+            "laptop",
+            "room",
+            "woman",
+            "white",
+            "phone",
+            "mouse"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3264,
+        "width": 2448
+    },
+    "requestId": "1f1952ed-ad09-4720-8254-71f6907dd6ff",
+    "response_time": 6.713361024856567,
+    "tags": [
+        {
+            "confidence": 0.9755728840827942,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9340800046920776,
+            "name": "person"
+        }
+    ]
+}

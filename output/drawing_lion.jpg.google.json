@@ -1,0 +1,30 @@
+{
+    "response_time": 1.146233081817627,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "line art",
+                    "mid": "/m/0919rx",
+                    "score": 0.91975945
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.84786505
+                },
+                {
+                    "description": "illustration",
+                    "mid": "/m/01kr8f",
+                    "score": 0.50678873
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "POSSIBLE",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}
